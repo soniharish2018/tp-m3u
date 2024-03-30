@@ -5110,13 +5110,6 @@ https://delta45tatasky.akamaized.net/out/i/1327.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2109
-#EXTINF:-1 tvg-id="ts8" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a2c5625a16ee72e905/images/144.webp" group-title="🎭 Entertainment",Star Plus HD
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-se_key={"keys":[{"kty":"oct","k":"aK6UuvxcTGty5QKGkcSztA","kid":"0ncYKjXzON6sImvUKTAncQ"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yJo8iMpm9QPVqAF0LBKBwA","kid":"XC9N+Q4aN26QVknAW1Jk+g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="9" group-title="🎭 Entertainment"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a2c5625a16ee72e905/images/144.webp",Star Plus HD
 https://livea.streamready.in/starplushd/smil:common.smil/manifest.mpd
@@ -5336,3 +5329,265 @@ https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_504/output/manifes
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64523-krkg6p88-v1/imageContent-64523-krkg6p88-m1.png" group-title="🎭 Entertainment",Green Chillies TV
 https://rftv.wtf/tp/tplay.mpd?contentID=931
 https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/manifest.mpd
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2120
+#EXTINF:-1 tvg-id="ts" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eecefe0772265fedb9c6/images/202.webp" group-title="🎬 Movies",&flix __ HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2107
+#EXTINF:-1 tvg-id="ts245" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4a3033abf53d08e9137/images/252.webp" group-title="🎬 Movies",Star Gold HD
+https://livea.streamready.in/stargoldhd/smil:common.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ts245" tvg-logo="" group-title="🎬 Movies",Star Gold Romance
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=156033&extension=ts
+
+#EXTINF:-1 tvg-id="ts245" tvg-logo="" group-title="🎬 Movies",Star Gold Romance
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=156033&extension=ts
+
+#EXTINF:-1 tvg-id="ts245" tvg-logo="" group-title="🎬 Movies",M
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2123
+#EXTINF:-1 tvg-id="ts245" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f159dc5dfc4403f7be15/images/187.webp" group-title="🎬 Movies",Star Gold
+https://livea.streamready.in/stargold/smil:common.smil/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2118
+#EXTINF:-1 tvg-id="ts132" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1fd033abf53d08e75ac/images/97221101.webp" group-title="🎬 Movies",SONY Max
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+1EDDFEF&profile=pass
+
+
+#EXTINF:-1 tvg-id="ts632" tvg-logo="https://i.ibb.co/kJCTGhg/CC-20221111-203447.png" group-title="🎬 Movies",STAR GOLD2 HD
+http://sansat.net:88/02048081503032/02048081503032/96343
+
+#EXTINF:-1 tvg-id="ts632" group-title="🎬 Movies" tvg-name="Star Gold Select HD" tvg-logo="https://i.ibb.co/YXvncZy/CC-20221111-203628.png",Star Gold Select
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+
+#EXTINF:-1 tvg-id="ts632" group-title="🎬 Movies" tvg-name="Star Movies HD" tvg-logo="https://i.postimg.cc/WpxKWWB0/image.jpg",Star Movies HD
+http://sansat.net:88/02048081503032/02048081503032/93668
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=486&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43899-jyofyk1s-v4/imageContent-43899-jyofyk1s-m4.png" group-title="🎬 Movies",Tata Play Bollywood Premiere
+https://rftv.wtf/tp/tplay.mpd?contentID=486
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_792/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=789&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="🎬 Movies",Tata Play Hollywood Local
+https://rftv.wtf/tp/tplay.mpd?contentID=789
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_980/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=245&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="🎬 Movies",STAR GOLD HD
+https://rftv.wtf/tp/tplay.mpd?contentID=245
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=80&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="🎬 Movies",SONY MAX HD
+https://rftv.wtf/tp/tplay.mpd?contentID=80
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=132&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="🎬 Movies",SONY  MAX
+https://rftv.wtf/tp/tplay.mpd?contentID=132
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_198/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=741&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44333-jz3hpme0-v4/imageContent-44333-jz3hpme0-m8.png" group-title="🎬 Movies",Tata Play Classic Cinema
+https://rftv.wtf/tp/tplay.mpd?contentID=741
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1630/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=503&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="🎬 Movies",Zee Cinema HD
+https://rftv.wtf/tp/tplay.mpd?contentID=503
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=123&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png" group-title="🎬 Movies",Zee Cinema
+https://rftv.wtf/tp/tplay.mpd?contentID=123
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=175&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="🎬 Movies",Zee Bollywood
+https://rftv.wtf/tp/tplay.mpd?contentID=175
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=727&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png" group-title="🎬 Movies",Zee Classic
+https://rftv.wtf/tp/tplay.mpd?contentID=727
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=666&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png" group-title="🎬 Movies",Tata Play Theatre HD
+https://rftv.wtf/tp/tplay.mpd?contentID=666
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=267&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="🎬 Movies",&amp;pictures HD
+https://rftv.wtf/tp/tplay.mpd?contentID=267
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=148&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="🎬 Movies",&amp;pictures
+https://rftv.wtf/tp/tplay.mpd?contentID=148
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=677&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34170-jok0hf00-v7/imageContent-34170-jok0hf00-m8.PNG" group-title="🎬 Movies",Tata Play ShortsTV
+https://rftv.wtf/tp/tplay.mpd?contentID=677
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_902/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=53&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png" group-title="🎬 Movies",Colors Cineplex
+https://rftv.wtf/tp/tplay.mpd?contentID=53
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=61&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="🎬 Movies",Colors Cineplex HD
+https://rftv.wtf/tp/tplay.mpd?contentID=61
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=56&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="🎬 Movies",Sony Wah
+https://rftv.wtf/tp/tplay.mpd?contentID=56
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=100&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png" group-title="🎬 Movies",Zee Action
+https://rftv.wtf/tp/tplay.mpd?contentID=100
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_205/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=7&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="🎬 Movies",B4U Movies
+https://rftv.wtf/tp/tplay.mpd?contentID=7
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=182&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png" group-title="🎬 Movies",Cinema TV India
+https://rftv.wtf/tp/tplay.mpd?contentID=182
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_357/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=276&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png" group-title="🎬 Movies",WoW Cinema One
+https://rftv.wtf/tp/tplay.mpd?contentID=276
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=120&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="🎬 Movies",SONY MAX 2
+https://rftv.wtf/tp/tplay.mpd?contentID=120
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=194&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png" group-title="🎬 Movies",Dangal 2
+https://rftv.wtf/tp/tplay.mpd?contentID=194
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_358/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=64&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" group-title="🎬 Movies",Zee Anmol Cinema
+https://rftv.wtf/tp/tplay.mpd?contentID=64
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=296&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png" group-title="🎬 Movies",BFLIX
+https://rftv.wtf/tp/tplay.mpd?contentID=296
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=731&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png" group-title="🎬 Movies",Manoranjan TV
+https://rftv.wtf/tp/tplay.mpd?contentID=731
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=965&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png" group-title="🎬 Movies",Manoranjan Grand
+https://rftv.wtf/tp/tplay.mpd?contentID=965
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=173&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="🎬 Movies",Movies Now
+https://rftv.wtf/tp/tplay.mpd?contentID=173
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=234&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1017-j5ngpo2g-v1/imageContent-1017-j5ngpo2g-m1.png" group-title="🎬 Movies",MNX
+https://rftv.wtf/tp/tplay.mpd?contentID=234
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=32&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="🎬 Movies",SONY PIX HD
+https://rftv.wtf/tp/tplay.mpd?contentID=32
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=558&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png" group-title="🎬 Movies",SONY PIX
+https://rftv.wtf/tp/tplay.mpd?contentID=558
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=562&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" group-title="🎬 Movies",Movies Now HD
+https://rftv.wtf/tp/tplay.mpd?contentID=562
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=210&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png" group-title="🎬 Movies",MN+ HD
+https://rftv.wtf/tp/tplay.mpd?contentID=210
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=599&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" group-title="🎬 Movies",MNX HD
+https://rftv.wtf/tp/tplay.mpd?contentID=599
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=174&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png" group-title="🎬 Movies",Romedy Now
+https://rftv.wtf/tp/tplay.mpd?contentID=174
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=899&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62150-knicubns-v2/imageContent-62150-knicubns-m2.png" group-title="🎬 Movies",Pasand
+https://rftv.wtf/tp/tplay.mpd?contentID=899
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd
