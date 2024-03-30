@@ -6205,3 +6205,484 @@ https://delta45tatasky.akamaized.net/out/i/1310.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/UBANTV_Thumbnail-v1/UBANTV_Thumbnail.png" group-title="🌟 Regional Hindi",U Bangla TV
 https://rftv.wtf/tp/tplay.mpd?contentID=1080
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2122
+#EXTINF:-1 tvg-id="ts104" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bff251545a0652105dfd/images/546.webp" group-title="📰 News",India TV
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2125
+#EXTINF:-1 tvg-id="ts259" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797945a8676a17df1036cd/images/583.webp" group-title="📰 News",Zee News
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2130
+#EXTINF:-1 tvg-id="ts696" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978cea9540e6b3ede3fb6/images/8.webp" group-title="📰 News",R Bharat
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=691&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34886-jqc7dybs-v2/imageContent-34886-jqc7dybs-m2.png" group-title="📰 News",DD News HD
+https://rftv.wtf/tp/tplay.mpd?contentID=691
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=322&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11333-j9joxlw8-v2/imageContent-11333-j9joxlw8-m2.png" group-title="📰 News",DD News
+https://rftv.wtf/tp/tplay.mpd?contentID=322
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=177&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png" group-title="📰 News",ABP News
+https://rftv.wtf/tp/tplay.mpd?contentID=177
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=179&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png" group-title="📰 News",NDTV India
+https://rftv.wtf/tp/tplay.mpd?contentID=179
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=689&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="📰 News",Aaj Tak HD
+https://rftv.wtf/tp/tplay.mpd?contentID=689
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=153&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png" group-title="📰 News",Aaj Tak
+https://rftv.wtf/tp/tplay.mpd?contentID=153
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=259&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png" group-title="📰 News",Zee News
+https://rftv.wtf/tp/tplay.mpd?contentID=259
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=104&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8568-j7lnde80-v1/imageContent-8568-j7lnde80-m1.png" group-title="📰 News",India TV
+https://rftv.wtf/tp/tplay.mpd?contentID=104
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=209&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-849-j5m9tmf4-v1/imageContent-849-j5m9tmf4-m1.png" group-title="📰 News",News 24
+https://rftv.wtf/tp/tplay.mpd?contentID=209
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_308/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=106&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png" group-title="📰 News",News18 India
+https://rftv.wtf/tp/tplay.mpd?contentID=106
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_149/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=514&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png" group-title="📰 News",Zee Hindustan
+https://rftv.wtf/tp/tplay.mpd?contentID=514
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=183&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-774-j5m3h6nk-v1/imageContent-774-j5m3h6nk-m1.png" group-title="📰 News",India News
+https://rftv.wtf/tp/tplay.mpd?contentID=183
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_150/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=36&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-114-j5fl632o-v1/imageContent-114-j5fl632o-m1.png" group-title="📰 News",News Nation
+https://rftv.wtf/tp/tplay.mpd?contentID=36
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_309/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=485&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11859-j9l2n36w-v2/imageContent-11859-j9l2n36w-m2.png" group-title="📰 News",TOTAL TV
+https://rftv.wtf/tp/tplay.mpd?contentID=485
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_785/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=932&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png" group-title="📰 News",Times Now Navbharat HD
+https://rftv.wtf/tp/tplay.mpd?contentID=932
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=966&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67796-kx7lokw8-v2/imageContent-67796-kx7lokw8-m4.png" group-title="📰 News",Times Now Navbharat
+https://rftv.wtf/tp/tplay.mpd?contentID=966
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=831&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55547-kdzeosow-v3/imageContent-55547-kdzeosow-m6.png" group-title="📰 News",News India 24x7
+https://rftv.wtf/tp/tplay.mpd?contentID=831
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1125/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=475&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11831-j9kzkn40-v1/imageContent-11831-j9kzkn40-m1.png" group-title="📰 News",Sudarshan News
+https://rftv.wtf/tp/tplay.mpd?contentID=475
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_754/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=286&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17573-jclve4rc-v1/imageContent-17573-jclve4rc-m1.png" group-title="📰 News",APN News
+https://rftv.wtf/tp/tplay.mpd?contentID=286
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_459/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=950&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66223-ku9gfjug-v1/imageContent-66223-ku9gfjug-m1.png" group-title="📰 News",ET Now Swadesh
+https://rftv.wtf/tp/tplay.mpd?contentID=950
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1781/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=685&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34516-jp9bj0qg-v4/imageContent-34516-jp9bj0qg-m4.png" group-title="📰 News",India Voice
+https://rftv.wtf/tp/tplay.mpd?contentID=685
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=414&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11634-j9k0pbr4-v1/imageContent-11634-j9k0pbr4-m1.png" group-title="📰 News",News 1 India
+https://rftv.wtf/tp/tplay.mpd?contentID=414
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_658/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=344&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11467-j9jr3k80-v2/imageContent-11467-j9jr3k80-m2.png" group-title="📰 News",Hindi Khabar
+https://rftv.wtf/tp/tplay.mpd?contentID=344
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=291&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11243-j9itj54w-v2/imageContent-11243-j9itj54w-m2.png" group-title="📰 News",Bharat Samachar
+https://rftv.wtf/tp/tplay.mpd?contentID=291
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_475/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=384&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11527-j9jtx9hk-v2/imageContent-11527-j9jtx9hk-m2.png" group-title="📰 News",Khabarain Abhi Tak
+https://rftv.wtf/tp/tplay.mpd?contentID=384
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_596/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=441&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11719-j9ktg6ds-v2/imageContent-11719-j9ktg6ds-m2.png" group-title="📰 News",Samay
+https://rftv.wtf/tp/tplay.mpd?contentID=441
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_703/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=848&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56488-kfgbqzso-v3/imageContent-56488-kfgbqzso-m5.png" group-title="📰 News",Network 10
+https://rftv.wtf/tp/tplay.mpd?contentID=848
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1136/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=869&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58484-kixj8h6o-v3/imageContent-58484-kixj8h6o-m2.png" group-title="📰 News",Prime News
+https://rftv.wtf/tp/tplay.mpd?contentID=869
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1145/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=260&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11120-j95jyuao-v1/imageContent-11120-j95jyuao-m1.png" group-title="📰 News",Zee Business
+https://rftv.wtf/tp/tplay.mpd?contentID=260
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=278&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11206-j9icarsw-v2/imageContent-11206-j9icarsw-m2.png" group-title="📰 News",Good News Today
+https://rftv.wtf/tp/tplay.mpd?contentID=278
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=204&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png" group-title="📰 News",CNBC Awaaz
+https://rftv.wtf/tp/tplay.mpd?contentID=204
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=213&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-825-j5m9c6c0-v2/imageContent-825-j5m9c6c0-m2.png" group-title="📰 News",Sansad TV
+https://rftv.wtf/tp/tplay.mpd?contentID=213
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_281/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=212&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-858-j5ma94ag-v2/imageContent-858-j5ma94ag-m2.png" group-title="📰 News",Sansad TV - Rajya Sabha
+https://rftv.wtf/tp/tplay.mpd?contentID=212
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_311/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=208&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png" group-title="📰 News",NDTV 24x7
+https://rftv.wtf/tp/tplay.mpd?contentID=208
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_107/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=547&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11853-j9l1tvhs-v4/imageContent-11853-j9l1tvhs-m5.png" group-title="📰 News",Times Now World
+https://rftv.wtf/tp/tplay.mpd?contentID=547
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=90&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-303-j5ji8zco-v3/imageContent-303-j5ji8zco-m3.png" group-title="📰 News",TIMES NOW
+https://rftv.wtf/tp/tplay.mpd?contentID=90
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png" group-title="📰 News",INDIA TODAY
+https://rftv.wtf/tp/tplay.mpd?contentID=1
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=206&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-843-j5m9oyzc-v1/imageContent-843-j5m9oyzc-m1.png" group-title="📰 News",CNN News18
+https://rftv.wtf/tp/tplay.mpd?contentID=206
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_108/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=591&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12189-j9plqlf4-v1/imageContent-12189-j9plqlf4-m1.png" group-title="📰 News",MIRROR NOW
+https://rftv.wtf/tp/tplay.mpd?contentID=591
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_615/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=255&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png" group-title="📰 News",WION
+https://rftv.wtf/tp/tplay.mpd?contentID=255
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_422/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=72&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png" group-title="📰 News",REPUBLIC TV
+https://rftv.wtf/tp/tplay.mpd?contentID=72
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_394/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=304&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png" group-title="📰 News",CNBC TV18 Prime HD
+https://rftv.wtf/tp/tplay.mpd?contentID=304
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=324&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11344-j9jpg7nc-v1/imageContent-11344-j9jpg7nc-m1.png" group-title="📰 News",DD India
+https://rftv.wtf/tp/tplay.mpd?contentID=324
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=93&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-294-j5ji8n08-v1/imageContent-294-j5ji8n08-m1.png" group-title="📰 News",NDTV Profit Prime
+https://rftv.wtf/tp/tplay.mpd?contentID=93
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=168&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-731-j5l3muhs-v1/imageContent-731-j5l3muhs-m1.png" group-title="📰 News",CNBC-TV18
+https://rftv.wtf/tp/tplay.mpd?contentID=168
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_109/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=88&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png" group-title="📰 News",ET NOW
+https://rftv.wtf/tp/tplay.mpd?contentID=88
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=243&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-4154-j69pdmvk-v1/imageContent-4154-j69pdmvk-m1.png" group-title="📰 News",CNN
+https://rftv.wtf/tp/tplay.mpd?contentID=243
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_410/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=188&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png" group-title="📰 News",BBC News
+https://rftv.wtf/tp/tplay.mpd?contentID=188
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_151/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=190&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png" group-title="📰 News",Al Jazeera
+https://rftv.wtf/tp/tplay.mpd?contentID=190
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_187/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=157&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-548-j5kxtaig-v1/imageContent-548-j5kxtaig-m1.png" group-title="📰 News",Channel News Asia
+https://rftv.wtf/tp/tplay.mpd?contentID=157
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_220/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=131&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-435-j5jsyz6o-v1/imageContent-435-j5jsyz6o-m1.png" group-title="📰 News",France 24
+https://rftv.wtf/tp/tplay.mpd?contentID=131
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_241/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=65&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-204-j5ftndtc-v1/imageContent-204-j5ftndtc-m1.png" group-title="📰 News",TV5 Monde Asie
+https://rftv.wtf/tp/tplay.mpd?contentID=65
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_377/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=60&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-186-j5fsr1go-v1/imageContent-186-j5fsr1go-m1.png" group-title="📰 News",DW
+https://rftv.wtf/tp/tplay.mpd?contentID=60
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=105&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-324-j5jl5hp4-v2/imageContent-324-j5jl5hp4-m2.png" group-title="📰 News",Australia TV
+https://rftv.wtf/tp/tplay.mpd?contentID=105
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_239/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=98&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-312-j5jjsfhs-v1/imageContent-312-j5jjsfhs-m1.png" group-title="📰 News",Russia Today
+https://rftv.wtf/tp/tplay.mpd?contentID=98
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_238/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=976&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69827-l1dh5izk-v1/imageContent-69827-l1dh5izk-m1.png" group-title="📰 News",NHK World Japan
+https://rftv.wtf/tp/tplay.mpd?contentID=976
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1804/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=637&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21315-je85i72w-v1/imageContent-21315-je85i72w-m5.png" group-title="📰 News",Zee Uttar Pradesh Uttarakhand
+https://rftv.wtf/tp/tplay.mpd?contentID=637
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_874/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=30&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9007-j7ss7x80-v1/imageContent-9007-j7ss7x80-m1.png" group-title="📰 News",India News UP UK
+https://rftv.wtf/tp/tplay.mpd?contentID=30
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_361/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=613&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12252-j9qrkgu8-v3/imageContent-12252-j9qrkgu8-m2.png" group-title="📰 News",News State UP Uttarakhand
+https://rftv.wtf/tp/tplay.mpd?contentID=613
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=222&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8971-j7rffd40-v1/imageContent-8971-j7rffd40-m1.png" group-title="📰 News",India News MP CG
+https://rftv.wtf/tp/tplay.mpd?contentID=222
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=643&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31191-jldnwhhs-v1/imageContent-31191-jldnwhhs-m1.png" group-title="📰 News",News State MP CG
+https://rftv.wtf/tp/tplay.mpd?contentID=643
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_878/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=577&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12143-j9p7vx9c-v1/imageContent-12143-j9p7vx9c-m1.png" group-title="📰 News",Swaraj Express SMBC
+https://rftv.wtf/tp/tplay.mpd?contentID=577
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=902&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62181-knrp5974-v1/imageContent-62181-knrp5974-m1.png" group-title="📰 News",News 24 Madhyapradesh Chattisgarh
+https://rftv.wtf/tp/tplay.mpd?contentID=902
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1310/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=14&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9012-j7ssufeo-v1/imageContent-9012-j7ssufeo-m1.png" group-title="📰 News",India News Rajasthan
+https://rftv.wtf/tp/tplay.mpd?contentID=14
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=5&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-10-j5f7xqxc-v1/imageContent-10-j5f7xqxc-m1.png" group-title="📰 News",Patrika TV Rajasthan
+https://rftv.wtf/tp/tplay.mpd?contentID=5
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_399/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=890&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png" group-title="📰 News",Republic Bangla
+https://rftv.wtf/tp/tplay.mpd?contentID=890
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1301/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=891&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61443-kmbf79yw-v1/imageContent-61443-kmbf79yw-m1.png" group-title="📰 News",Mantavya News
+https://rftv.wtf/tp/tplay.mpd?contentID=891
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1302/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1087&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRVEG_Thumbnail-v3/PRVEG_Thumbnail.png" group-title="📰 News",PRAVEG
+https://rftv.wtf/tp/tplay.mpd?contentID=1087
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1899/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=232&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v2/imageContent-1011-j5ng33kg-m2.png" group-title="📰 News",News18 Punjab Haryana
+https://rftv.wtf/tp/tplay.mpd?contentID=232
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_313/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=13&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8968-j7rcix2w-v1/imageContent-8968-j7rcix2w-m1.png" group-title="📰 News",India News Haryana
+https://rftv.wtf/tp/tplay.mpd?contentID=13
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_280/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=401&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11587-j9jyvxl4-v1/imageContent-11587-j9jyvxl4-m1.png" group-title="📰 News",MH One News
+https://rftv.wtf/tp/tplay.mpd?contentID=401
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_626/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=371&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11502-j9jtlmi8-v3/imageContent-11502-j9jtlmi8-m4.png" group-title="📰 News",Janta TV
+https://rftv.wtf/tp/tplay.mpd?contentID=371
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=893&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61633-kmlgwaww-v1/imageContent-61633-kmlgwaww-m2.png" group-title="📰 News",Valam TV
+https://rftv.wtf/tp/tplay.mpd?contentID=893
+https://delta45tatasky.akamaized.net/out/i/1223.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=910&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62607-koxuikrs-v1/imageContent-62607-koxuikrs-m1.png" group-title="📰 News",C News Bharat
+https://rftv.wtf/tp/tplay.mpd?contentID=910
+https://cable18tataplay.akamaized.net/cnews/cnews/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=892&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61629-kmlgw3yw-v2/imageContent-61629-kmlgw3yw-m5.png" group-title="📰 News",Samara News
+https://rftv.wtf/tp/tplay.mpd?contentID=892
+https://delta45tatasky.akamaized.net/out/i/767.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1079&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TTN24_Thumbnail-v2/TTN24_Thumbnail.png" group-title="📰 News",TTN 24
+https://rftv.wtf/tp/tplay.mpd?contentID=1079
+https://delta45tatasky.akamaized.net/out/i/1327.mpd
