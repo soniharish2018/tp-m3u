@@ -1,3 +1,5 @@
+const data = require('./data.json')
+
 const from = `#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/YkVLM5z/Screenshot-2024-03-29-194944.png" group-title="IPL 2024",Star 4K
 https://toxicify.pro/stalker/jio.m3u8?id=18855
 
@@ -14273,16 +14275,20 @@ https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/manifest.mpd
 `;
 
 const convertFunction = () => {
-    return from.split("####").map(x => {
-        const title = x.replaceAll('\n', '').split('" ').find(x => x.includes('group-title'))
-        const titleLowerCase = title?.toLowerCase().split('=')[1]
-        const getToValue = convertFunctionTo().find(x => x.title === titleLowerCase)
-        // console.log('>> getToValue', getToValue);
-        const workingURL = x.replaceAll('\n', '').split('"-"')
+    console.log('>> data', data);
+    return data.data.channels.map(x => {
+        // console.log('>> x', x);
+        const title = x.name;
+        // x.replaceAll('\n', '').split('" ').find(x => x.includes('group-title'))
+        const titleLowerCase = title?.toLowerCase()
+        // console.log('>> titleLowerCase', titleLowerCase);
+        const getToValue = convertFunctionTo().find(x => x.title?.includes(titleLowerCase))
+        const workingURL = x.stream_url
         if (getToValue) {
-            console.log('>> workingURL', workingURL[workingURL.length - 2], workingURL[workingURL.length - 1].substr(0, workingURL[workingURL.length - 1].length - 4));
-            getToValue.value.splice(3, 2, workingURL[workingURL.length - 2], workingURL[workingURL.length - 1].substr(0, workingURL[workingURL.length - 1].length - 4))
-            console.log('>> getToValue', getToValue);
+            // console.log('>> workingURL', workingURL);
+            getToValue.value.splice(3, 2, workingURL)
+            // console.log('>> getToValue', getToValue);
+            // console.log('>> getToValue', getToValue);
             // console.log('>> getToValue', );
             // console.log('>> getToValue', getToValue);
             // console.log('>> titleLowerCase', titleLowerCase);
@@ -14300,7 +14306,7 @@ const convertFunctionTo = () => {
     return to.split('-------').map(x => {
         const title = x.replaceAll('\n', '').split('" ').find(x => x.includes('group-title'))?.toLowerCase().split('=')[1]
         const value = x.replaceAll('\n', '"-"').split('"-"').filter(x => x.length > 1)
-
+        // console.log('>> title', title);
         // console.log('>> title', title);
         return {
             title: title,
@@ -14322,6 +14328,8 @@ const fs = require('fs');
 const lines = convertFunction().map(x => {
     return x.getToValue.join('\n')
 })
+
+console.log('>> lines', lines);
 
 // Specify the file name (without extension)
 const filename = "myfile";
