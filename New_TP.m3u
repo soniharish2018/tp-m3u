@@ -62,8 +62,8 @@ https://toxicify.pro/peace/kfc/959.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://toxicify.pro/JT/Tkeys.php?id=8
-https://toxicify.pro/peace/kfc/8.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yJo8iMpm9QPVqAF0LBKBwA","kid":"XC9N+Q4aN26QVknAW1Jk+g"}],"type":"temporary"}
+https://livea.streamready.in/starplushd/smil:common.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="Toxic244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="🎭 Entertainment", Star Bharat HD
 #KODIPROP:inputstream=inputstream.adaptive
