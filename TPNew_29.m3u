@@ -358,6 +358,12 @@ https://rftv.wtf/tp/tplay.mpd?contentID=7
 https://rftv.wtf/tp/tplay.mpd?contentID=182
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1183&key
+#EXTINF:-1 tvg-id=ts1183 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="🎬 Movies",&Xplor HD
+https://rftv.wtf/tp/tplay.mpd?contentID=1183
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=276&key
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png" group-title="🎬 Movies",WoW Cinema One
 https://rftv.wtf/tp/tplay.mpd?contentID=276
