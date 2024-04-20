@@ -235,9 +235,10 @@ https://rftv.wtf/tp/tplay.mpd?contentID=316
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=406&key
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=1145&key
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="🎵 Music",MTV HD
-https://rftv.wtf/tp/tplay.mpd?contentID=406
+https://rftv.wtf/tp/jp.mpd?contentID=1145
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1671,9 +1672,17 @@ http://starshare.live:8080/live/282858528345/456759264236/4441.ts
 https://rftv.wtf/tp/tplay.mpd?contentID=406
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=103&key
-#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png" group-title="🎵 Music",MTV
-https://rftv.wtf/tp/tplay.mpd?contentID=103
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=248&key
+#EXTINF:-1 tvg-id=ts248 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="🎵 Music",MTV
+https://rftv.wtf/tp/jp.mpd?contentID=248
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/jp.php?contentID=753&key
+#EXTINF:-1 tvg-id=ts753 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="🎵 Music",MTV Beats HD
+https://rftv.wtf/tp/jp.mpd?contentID=753
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=139&key
