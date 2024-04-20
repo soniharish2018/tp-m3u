@@ -111,7 +111,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=557
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="🎭 Entertainment",Colors HD
-http://sansat.net:88/02048081503032/02048081503032/96190
+https://rftv.wtf/tp/jp.mpd?contentID=144
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
