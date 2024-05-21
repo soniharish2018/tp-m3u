@@ -59,12 +59,12 @@ https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd|c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=22
 https://delta31tatasky.akamaized.net/out/i/57073.mpd|cookie:hdntl=exp=1716367416~acl=%2f*~data=hdntl~hmac=e33f5b5c85f41e436ccdb5411345d7d1918bd8ff5feb914a0d5cf0cd9d8f8ff7
-#EXTINF:-1 tvg-id="121" group-title=💼 Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png",Tata Play Fitness
+#EXTINF:-1 tvg-id="121" group-title="💼 Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png",Tata Play Fitness
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=121
 https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/manifest.mpd|cookie:hdntl=exp=1716367416~acl=%2f*~data=hdntl~hmac=e33f5b5c85f41e436ccdb5411345d7d1918bd8ff5feb914a0d5cf0cd9d8f8ff7
-#EXTINF:-1 tvg-id="641" group-title=💼 Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png",Tata Play Cooking
+#EXTINF:-1 tvg-id="641" group-title="💼 Lifestyle" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png",Tata Play Cooking
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=641
@@ -74,7 +74,7 @@ https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd|c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=840
 https://delta45tatasky.akamaized.net/out/i/554.mpd|cookie:hdntl=exp=1716367416~acl=%2f*~data=hdntl~hmac=e33f5b5c85f41e436ccdb5411345d7d1918bd8ff5feb914a0d5cf0cd9d8f8ff7
-#EXTINF:-1 tvg-id="618" group-title=💼 Lifestyle" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png",Tata Play Beauty
+#EXTINF:-1 tvg-id="618" group-title="💼 Lifestyle" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png",Tata Play Beauty
 https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifest.mpd|cookie:hdntl=exp=1716367416~acl=%2f*~data=hdntl~hmac=e33f5b5c85f41e436ccdb5411345d7d1918bd8ff5feb914a0d5cf0cd9d8f8ff7
 #EXTINF:-1 tvg-id="15" group-title="🎭 Entertainment" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",SET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
