@@ -88,6 +88,10 @@ app.use("/play", async (req, res) => {
   return res.send(converter(playlist));
 });
 
+app.use("/play.m3u", async (req, res) => {
+  return res.send(converter(playlist));
+});
+
 app.use("/tp-new", async (req, res) => {
   const response = await Axios.get(
     "https://amitb3669.github.io/tataplay1063.m3u"
