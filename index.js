@@ -6,6 +6,8 @@ var app = express();
 const converter = (playls) => {
   let modify = playls.replaceAll('"Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
+modify = modify.replaceAll('"Sony Liv"', '"🎁 Sony Liv"');
+  
   modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('" Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"Spiritual"', '"🙏 Spiritual"');
