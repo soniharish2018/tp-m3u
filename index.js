@@ -1,120 +1,99 @@
-const Axios = require('axios');
-var express = require('express');
-const playlist = require('./playlist');
-var app = express()
+const Axios = require("axios");
+var express = require("express");
+const playlist = require("./playlist");
+var app = express();
 
+const converter = (playls) => {
+  let modify = playls.replaceAll('"Entertainment"', '"🎭 Entertainment"');
+  modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
+  modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
+  modify = modify.replaceAll('" Voot | Entertainment"', '"🎭 Entertainment"');
+  modify = modify.replaceAll('"Spiritual"', '"🙏 Spiritual"');
+  modify = modify.replaceAll('" Spiritual"', '"🙏 Spiritual"');
+  modify = modify.replaceAll('"Devotional"', '"🙏 Spiritual"');
+  modify = modify.replaceAll('"Jio Darshan"', '"🙏 Spiritual"');
+  modify = modify.replaceAll('"Music"', '"🎵 Music"');
+  modify = modify.replaceAll('"Voot | Music"', '"🎵 Music"');
+  modify = modify.replaceAll('" Music"', '"🎵 Music"');
+  modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
+  modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
+  modify = modify.replaceAll('"Regional Others"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional"', '"📂 Others"');
+  modify = modify.replaceAll('"Knowledge"', '"🧠 Knowledge"');
+  modify = modify.replaceAll('"Documentary  "', '"🧠 Knowledge"');
+  modify = modify.replaceAll('"Infotainment"', '"🧠 Knowledge"');
+  modify = modify.replaceAll('"Education"', '"🧠 Knowledge"');
+  modify = modify.replaceAll('" Knowledge"', '"🧠 Knowledge"');
+  modify = modify.replaceAll('"Voot | Kids"', '"🧒 Kids"');
+  modify = modify.replaceAll('"Kids"', '"🧒 Kids"');
+  modify = modify.replaceAll('" Kids"', '"🧒 Kids"');
+  modify = modify.replaceAll('"24X7 KIDS"', '"🧒 Kids"');
+  modify = modify.replaceAll('"Lifestyle"', '"💼 Lifestyle"');
+  modify = modify.replaceAll('" Lifestyle"', '"💼 Lifestyle"');
+  modify = modify.replaceAll('"Movies"', '"🎬 Movies"');
+  modify = modify.replaceAll('"Voot | Movies"', '"🎬 Movies"');
+  modify = modify.replaceAll('" Movies"', '"🎬 Movies"');
+  modify = modify.replaceAll('"Sports"', '"⚽ Sports"');
+  modify = modify.replaceAll('"Voot | Sports"', '"⚽ Sports"');
+  modify = modify.replaceAll('" Sports"', '"⚽ Sports"');
+  modify = modify.replaceAll('"News"', '"📰 News"');
+  modify = modify.replaceAll('"Voot | News"', '"📰 News"');
+  modify = modify.replaceAll('" News"', '"📰 News"');
+  modify = modify.replaceAll('" English News"', '"📰 News"');
+  modify = modify.replaceAll('"English News"', '"📰 News"');
+  modify = modify.replaceAll('"Business News"', '"📰 News"');
+  modify = modify.replaceAll('"Regional Kannada"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Marathi"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Marathi"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Bengali"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Bengali"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Telugu"', '"📂 Others"');
+  modify = modify.replaceAll('" Tamil"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Tamil"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Malayalam"', '"📂 Others"');
+  modify = modify.replaceAll('" Gujarati"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Gujarati"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Odia"', '"📂 Others"');
+  modify = modify.replaceAll('" Odia"', '"📂 Others"');
+  modify = modify.replaceAll('"Odia"', '"📂 Others"');
+  modify = modify.replaceAll('"Regional Punjabi"', '"📂 Others"');
+  modify = modify.replaceAll('" Alternative"', '"📂 Others"');
+  modify = modify.replaceAll('"Alternative"', '"📂 Others"');
+  modify = modify.replaceAll('"Voot | Business"', '"📂 Others"');
+  return modify;
+};
 
-app.use('/gen', async (req, res) => {
-    const response = await Axios.get('https://tpnext-tsadevil.vercel.app/api/harman-iptv');
-    console.log('>> response', response);
+app.use("/gen", async (req, res) => {
+  const response = await Axios.get(
+    "https://tpnext-tsadevil.vercel.app/api/harman-iptv"
+  );
+  console.log(">> response", response);
 
-    let modify = response.data.replaceAll('"Entertainment"', '"🎭 Entertainment"')
-    modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"')
-    modify = modify.replaceAll('"Spiritual"', '"🙏 Spiritual"')
-    modify = modify.replaceAll('" Spiritual"', '"🙏 Spiritual"')
-    modify = modify.replaceAll('"Music"', '"🎵 Music"')
-    modify = modify.replaceAll('" Music"', '"🎵 Music"')
-    modify = modify.replaceAll('"Hindi"', '"🌟 Hindi"')
-    modify = modify.replaceAll('" Hindi"', '"🌟 Hindi"')
-    modify = modify.replaceAll('"Others"', '"📂 Others"')
-    modify = modify.replaceAll('" Others"', '"📂 Others"')
-    modify = modify.replaceAll('"Knowledge"', '"🧠 Knowledge"')
-    modify = modify.replaceAll('" Knowledge"', '"🧠 Knowledge"')
-    modify = modify.replaceAll('"Kids"', '"🧒 Kids"')
-    modify = modify.replaceAll('" Kids"', '"🧒 Kids"')
-    modify = modify.replaceAll('"24X7 KIDS"', '"🧒 Kids"')
-    modify = modify.replaceAll('"Lifestyle"', '"💼 Lifestyle"')
-    modify = modify.replaceAll('" Lifestyle"', '"💼 Lifestyle"')
-    modify = modify.replaceAll('"Movies"', '"🎬 Movies"')
-    modify = modify.replaceAll('" Movies"', '"🎬 Movies"')
-    modify = modify.replaceAll('"Sports"', '"⚽ Sports"')
-    modify = modify.replaceAll('" Sports"', '"⚽ Sports"')
-    modify = modify.replaceAll('"News"', '"📰 News"')
-    modify = modify.replaceAll('" News"', '"📰 News"')
-    modify = modify.replaceAll('" English News"', '"📰 News"')
-    modify = modify.replaceAll('" Kannada"', '"📂 Others"')
-    modify = modify.replaceAll('" Marathi"', '"📂 Others"')
-    modify = modify.replaceAll('"Marathi"', '"📂 Others"')
-    modify = modify.replaceAll('" Bengali"', '"📂 Others"')
-    modify = modify.replaceAll('"Bengali"', '"📂 Others"')
-    modify = modify.replaceAll('" Telugu"', '"📂 Others"')
-    modify = modify.replaceAll('" Tamil"', '"📂 Others"')
-    modify = modify.replaceAll('"Tamil"', '"📂 Others"')
-    modify = modify.replaceAll('" Malayalam"', '"📂 Others"')
-    modify = modify.replaceAll('" Gujarati"', '"📂 Others"')
-    modify = modify.replaceAll('"Gujarati"', '"📂 Others"')
-    modify = modify.replaceAll('" Odia"', '"📂 Others"')
-    modify = modify.replaceAll('" Punjabi"', '"📂 Others"')
-    modify = modify.replaceAll('" Alternative"', '"📂 Others"')
-    modify = modify.replaceAll('"Alternative"', '"📂 Others"')
-    modify = modify + `
-
-    #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=80&key
-#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="🎬 Movies",Sony Max HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?type=ST
-
+  let modify = converter(response.data);
+  modify +
     `
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=80&key
+    #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="🎬 Movies",Sony Max HD
+    https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?type=ST
+    
+    `;
 
-    return res.send(modify)
+  return res.send(modify);
+});
 
-})
+app.use("/play", async (req, res) => {
+  return res.send(converter(playlist));
+});
 
-app.use('/play', async (req, res) => {
-    let modify = playlist.replaceAll('"Entertainment"', '"🎭 Entertainment"')
-    modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"')
-    modify = modify.replaceAll('"Spiritual"', '"🙏 Spiritual"')
-    modify = modify.replaceAll('" Spiritual"', '"🙏 Spiritual"')
-    modify = modify.replaceAll('"Devotional"', '"🙏 Spiritual"')
-    modify = modify.replaceAll('"Jio Darshan"', '"🙏 Spiritual"')
-    modify = modify.replaceAll('"Music"', '"🎵 Music"')
-    modify = modify.replaceAll('" Music"', '"🎵 Music"')
-    modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"')
-    modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"')
-    modify = modify.replaceAll('"Regional Others"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional"', '"📂 Others"')
-    modify = modify.replaceAll('"Knowledge"', '"🧠 Knowledge"')
-    modify = modify.replaceAll('"Infotainment"', '"🧠 Knowledge"')
-    modify = modify.replaceAll('"Education"', '"🧠 Knowledge"')
-    modify = modify.replaceAll('" Knowledge"', '"🧠 Knowledge"')
-    modify = modify.replaceAll('"Kids"', '"🧒 Kids"')
-    modify = modify.replaceAll('" Kids"', '"🧒 Kids"')
-    modify = modify.replaceAll('"24X7 KIDS"', '"🧒 Kids"')
-    modify = modify.replaceAll('"Lifestyle"', '"💼 Lifestyle"')
-    modify = modify.replaceAll('" Lifestyle"', '"💼 Lifestyle"')
-    modify = modify.replaceAll('"Movies"', '"🎬 Movies"')
-    modify = modify.replaceAll('" Movies"', '"🎬 Movies"')
-    modify = modify.replaceAll('"Sports"', '"⚽ Sports"')
-    modify = modify.replaceAll('" Sports"', '"⚽ Sports"')
-    modify = modify.replaceAll('"News"', '"📰 News"')
-    modify = modify.replaceAll('" News"', '"📰 News"')
-    modify = modify.replaceAll('" English News"', '"📰 News"')
-    modify = modify.replaceAll('"English News"', '"📰 News"')
-    modify = modify.replaceAll('"Business News"', '"📰 News"')
-    modify = modify.replaceAll('"Regional Kannada"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Marathi"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Marathi"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Bengali"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Bengali"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Telugu"', '"📂 Others"')
-    modify = modify.replaceAll('" Tamil"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Tamil"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Malayalam"', '"📂 Others"')
-    modify = modify.replaceAll('" Gujarati"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Gujarati"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Odia"', '"📂 Others"')
-    modify = modify.replaceAll('" Odia"', '"📂 Others"')
-    modify = modify.replaceAll('"Odia"', '"📂 Others"')
-    modify = modify.replaceAll('"Regional Punjabi"', '"📂 Others"')
-    modify = modify.replaceAll('" Alternative"', '"📂 Others"')
-    modify = modify.replaceAll('"Alternative"', '"📂 Others"')
-
-    return res.send(modify)
-
-})
-
+app.use("/tp-new", async (req, res) => {
+  const response = await Axios.get(
+    "https://amitb3669.github.io/tataplay1063.m3u"
+  );
+  return res.send(converter(response.data));
+});
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });
