@@ -1,13 +1,13 @@
 const Axios = require("axios");
 var express = require("express");
 const playlist = require("./playlist");
+const t20 = require("./t20");
 var app = express();
 
 const converter = (playls) => {
   let modify = playls.replaceAll('"Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
-modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
-  
+  modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('" Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"Spiritual"', '"🙏 Spiritual"');
@@ -15,17 +15,21 @@ modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('"Devotional"', '"🙏 Spiritual"');
   modify = modify.replaceAll('"Jio Darshan"', '"🙏 Spiritual"');
   modify = modify.replaceAll('"Music"', '"🎵 Music"');
+  modify = modify.replaceAll('"Food"', '"🍱 Food"');
   modify = modify.replaceAll('"Voot | Music"', '"🎵 Music"');
   modify = modify.replaceAll('" Music"', '"🎵 Music"');
+  modify = modify.replaceAll('"Music & Audio"', '"🎵 Music"');
   modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Regional Others"', '"📂 Others"');
   modify = modify.replaceAll('"Regional"', '"📂 Others"');
   modify = modify.replaceAll('"Others"', '"📂 Others"');
-    modify = modify.replaceAll('"Tamil"', '"📂 Others"');
-    modify = modify.replaceAll('" Malyalam"', '"📂 Others"');
+  modify = modify.replaceAll('"Tamil"', '"📂 Others"');
+  modify = modify.replaceAll('" Malyalam"', '"📂 Others"');
   modify = modify.replaceAll('"Regional"', '"📂 Others"');
   modify = modify.replaceAll('"Knowledge"', '"🧠 Knowledge"');
+  modify = modify.replaceAll('"Educational"', '"🧠 Knowledge"');
+  modify = modify.replaceAll('"Nature"', '"🧠 Knowledge"');
   modify = modify.replaceAll('"Documentary"', '"🧠 Knowledge"');
   modify = modify.replaceAll('"Infotainment"', '"🧠 Knowledge"');
   modify = modify.replaceAll('"Education"', '"🧠 Knowledge"');
@@ -33,6 +37,7 @@ modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('"Voot | Kids"', '"🧒 Kids"');
   modify = modify.replaceAll('"Kids"', '"🧒 Kids"');
   modify = modify.replaceAll('" Kids"', '"🧒 Kids"');
+  modify = modify.replaceAll('"Animation"', '"🧒 Kids"');
   modify = modify.replaceAll('"24X7 KIDS"', '"🧒 Kids"');
   modify = modify.replaceAll('"Lifestyle"', '"💼 Lifestyle"');
   modify = modify.replaceAll('" Lifestyle"', '"💼 Lifestyle"');
@@ -44,17 +49,22 @@ modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('" Sports"', '"⚽ Sports"');
   modify = modify.replaceAll('"News"', '"📰 News"');
   modify = modify.replaceAll('"Voot | News"', '"📰 News"');
+  modify = modify.replaceAll('"HD"', '"📰 News"');
   modify = modify.replaceAll('" News"', '"📰 News"');
   modify = modify.replaceAll('" English News"', '"📰 News"');
   modify = modify.replaceAll('"English News"', '"📰 News"');
   modify = modify.replaceAll('"Business News"', '"📰 News"');
+  modify = modify.replaceAll('"Business"', '"📰 News"');
+  modify = modify.replaceAll('"International News"', '"📰 News"');
   modify = modify.replaceAll('"Kannada"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Marathi"', '"📂 Others"');
-  modify = modify.replaceAll('"Regional Marathi"', '"📂 Others"');
-    modify = modify.replaceAll('"Marathi"', '"📂 Others"');
+  modify = modify.replaceAll('" Marathi"', '"📂 Others"');
+  modify = modify.replaceAll('"Marathi"', '"📂 Others"');
   modify = modify.replaceAll('" Bengali"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Bengali"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Telugu"', '"📂 Others"');
+  modify = modify.replaceAll('" Telugu"', '"📂 Others"');
+  modify = modify.replaceAll('"Telugu"', '"📂 Others"');
   modify = modify.replaceAll('"Tamil"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Tamil"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Malayalam"', '"📂 Others"');
@@ -67,6 +77,7 @@ modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('" Alternative"', '"📂 Others"');
   modify = modify.replaceAll('"Punjabi"', '"📂 Others"');
   modify = modify.replaceAll('"Alternative"', '"📂 Others"');
+  modify = modify.replaceAll('"Thriller"', '"📂 Others"');
   modify = modify.replaceAll('"Voot | Business"', '"📂 Others"');
   return modify;
 };
@@ -75,8 +86,6 @@ app.use("/gen", async (req, res) => {
   const response = await Axios.get(
     "https://tpnext-tsadevil.vercel.app/api/harman-iptv"
   );
-  console.log(">> response", response);
-
   let modify = converter(response.data);
   modify +
     `
@@ -94,9 +103,7 @@ app.use("/tp", async (req, res) => {
   const response = await Axios.get(
     "https://tataplay.firecaptain94.workers.dev"
   );
-  console.log(">> response", response);
-
-  let modify = converter(response.data);
+  let modify = converter(response.data + t20);
   modify +
     `
     #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -110,7 +117,7 @@ app.use("/tp", async (req, res) => {
 });
 
 app.use("/play", async (req, res) => {
-  return res.send(converter(playlist));
+  return res.send(converter(playlist + t20));
 });
 
 app.use("/play.m3u", async (req, res) => {
@@ -121,7 +128,7 @@ app.use("/tp-new", async (req, res) => {
   const response = await Axios.get(
     "https://amitb3669.github.io/tataplay1063.m3u"
   );
-  return res.send(converter(response.data));
+  return res.send(converter(response.data + t20));
 });
 
 const PORT = process.env.PORT || 3000;
