@@ -1,4 +1,4 @@
-export const t20 = `
+const t20 = `
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 #EXTINF:-1 tvg-id="78" group-title="T20 World Cup", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -89,3 +89,5 @@ http://sansat.net:25461/live/MRYKBE1UAO/7HZENYJUEN/102251.ts
 
 #EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" tvg-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" group-title="T20 World Cup",Ptv Sports HD
 http://sansat.net:25461/live/MRYKBE1UAO/7HZENYJUEN/93416.ts`;
+
+module.exports = t20;

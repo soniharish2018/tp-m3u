@@ -6,6 +6,7 @@ var app = express();
 
 const converter = (playls) => {
   let modify = playls.replaceAll('"Entertainment"', '"🎭 Entertainment"');
+  modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
@@ -20,6 +21,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('" Music"', '"🎵 Music"');
   modify = modify.replaceAll('"Music & Audio"', '"🎵 Music"');
   modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
+  modify = modify.replaceAll('"Hindi"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Regional Others"', '"📂 Others"');
   modify = modify.replaceAll('"Regional"', '"📂 Others"');
@@ -61,6 +63,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('" Marathi"', '"📂 Others"');
   modify = modify.replaceAll('"Marathi"', '"📂 Others"');
   modify = modify.replaceAll('" Bengali"', '"📂 Others"');
+  modify = modify.replaceAll('"Shopping"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Bengali"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Telugu"', '"📂 Others"');
   modify = modify.replaceAll('" Telugu"', '"📂 Others"');
