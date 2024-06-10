@@ -26,7 +26,7 @@ modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
     modify = modify.replaceAll('" Malyalam"', '"📂 Others"');
   modify = modify.replaceAll('"Regional"', '"📂 Others"');
   modify = modify.replaceAll('"Knowledge"', '"🧠 Knowledge"');
-  modify = modify.replaceAll('"Documentary  "', '"🧠 Knowledge"');
+  modify = modify.replaceAll('"Documentary"', '"🧠 Knowledge"');
   modify = modify.replaceAll('"Infotainment"', '"🧠 Knowledge"');
   modify = modify.replaceAll('"Education"', '"🧠 Knowledge"');
   modify = modify.replaceAll('" Knowledge"', '"🧠 Knowledge"');
@@ -48,24 +48,24 @@ modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('" English News"', '"📰 News"');
   modify = modify.replaceAll('"English News"', '"📰 News"');
   modify = modify.replaceAll('"Business News"', '"📰 News"');
-  modify = modify.replaceAll('" Kannada"', '"📂 Others"');
+  modify = modify.replaceAll('"Kannada"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Marathi"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Marathi"', '"📂 Others"');
-    modify = modify.replaceAll('" Marathi"', '"📂 Others"');
+    modify = modify.replaceAll('"Marathi"', '"📂 Others"');
   modify = modify.replaceAll('" Bengali"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Bengali"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Telugu"', '"📂 Others"');
-  modify = modify.replaceAll('" Tamil"', '"📂 Others"');
+  modify = modify.replaceAll('"Tamil"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Tamil"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Malayalam"', '"📂 Others"');
-  modify = modify.replaceAll('" Gujarati"', '"📂 Others"');
+  modify = modify.replaceAll('"Gujarati"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Gujarati"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Odia"', '"📂 Others"');
   modify = modify.replaceAll('" Odia"', '"📂 Others"');
   modify = modify.replaceAll('"Odia"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Punjabi"', '"📂 Others"');
   modify = modify.replaceAll('" Alternative"', '"📂 Others"');
-  modify = modify.replaceAll('" Punjabi"', '"📂 Others"');
+  modify = modify.replaceAll('"Punjabi"', '"📂 Others"');
   modify = modify.replaceAll('"Alternative"', '"📂 Others"');
   modify = modify.replaceAll('"Voot | Business"', '"📂 Others"');
   return modify;
@@ -74,6 +74,25 @@ modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
 app.use("/gen", async (req, res) => {
   const response = await Axios.get(
     "https://tpnext-tsadevil.vercel.app/api/harman-iptv"
+  );
+  console.log(">> response", response);
+
+  let modify = converter(response.data);
+  modify +
+    `
+    #KODIPROP:inputstream.adaptive.license_type=clearkey
+    #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=80&key
+    #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="🎬 Movies",Sony Max HD
+    https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?type=ST
+    
+    `;
+
+  return res.send(modify);
+});
+
+app.use("/tp", async (req, res) => {
+  const response = await Axios.get(
+    "https://tataplay.firecaptain94.workers.dev"
   );
   console.log(">> response", response);
 
