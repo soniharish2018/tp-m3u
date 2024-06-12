@@ -134,6 +134,13 @@ app.use("/tp-new", async (req, res) => {
   return res.send(converter(response.data + t20));
 });
 
+app.use("/tp-drm", async (req, res) => {
+  const response = await Axios.get(
+    "https://la.drmlive.au/tp/playlist.php"
+  );
+  return res.send(converter(response.data));
+});
+
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
