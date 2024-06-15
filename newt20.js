@@ -77,6 +77,13 @@ https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 
 
 #EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" tvg-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" group-title="T20 WC",Star 4K 
-http://176.119.29.52/live.ts?channelId=102423&uid=8164&deviceMac=00:1A:79:17:D4:A1`;
+http://176.119.29.52/live.ts?channelId=102423&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
+#EXTINF:-1 tvg-id="ardinesh-jiotv-portal-18594" tvg-logo="" group-title="CRICKET",T20 WORLD CUP 2024 4K UHD hevc
+https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/t20-world-cup-2024-4k-uhd-hevc/index.ts
+
+`;
+
+
 
 module.exports = new20;
