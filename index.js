@@ -6,6 +6,15 @@ var app = express();
 
 const converter = (playls) => {
   let modify = playls.replaceAll('"Entertainment"', '"🎭 Entertainment"');
+  modify = modify.replaceAll(
+    `#EXTINF:-1 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠"`,
+    ""
+  );
+  modify = modify.replaceAll(
+    `tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn`,
+    ""
+  );
+  modify = modify.replaceAll(`https://t.me/allinonereborn`, "");
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
@@ -128,7 +137,7 @@ app.use("/play.m3u", async (req, res) => {
 });
 
 app.use("/tp-new", async (req, res) => {
-  console.log('>> req.params.link', req.query);
+  console.log(">> req.params.link", req.query);
   const response = await Axios.get(
     `https://amitb3669.github.io/${req.query.link}`
   );
@@ -136,9 +145,7 @@ app.use("/tp-new", async (req, res) => {
 });
 
 app.use("/tp-drm", async (req, res) => {
-  const response = await Axios.get(
-    "https://la.drmlive.au/tp/playlist.php",
-  );
+  const response = await Axios.get("https://la.drmlive.au/tp/playlist.php");
   return res.send(converter(response.data));
 });
 
