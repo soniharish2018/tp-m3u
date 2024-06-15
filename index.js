@@ -175,7 +175,7 @@ app.use("/cap", async (req, res) => {
   const response = await Axios.get(
     `https://tataplay.firecaptain94.workers.dev/`
   );
-  return res.send(converter(response.data + zee_sony));
+  return res.send(converter(zee_sony + response.data));
 });
 
 app.use("/tp-drm", async (req, res) => {
