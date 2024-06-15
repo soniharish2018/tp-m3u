@@ -145,7 +145,17 @@ app.use("/tp-new", async (req, res) => {
 });
 
 app.use("/tp-drm", async (req, res) => {
-  const response = await Axios.get("https://la.drmlive.au/tp/playlist.php");
+  const config = {
+    ...req.headers,
+    maxRedirects: 1,
+    validateStatus: () => true,
+  };
+
+  const response = await Axios.get(
+    "https://la.drmlive.au/tp/playlist.php",
+    config
+  );
+  console.log(">> response", response);
   return res.send(converter(response.data));
 });
 
