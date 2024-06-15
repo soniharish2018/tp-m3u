@@ -2,6 +2,7 @@ const Axios = require("axios");
 var express = require("express");
 const playlist = require("./playlist");
 const t20 = require("./t20");
+const { zee_sony } = require("./zee_sony");
 var app = express();
 
 const converter = (playls) => {
@@ -168,6 +169,13 @@ app.use("/tp-new", async (req, res) => {
     `https://amitb3669.github.io/${req.query.link}.m3u`
   );
   return res.send(converter(response.data));
+});
+
+app.use("/cap", async (req, res) => {
+  const response = await Axios.get(
+    `https://tataplay.firecaptain94.workers.dev/`
+  );
+  return res.send(converter(response.data + zee_sony));
 });
 
 app.use("/tp-drm", async (req, res) => {
