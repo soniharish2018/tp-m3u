@@ -128,15 +128,16 @@ app.use("/play.m3u", async (req, res) => {
 });
 
 app.use("/tp-new", async (req, res) => {
+  console.log('>> req.params.link', req.query);
   const response = await Axios.get(
-    "https://amitb3669.github.io/tataplay1063.m3u"
+    `https://amitb3669.github.io/${req.query.link}`
   );
-  return res.send(converter(response.data + t20));
+  return res.send(converter(response.data));
 });
 
 app.use("/tp-drm", async (req, res) => {
   const response = await Axios.get(
-    "https://la.drmlive.au/tp/playlist.php"
+    "https://la.drmlive.au/tp/playlist.php",
   );
   return res.send(converter(response.data));
 });
