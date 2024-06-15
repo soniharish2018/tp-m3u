@@ -19,9 +19,6 @@ https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd?hdntl=exp=1718528377~acl=%2f*~data=hdntl~hmac=627f8ee0310738961ab3787404c74ace1c100261d2a04963e02772ea80a0d01a
 
-#EXTINF:-1 group-title="@PremiumByND" tvg-logo="https://img.icons8.com/?size=48&id=63306&format=png" group-logo="https://img.icons8.com/?size=48&id=63306&format=png", TG @PremiumByND
-https://manifest.premiumbynd.workers.dev/play.php?stream=manifest.mpd
-
 #EXTINF:-1 group-title="T20 WC" tvg-logo="https://img.icons8.com/?size=48&id=63306&format=png", -- @PremiumByND TG --
 https://manifest.premiumbynd.workers.dev/play.php?stream=manifest.mpd
 
