@@ -1,5 +1,4 @@
-const new20 = `
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="T20 WC" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png",Star Sports 1 HD
+const new20 = `#EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="T20 WC" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Pa1YCBEb/xa9Pa4s4EUtrg","kid":"lQ7+Ok4bVgK483F/cDWJfw"}],"type":"temporary"}
 #EXTHTTP:{"cookie":"hdntl=exp=1718528377~acl=%2f*~data=hdntl~hmac=627f8ee0310738961ab3787404c74ace1c100261d2a04963e02772ea80a0d01a"}
@@ -28,62 +27,50 @@ https://manifest.premiumbynd.workers.dev/play.php?stream=manifest.mpd
 
 #EXTINF:-1 tvg-id="824.astro" group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Astro Cricket
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=astrocricket
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 #EXTINF:-1 tvg-id="824.astro" group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Astro Cricket Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=plus
 https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 
 #EXTINF:-1 group-title="T20 WC" tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Willow HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=willowhd
 https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
 
 #EXTINF:-1 group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Prime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=prime
 https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd
 
 #EXTINF:-1 group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Prime FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=primefhd
 https://otte.live.ll.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zplbbf2zou/out/v1/6267ca3987e44a28b1f48e00919dc864/cenc.mpd
 
 #EXTINF:-1 group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Prime FHD 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=prime2fhd
 https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
 
 #EXTINF:-1 group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Prime FHD 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=prime3fhd
 https://ablayc7aaaaaaaamcey5j7rgggelg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/umbtod1may/out/v1/7e545f05ff0c448dbebc68ff11e19a7a/cenc.mpd
 
 #EXTINF:-1 group-title="T20 WC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Prime_logo.png" group-logo="https://png.pngtree.com/png-clipart/20240103/original/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_14006779.png", Prime 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.premiumbynd.workers.dev/license.php?channel=prime2
-https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" tvg-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" group-title="T20 WC",Star 4K 
-http://176.119.29.52/live.ts?channelId=102423&uid=8164&deviceMac=00:1A:79:17:D4:A1
-
-#EXTINF:-1 tvg-id="ardinesh-jiotv-portal-18594" tvg-logo="" group-title="CRICKET",T20 WORLD CUP 2024 4K UHD hevc
-https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/t20-world-cup-2024-4k-uhd-hevc/index.ts
-
-`;
-
-
+https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd`;
 
 module.exports = new20;
