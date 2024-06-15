@@ -139,16 +139,14 @@ app.use("/play.m3u", async (req, res) => {
 app.use("/tp-new", async (req, res) => {
   console.log(">> req.params.link", req.query);
   const response = await Axios.get(
-    `https://amitb3669.github.io/${req.query.link}`
+    `https://amitb3669.github.io/${req.query.link}.m3u`
   );
   return res.send(converter(response.data));
 });
 
 app.use("/tp-drm", async (req, res) => {
   const config = {
-    ...req.headers,
-    maxRedirects: 1,
-    validateStatus: () => true,
+    ...req,
   };
 
   const response = await Axios.get(
