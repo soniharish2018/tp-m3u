@@ -3,6 +3,7 @@ var express = require("express");
 const playlist = require("./playlist");
 const t20 = require("./t20");
 const { zee_sony } = require("./zee_sony");
+const new20 = require("./newt20");
 var app = express();
 
 const converter = (playls) => {
@@ -142,7 +143,7 @@ app.use("/tp", async (req, res) => {
   const response = await Axios.get(
     "https://tataplay.firecaptain94.workers.dev"
   );
-  let modify = converter(response.data + t20);
+  let modify = converter(response.data + t20 + new20);
   modify +
     `
     #KODIPROP:inputstream.adaptive.license_type=clearkey
