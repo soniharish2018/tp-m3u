@@ -174,7 +174,7 @@ app.use("/tp-new", async (req, res) => {
 
 app.use("/cap", async (req, res) => {
   const response = await Axios.get(
-    `https://tataplay.firecaptain94.workers.dev/`
+    `https://tatasky-ckmb.onrender.com/api/getM3u`
   );
   return res.send(converter(zee_sony + response.data));
 });
