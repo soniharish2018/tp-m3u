@@ -3,6 +3,12 @@ const new20 = `#EXTINF:-1 tvg-id="24" tvg-logo="https://w7.pngwing.com/pngs/650/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XCjnKHTNT3O57TeZV-i6Qg","kid":"ZH64-_FlcUDqFj3JsyVokw"}],"type":"temporary"}
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/clients/dash/enc/iwzi8fxh4z/out/v1/0e29b056e9c04ae180ef297263d2967d/cenc.mpd
+#EXTINF:-1 tvg-id="24" tvg-logo="https://w7.pngwing.com/pngs/650/425/png-transparent-amazon-prime-video-hd-logo.png" group-title="T20 World Cup",ICC T20 M1 English [50fps]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XCjnKHTNT3O57TeZV-i6Qg","kid":"ZH64-_FlcUDqFj3JsyVokw"}],"type":"temporary"}
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/clients/dash/enc/iwzi8fxh4z/out/v1/0e29b056e9c04ae180ef297263d2967d/cenc.mpd
+
 #EXTINF:-1 tvg-id="24" tvg-logo="https://w7.pngwing.com/pngs/650/425/png-transparent-amazon-prime-video-hd-logo.png" group-title="T20 World Cup",ICC T20 M2 English [50fps]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
