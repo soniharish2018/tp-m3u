@@ -157,7 +157,7 @@ app.use("/tp", async (req, res) => {
 });
 
 app.use("/play", async (req, res) => {
-  return res.send(converter(playlist + t20));
+  return res.send(converter(playlist + new20));
 });
 
 app.use("/play.m3u", async (req, res) => {
