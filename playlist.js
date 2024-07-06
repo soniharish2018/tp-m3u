@@ -68,13 +68,13 @@ http://allinonereborn.tech/allinone.php?id=30484
 http://allinonereborn.tech/allinone.php?id=30484
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLiv", Sony MAX2
 https://allinonereborn.tech/opplex.php?id=66189
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD 
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="SonyLiv",TEN 1 HD 
 http://allinonereborn.tech/allinone.php?id=46719
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo=""1061.png" group-title="Sony Liv",TEN2 HD 
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo=""1061.png" group-title="SonyLiv",TEN2 HD 
 http://allinonereborn.tech/allinone.php?id=47904
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo=""3058.png" group-title="Sony Liv",TEN3 HD 
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo=""3058.png" group-title="SonyLiv",TEN3 HD 
 http://allinonereborn.tech/allinone.php?id=47909
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo=""1465.png" group-title="Sony Liv",Sony Six HD 
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo=""1465.png" group-title="SonyLiv",Sony Six HD 
 http://allinonereborn.tech/allinone.php?id=34193
 
 
