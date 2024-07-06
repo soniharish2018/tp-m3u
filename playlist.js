@@ -55,7 +55,7 @@ http://allinonereborn.tech/allinone.php?id=54736
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv", Sony SAB HD
 http://allinonereborn.tech/allinone.php?id=54706
 #EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv", Sony PAL
-https://allinonereborn.tech/opplex.php?id=104192
+http://allinonereborn.tech/allinone.php?id=53139
 #EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv", Sony YAY
 https://allinonereborn.tech/opplex.php?id=26187
 #EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLiv", Sony PIX HD
@@ -63,9 +63,9 @@ http://allinonereborn.tech/allinone.php?id=14426
 #EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv", Sony WAH
 https://allinonereborn.tech/opplex.php?id=112979
 #EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLiv", Sony MAX
-https://allinonereborn.tech/opplex.php?id=109957
+http://allinonereborn.tech/allinone.php?id=30484
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv", Sony MAX HD
-https://allinonereborn.tech/opplex.php?id=109957
+http://allinonereborn.tech/allinone.php?id=30484
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLiv", Sony MAX2
 https://allinonereborn.tech/opplex.php?id=66189
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD 
@@ -370,7 +370,7 @@ https://la.drmlive.au/tp/index.php?id=438
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=554
 #EXTVLCOPT:http-user-agent=third-party
-https://allinonereborn.tech/opplex.php?id=104192
+http://allinonereborn.tech/allinone.php?id=53139
 
 #EXTINF:-1 tvg-id="54" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-150-j5frd0jc-v3/imageContent-150-j5frd0jc-m5.png" group-title="Entertainment",The Q
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -531,7 +531,7 @@ https://la.drmlive.au/tp/index.php?id=1130
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=80
 #EXTVLCOPT:http-user-agent=third-party
-https://allinonereborn.tech/opplex.php?id=109957
+http://allinonereborn.tech/allinone.php?id=30484
 
 #EXTINF:-1 tvg-id="132" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="Movies",SONY MAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
