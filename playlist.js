@@ -1,5 +1,8 @@
-const playlist = `#EXTINF:-1 tvg-logo="" group-title="Jio Cinema",IPL English
+const playlist = `
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+
+#EXTINF:-1 tvg-logo="" group-title="Jio Cinema",IPL English
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="😈 Zee",Zee TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://la.drmlive.au/tp/zee.php?id=tvhd
@@ -48,49 +51,31 @@ https://la.drmlive.au/tp/zee.php?id=punjabi
 
 
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv", SET HD
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
+http://allinonereborn.tech/allinone.php?id=54736
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv", Sony SAB HD
-https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+http://allinonereborn.tech/allinone.php?id=54706
 #EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv", Sony PAL
-https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+https://allinonereborn.tech/opplex.php?id=104192
 #EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv", Sony YAY
-https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLiv", Sony AATH
-https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLiv", Sony Marathi
-https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLiv", Sony BBC Earth HD
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+https://allinonereborn.tech/opplex.php?id=26187
 #EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLiv", Sony PIX HD
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+http://allinonereborn.tech/allinone.php?id=14426
 #EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv", Sony WAH
-https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+https://allinonereborn.tech/opplex.php?id=112979
 #EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLiv", Sony MAX
-https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+https://allinonereborn.tech/opplex.php?id=109957
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv", Sony MAX HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+https://allinonereborn.tech/opplex.php?id=109957
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLiv", Sony MAX2
-https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1
-https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2
-https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 3
-https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 4
-https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 5
-https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
-https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2 HD
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 3 HD
-https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 4 HD
-https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 5 HD
-https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+https://allinonereborn.tech/opplex.php?id=66189
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD 
+http://allinonereborn.tech/allinone.php?id=46719
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo=""1061.png" group-title="Sony Liv",TEN2 HD 
+http://allinonereborn.tech/allinone.php?id=47904
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo=""3058.png" group-title="Sony Liv",TEN3 HD 
+http://allinonereborn.tech/allinone.php?id=47909
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo=""1465.png" group-title="Sony Liv",Sony Six HD 
+http://allinonereborn.tech/allinone.php?id=34193
 
 
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
@@ -385,7 +370,7 @@ https://la.drmlive.au/tp/index.php?id=438
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=554
 #EXTVLCOPT:http-user-agent=third-party
-https://la.drmlive.au/tp/index.php?id=554
+https://allinonereborn.tech/opplex.php?id=104192
 
 #EXTINF:-1 tvg-id="54" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-150-j5frd0jc-v3/imageContent-150-j5frd0jc-m5.png" group-title="Entertainment",The Q
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -546,7 +531,7 @@ https://la.drmlive.au/tp/index.php?id=1130
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=80
 #EXTVLCOPT:http-user-agent=third-party
-https://la.drmlive.au/tp/index.php?id=80
+https://allinonereborn.tech/opplex.php?id=109957
 
 #EXTINF:-1 tvg-id="132" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="Movies",SONY MAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1526,7 +1511,7 @@ https://la.drmlive.au/tp/index.php?id=119
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=45
 #EXTVLCOPT:http-user-agent=third-party
-https://la.drmlive.au/tp/index.php?id=45
+https://allinonereborn.tech/opplex.php?id=26187
 
 #EXTINF:-1 tvg-id="994" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png" group-title="Kids",Tata Play Toons+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
