@@ -4,6 +4,7 @@ const playlist = require("./playlist");
 const t20 = require("./t20");
 const { zee_sony } = require("./zee_sony");
 const new20 = require("./newt20");
+const { SLiv } = require("./SonyLiv");
 var app = express();
 
 const converter = (playls) => {
@@ -135,7 +136,6 @@ app.use("/gen", async (req, res) => {
     https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?type=ST
     
     `;
-
   return res.send(modify);
 });
 
@@ -143,7 +143,7 @@ app.use("/tp", async (req, res) => {
   const response = await Axios.get(
     "https://tataplay.firecaptain94.workers.dev"
   );
-  let modify = converter(response.data + t20 + new20);
+  let modify = converter(response.data + t20 + new20 + SLiv);
   modify +
     `
     #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -174,7 +174,7 @@ app.use("/tp-new", async (req, res) => {
 
 app.use("/cap", async (req, res) => {
   const response = await Axios.get(
-    `https://tatasky-ckmb.onrender.com/api/getM3u`
+    `https://tataplay.firecaptain94.workers.dev`
   );
   return res.send(converter(zee_sony + response.data));
 });
