@@ -57,7 +57,7 @@ https://yuvraj43.xyz/sliv/index.m3u8?ch=SABHD&id=2011749
 https://yuvraj43.xyz/sliv/index.m3u8?ch=SonyPalSD&id=2011741
 
 
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv", Sony YAY
+#EXTINF:-1  tvg-id="45" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv", Sony YAY
 https://yuvraj43.xyz/sliv/index.m3u8?ch=SonyYaySD&id=2011746
 
 
@@ -95,19 +95,19 @@ https://yuvraj43.xyz/sliv/index.m3u8?ch=SonyMaxSD&id=2011745
 https://yuvraj43.xyz/sliv/index.m3u8?ch=SonyMaxhd&id=2011670
 
 
-#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLiv", Sony MAX2
+#EXTINF:-1  tvg-id="120" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLiv", Sony MAX2
 https://yuvraj43.xyz/sliv/index.m3u8?ch=MAX2&id=2011908
 
 
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1
+#EXTINF:-1 tvg-id="150" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1
 https://yuvraj43.xyz/sliv/index.m3u8?ch=TEN1SD&id=2011739
 
 
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2
+#EXTINF:-1 tvg-id="170" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2
 https://yuvraj43.xyz/sliv/index.m3u8?ch=TEN2SD&id=2020590
 
 
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 3
+#EXTINF:-1 tvg-id="171" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 3
 https://yuvraj43.xyz/sliv/index.m3u8?ch=TEN3SD&id=2020592
 
 
@@ -119,15 +119,15 @@ https://yuvraj43.xyz/sliv/index.m3u8?ch=TEN4SD&id=2020437
 https://yuvraj43.xyz/sliv/index.m3u8?ch=SONYSIXSD&id=2020594
 
 
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
+#EXTINF:-1 tvg-id="81" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
 https://yuvraj43.xyz/sliv/index.m3u8?ch=TEN1HD&id=2011747
 
 
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2 HD
+#EXTINF:-1 tvg-id="462" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2 HD
 https://yuvraj43.xyz/sliv/index.m3u8?ch=TEN2HD&id=2020434
 
 
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 3 HD
+#EXTINF:-1 tvg-id="464" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 3 HD
 https://yuvraj43.xyz/sliv/index.m3u8?ch=TEN3HD&id=2020591
 
 
@@ -135,7 +135,7 @@ https://yuvraj43.xyz/sliv/index.m3u8?ch=TEN3HD&id=2020591
 https://yuvraj43.xyz/sliv/index.m3u8?ch=ten4hd&id=2020589
 
 
-#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 5 HD
+#EXTINF:-1 tvg-id="35" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 5 HD
 https://yuvraj43.xyz/sliv/index.m3u8?ch=SONYSIXHD&id=2020593`;
 
 module.exports = {

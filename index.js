@@ -21,6 +21,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
+  modify = modify.replaceAll('"Sony Liv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('" Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"Spiritual"', '"🙏 Spiritual"');
@@ -157,11 +158,11 @@ app.use("/tp", async (req, res) => {
 });
 
 app.use("/play", async (req, res) => {
-  return res.send(converter(playlist + new20));
+  return res.send(converter(zee_sony + playlist + new20));
 });
 
 app.use("/play.m3u", async (req, res) => {
-  return res.send(converter(playlist));
+  return res.send(converter(zee_sony + playlist + new20));
 });
 
 app.use("/tp-new", async (req, res) => {
