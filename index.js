@@ -126,7 +126,7 @@ const converter = (playls) => {
 
 app.use("/gen", async (req, res) => {
   const response = await Axios.get(
-    "https://tpnext-tsadevil.vercel.app/api/harman-iptv"
+    "https://d-tp.vercel.app/"
   );
   let modify = converter(response.data + t20);
   modify +
