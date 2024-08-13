@@ -3,6 +3,7 @@ var express = require("express");
 const playlist = require("./playlist");
 const t20 = require("./t20");
 const { zee_sony } = require("./zee_sony");
+const { zeesony } = require("./zeesony");
 const new20 = require("./newt20");
 const { SLiv } = require("./SonyLiv");
 var app = express();
@@ -21,6 +22,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
+    modify = modify.replaceAll('"Sony_Liv"', '"🎁 Sony_Liv"');
   modify = modify.replaceAll('"Sony Liv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('" Voot | Entertainment"', '"🎭 Entertainment"');
@@ -129,7 +131,7 @@ app.use("/gen", async (req, res) => {
   const response = await Axios.get(
     "https://d-tp.vercel.app/"
   );
-  let modify = converter(response.data);
+  let modify = converter(zeesony + response.data);
   modify +
     `
     #KODIPROP:inputstream.adaptive.license_type=clearkey
