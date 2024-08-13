@@ -34,6 +34,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('" Music"', '"🎵 Music"');
   modify = modify.replaceAll('"Music & Audio"', '"🎵 Music"');
   modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
+  modify = modify.replaceAll('"zee"', '"😈 Zee"');
 
   modify = modify.replaceAll('" Hindi"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Hindi"', '"🌟 Hindi"');
@@ -128,7 +129,7 @@ app.use("/gen", async (req, res) => {
   const response = await Axios.get(
     "https://d-tp.vercel.app/"
   );
-  let modify = converter(response.data + t20);
+  let modify = converter(response.data);
   modify +
     `
     #KODIPROP:inputstream.adaptive.license_type=clearkey
