@@ -9,6 +9,7 @@ const { SLiv } = require("./SonyLiv");
 
 const fs = require("fs");
 const path = require("path");
+const m3uContent = require("./downloadedFile");
 var app = express();
 
 const converter = (playls) => {
@@ -165,6 +166,10 @@ app.use("/play", async (req, res) => {
   return res.send(converter(zee_sony + playlist + new20));
 });
 
+app.get("/down", async (req, res) => {
+  return res.send(converter(zee_sony + m3uContent));
+});
+
 app.use("/play.m3u", async (req, res) => {
   return res.send(converter(zee_sony + playlist + new20));
 });
@@ -203,7 +208,7 @@ app.get("/download-m3u", async (req, res) => {
     const m3uUrl = "https://denverisalive.vercel.app/Playlist/TP_Dev3.m3u";
 
     // Fetch the content using axios
-    const response = await axios.get(m3uUrl);
+    const response = await Axios.get(m3uUrl);
 
     // Save the content as a .js file
     const jsFilePath = path.join(__dirname, "downloadedFile.js");
