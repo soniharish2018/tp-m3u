@@ -48,6 +48,8 @@ const converter = (playls) => {
   modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Regional Others"', '"📂 Others"');
   modify = modify.replaceAll('"Regional"', '"📂 Others"');
+  modify = modify.replaceAll('"null"', '"📂 Others"');
+  modify = modify.replaceAll('"Action"', '"📂 Others"');
 
   modify = modify.replaceAll('"Others"', '"📂 Others"');
   modify = modify.replaceAll('" Others"', '"📂 Others"');
