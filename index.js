@@ -22,7 +22,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
-    modify = modify.replaceAll('"Sony_Liv"', '"🎁 Sony_Liv"');
+  modify = modify.replaceAll('"Sony_Liv"', '"🎁 Sony_Liv"');
   modify = modify.replaceAll('"Sony Liv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('" Voot | Entertainment"', '"🎭 Entertainment"');
@@ -128,9 +128,7 @@ const converter = (playls) => {
 };
 
 app.use("/gen", async (req, res) => {
-  const response = await Axios.get(
-    "https://d-tp.vercel.app/"
-  );
+  const response = await Axios.get("https://d-tp.vercel.app/");
   let modify = converter(zeesony + response.data);
   modify +
     `
@@ -178,7 +176,7 @@ app.use("/tp-new", async (req, res) => {
 
 app.use("/cap", async (req, res) => {
   const response = await Axios.get(
-    `https://tataplay.firecaptain94.workers.dev`
+    `https://denverisalive.vercel.app/Playlist/TP_Dev3.m3u`
   );
   return res.send(converter(zee_sony + response.data));
 });
