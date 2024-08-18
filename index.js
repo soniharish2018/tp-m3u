@@ -6,6 +6,9 @@ const { zee_sony } = require("./zee_sony");
 const { zeesony } = require("./zeesony");
 const new20 = require("./newt20");
 const { SLiv } = require("./SonyLiv");
+
+const fs = require("fs");
+const path = require("path");
 var app = express();
 
 const converter = (playls) => {
@@ -192,6 +195,36 @@ app.use("/tp-drm", async (req, res) => {
   );
   console.log(">> response", response);
   return res.send(converter(response.data));
+});
+
+app.get("/download-m3u", async (req, res) => {
+  try {
+    // URL of the .m3u file you want to download
+    const m3uUrl = "https://denverisalive.vercel.app/Playlist/TP_Dev3.m3u";
+
+    // Fetch the content using axios
+    const response = await axios.get(m3uUrl);
+
+    // Save the content as a .js file
+    const jsFilePath = path.join(__dirname, "downloadedFile.js");
+    const m3uContent = response.data;
+
+    // Optional: You can process the .m3u content here before saving it as .js
+    const jsContent = `
+      // M3U content saved as a JavaScript file
+      const m3uContent = \`${m3uContent}\`;
+      module.exports = m3uContent;
+    `;
+
+    // Write the content to a .js file
+    fs.writeFileSync(jsFilePath, jsContent, "utf8");
+
+    // Respond with success message
+    res.send(`File saved successfully as ${jsFilePath}`);
+  } catch (error) {
+    console.error("Error downloading or saving the file:", error);
+    res.status(500).send("Error downloading or saving the file");
+  }
 });
 
 const PORT = process.env.PORT || 3000;
