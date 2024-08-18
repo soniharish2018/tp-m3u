@@ -11,5 +11,11 @@
       "src": "/(.*)",
       "dest": "index.js"
     }
+  ],
+  "crons": [
+    {
+      "path": "/download-m3u",
+      "schedule": "0 5 * * *"
+    }
   ]
 }
