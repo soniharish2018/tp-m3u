@@ -186,11 +186,15 @@ app.use("/tp-new", async (req, res) => {
   return res.send(converter(response.data));
 });
 
-app.use("/cap", async (req, res) => {
+app.use("/cap", async (req, res) =>{
+
+  const jtv = await Axios.get("https://denverisalive.vercel.app/Playlist/Jtv2.m3u")
+
+
   const response = await Axios.get(
     `https://denverisalive.vercel.app/Playlist/TP_Dev4.m3u`
   );
-  return res.send(converter(zee_sony + response.data));
+  return res.send(converter(zee_sony +jtv.data+ response.data));
 });
 
 app.use("/tp-drm", async (req, res) => {
