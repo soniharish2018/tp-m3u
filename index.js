@@ -188,7 +188,7 @@ app.use("/tp-new", async (req, res) => {
 
 app.use("/cap", async (req, res) => {
   const response = await Axios.get(
-    `https://denverisalive.vercel.app/Playlist/TP_Dev3.m3u`
+    `https://denverisalive.vercel.app/Playlist/TP_Dev4.m3u`
   );
   return res.send(converter(zee_sony + response.data));
 });
