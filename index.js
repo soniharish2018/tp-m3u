@@ -136,16 +136,11 @@ const converter = (playls) => {
 };
 
 app.use("/gen", async (req, res) => {
+  
+  const jtv = await Axios.get("https://denverisalive.vercel.app/Playlist/Jtv2.m3u
+                              
   const response = await Axios.get("https://d-tp.vercel.app/");
-  let modify = converter(zeesony + response.data);
-  modify +
-    `
-    #KODIPROP:inputstream.adaptive.license_type=clearkey
-    #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=80&key
-    #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="🎬 Movies",Sony Max HD
-    https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?type=ST
-    
-    `;
+  let modify = converter(zeesony + jtv.data+ response.data);
   return res.send(modify);
 });
 
@@ -178,7 +173,7 @@ app.use("/play.m3u", async (req, res) => {
   return res.send(converter(zee_sony + playlist + new20));
 });
 
-app.use("/tp-new", async (req, res) => {
+app.use("p-new", async (req, res) => {
   console.log(">> req.params.link", req.query);
   const response = await Axios.get(
     `https://amitb3669.github.io/${req.query.link}.m3u`
