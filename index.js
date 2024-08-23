@@ -137,7 +137,7 @@ const converter = (playls) => {
 
 app.use("/gen", async (req, res) => {
   
-  const jtv = await Axios.get("https://denverisalive.vercel.app/Playlist/Jtv2.m3u");
+  const jtv = await Axios.get("https://amitb3669.github.io/jiotv412.m3u/");
                               
   const response = await Axios.get("https://d-tp.vercel.app/");
   let modify = converter(zeesony + jtv.data+ response.data);
@@ -173,7 +173,7 @@ app.use("/play.m3u", async (req, res) => {
   return res.send(converter(zee_sony + playlist + new20));
 });
 
-app.use("p-new", async (req, res) => {
+app.use("tp-new", async (req, res) => {
   console.log(">> req.params.link", req.query);
   const response = await Axios.get(
     `https://amitb3669.github.io/${req.query.link}.m3u`
