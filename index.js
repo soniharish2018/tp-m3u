@@ -139,7 +139,7 @@ app.use("/gen", async (req, res) => {
   const jtv = await Axios.get("https://amitb3669.github.io/jiotv412.m3u/");
 
   const response = await Axios.get("https://d-tp.vercel.app/");
-  let modify = converter(zeesony + response.data + jtv.data);
+  let modify = converter(zeesony + response.data);
   return res.send(modify);
 });
 
