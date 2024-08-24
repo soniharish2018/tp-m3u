@@ -136,11 +136,10 @@ const converter = (playls) => {
 };
 
 app.use("/gen", async (req, res) => {
-  
   const jtv = await Axios.get("https://amitb3669.github.io/jiotv412.m3u/");
-                              
+
   const response = await Axios.get("https://d-tp.vercel.app/");
-  let modify = converter(zeesony + jtv.data+ response.data);
+  let modify = converter(zeesony + response.data + jtv.data);
   return res.send(modify);
 });
 
@@ -181,15 +180,15 @@ app.use("tp-new", async (req, res) => {
   return res.send(converter(response.data));
 });
 
-app.use("/cap", async (req, res) =>{
-
-  const jtv = await Axios.get("https://denverisalive.vercel.app/Playlist/Jtv2.m3u")
-
+app.use("/cap", async (req, res) => {
+  const jtv = await Axios.get(
+    "https://denverisalive.vercel.app/Playlist/Jtv2.m3u"
+  );
 
   const response = await Axios.get(
     `https://denverisalive.vercel.app/Playlist/TP_Dev4.m3u`
   );
-  return res.send(converter(zee_sony + response.data+jtv.data));
+  return res.send(converter(zee_sony + response.data + jtv.data));
 });
 
 app.use("/tp-drm", async (req, res) => {
