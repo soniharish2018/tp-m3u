@@ -41,6 +41,9 @@ const converter = (playls) => {
   modify = modify.replaceAll('"Music & Audio"', '"🎵 Music"');
   modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
   modify = modify.replaceAll('"zee"', '"🌟 Hindi"');
+  modify = modify.replaceAll('"Cricket"', '"🌟 Hindi"');
+
+  modify = modify.replaceAll('"DangalPlay"', '"🌟 Hindi"');
   modify = modify.replaceAll('"EpiCon"', '"🌟 Hindi"');
   modify = modify.replaceAll('"ETV Win"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Zee"', '"😈 Zee"');
