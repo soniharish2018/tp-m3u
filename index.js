@@ -27,7 +27,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('"Sony_Liv"', '"🎁 Sony_Liv"');
-  modify = modify.replaceAll('"Sony Liv"', '"🎁 Sony Liv"');
+  modify = modify.replaceAll('"Sony Liv"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('" Voot | Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"Spiritual"', '"🙏 Spiritual"');
@@ -40,7 +40,10 @@ const converter = (playls) => {
   modify = modify.replaceAll('" Music"', '"🎵 Music"');
   modify = modify.replaceAll('"Music & Audio"', '"🎵 Music"');
   modify = modify.replaceAll('"Regional Hindi"', '"🌟 Hindi"');
-  modify = modify.replaceAll('"zee"', '"😈 Zee"');
+  modify = modify.replaceAll('"zee"', '"🌟 Hindi"');
+  modify = modify.replaceAll('"EpiCon"', '"🌟 Hindi"');
+  modify = modify.replaceAll('"ETV Win"', '"🌟 Hindi"');
+  modify = modify.replaceAll('"Zee"', '"😈 Zee"');
 
   modify = modify.replaceAll('" Hindi"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Hindi"', '"🌟 Hindi"');
@@ -136,10 +139,10 @@ const converter = (playls) => {
 };
 
 app.use("/gen", async (req, res) => {
-  const jtv = await Axios.get("https://amitb3669.github.io/jiotv412.m3u/");
 
   const response = await Axios.get("https://d-tp.vercel.app/");
-  let modify = converter(zeesony + response.data);
+  const sLiv = await Axios.get('https://rentry.co/sonyliv/raw')
+  let modify = converter(sLiv.data+response.data);
   return res.send(modify);
 });
 
