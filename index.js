@@ -143,7 +143,7 @@ const converter = (playls) => {
 
 app.use("/gen", async (req, res) => {
 
-  const response = await Axios.get("https://d-tp.vercel.app/");
+  const response = await Axios.get("https://drmtp.vercel.app/");
   const sLiv = await Axios.get('https://rentry.co/sonyliv/raw')
   let modify = converter(sLiv.data+response.data);
   return res.send(modify);
