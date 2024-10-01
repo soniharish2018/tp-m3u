@@ -1,10 +1,4 @@
-const playlist = `#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/allowipmpd_key.php?id=chlajabsdk
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="✅ Activation",Activate Playlist
-#EXTVLCOPT:http-user-agent=third-party
-https://mix.drmlive.au/mix/actchaljabsdk.mpd
-
+const playlist = `
 #EXTINF:-1 tvg-id="24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Cricket",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -430,20 +424,20 @@ https://stream.imagetv.in/hls/politicspunjab/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=1751
-#EXTINF:-1 tvg-id=ts1751 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images//" group-title="Punjabi Music",Zee Punjabi
+#EXTINF:-1 tvg-id=ts1751 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images//" group-title="Music",Zee Punjabi
 https://jt.drmlive.au/jiotvplus/1751.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Boogle_Bollywood.jpeg/revision/latest?cb=20200106202611" group-title="Punjabi Music",Boogle Bollywood
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Boogle_Bollywood.jpeg/revision/latest?cb=20200106202611" group-title="Music",Boogle Bollywood
 https://jio.drmlive.au/jio/Boogle_Bollywood/Boogle_Bollywood.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Channel.png" group-title="Punjabi Music",Desi Channel
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Desi_Channel.png" group-title="Music",Desi Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81FTDBItk1L.png" group-title="Punjabi Music",Balle Balle
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81FTDBItk1L.png" group-title="Music",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81FTDBItk1L.png" group-title="Punjabi Music",Balle Balle HD
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81FTDBItk1L.png" group-title="Music",Balle Balle HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-19/2406191184004.jpg" group-title="Punjabi Music",Steelbird Music
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-19/2406191184004.jpg" group-title="Music",Steelbird Music
 https://jio.drmlive.au/jio/Steelbird_Music/Steelbird_Music.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Punjabi Music",MH1 Music
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Music",MH1 Music
 #https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -451,90 +445,90 @@ https://jio.drmlive.au/jio/Steelbird_Music/Steelbird_Music.m3u8
 #EXTINF:-1 tvg-id=ts742 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Music",mh1 (Music)
 https://jt.drmlive.au/jiotvplus/742.mpd
 
-#EXTINF:-1 tvg-logo="https://www.ptcnetwork.tv/wp-content/uploads/2016/06/images.png" group-title="Punjabi Music",PTC Chakde
+#EXTINF:-1 tvg-logo="https://www.ptcnetwork.tv/wp-content/uploads/2016/06/images.png" group-title="Music",PTC Chakde
 https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-21/2406211188011.jpg" group-title="Punjabi Music",PTC Dhol
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-21/2406211188011.jpg" group-title="Music",PTC Dhol
 https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="Punjabi Music",PTC Music
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="Music",PTC Music
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2952.DistroTv.in/en/1x1/208x208/test_pic1688061731041.jpg" group-title="Punjabi Music",Only Music
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2952.DistroTv.in/en/1x1/208x208/test_pic1688061731041.jpg" group-title="Music",Only Music
 https://jio.drmlive.au/jio/Only_Music/Only_Music.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=1248
-#EXTINF:-1 tvg-id=ts1248 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png" group-title="Punjabi Music",Bol Hadippa
+#EXTINF:-1 tvg-id=ts1248 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png" group-title="Music",Bol Hadippa
 https://jt.drmlive.au/jiotvplus/1248.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=1868
-#EXTINF:-1 tvg-id=ts1868 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Plus.png" group-title="Punjabi Music",Punjab Plus
+#EXTINF:-1 tvg-id=ts1868 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Plus.png" group-title="Music",Punjab Plus
 https://jt.drmlive.au/jiotvplus/1868.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=1871
-#EXTINF:-1 tvg-id=ts1871 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Punjabi Music",7X Music
+#EXTINF:-1 tvg-id=ts1871 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Music",7X Music
 https://jt.drmlive.au/jiotvplus/1871.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=2325
-#EXTINF:-1 tvg-id=ts2325 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="Punjabi Music",Punjabi Melodies
+#EXTINF:-1 tvg-id=ts2325 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="Music",Punjabi Melodies
 https://jt.drmlive.au/jiotvplus/2325.mpd
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" group-title="Punjabi Music",Saga Music
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" group-title="Music",Saga Music
 https://jio.drmlive.au/jio/bpk-tv/SagaMusic/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFg2JcvhQnFMsoJe7WX8pqP2ZwHye7OhZpVA5m7bgM2ULd_FcF93RWSgtjAvXMQV89vQ&usqp=CAU" group-title="Punjabi Music",PTN 24
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFg2JcvhQnFMsoJe7WX8pqP2ZwHye7OhZpVA5m7bgM2ULd_FcF93RWSgtjAvXMQV89vQ&usqp=CAU" group-title="Music",PTN 24
 http://cdn.samtv.ca/ptv24/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" group-title="Punjabi Music",9X Tashan
+#EXTINF:-1 tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" group-title="Music",9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Brit_Asia_TV_logo.png" group-title="Punjabi Music",Brit Asia TV Punjabi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Brit_Asia_TV_logo.png" group-title="Music",Brit Asia TV Punjabi
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKFl0xGQxesJu_AE2PfOSHkLlZIlgRLf5WdDDN2_E0ycJ0-txAZHohZXfyAsn8Qo5Q4M&usqp=CAU" group-title="Punjabi Music",Window Punjab TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKFl0xGQxesJu_AE2PfOSHkLlZIlgRLf5WdDDN2_E0ycJ0-txAZHohZXfyAsn8Qo5Q4M&usqp=CAU" group-title="Music",Window Punjab TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ghaint_Punjab.png" group-title="Punjabi Music",Ghaint Punjab
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ghaint_Punjab.png" group-title="Music",Ghaint Punjab
 https://jio.drmlive.au/jio/bpk-tv/GhaintPunjab/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png" group-title="Punjabi Music",Punjabi Hits
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png" group-title="Music",Punjabi Hits
 https://jio.drmlive.au/jio/bpk-tv/Punjabi_Hits_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-22/2406221730023.jpg" group-title="Punjabi Music",Liv Punjabi TV
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-22/2406221730023.jpg" group-title="Music",Liv Punjabi TV
 https://jio.drmlive.au/jio/bpk-tv/Punjab_Today_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://nagaratv.com/wp-content/uploads/2023/01/cropped-Nagaratv-Logo.png" group-title="Punjabi Music",Nagara TV
+#EXTINF:-1 tvg-logo="https://nagaratv.com/wp-content/uploads/2023/01/cropped-Nagaratv-Logo.png" group-title="Music",Nagara TV
 https://lbor3kjlqvaj-hls-live.wmncdn.net/nagaratv/4565504cfd49a5b20bac927ce2162fc7.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://ranglapunjab.com/images/logo_new.png" group-title="Punjabi Music",Rangla Punjab TV
+#EXTINF:-1 tvg-logo="http://ranglapunjab.com/images/logo_new.png" group-title="Music",Rangla Punjab TV
 http://playout.rptv.online/ranglapunjab/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Pravasi-TV-HD.jpg" group-title="Punjabi Music",Parvasi Punjabi TV
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Pravasi-TV-HD.jpg" group-title="Music",Parvasi Punjabi TV
 http://cdn12.henico.net:8080/live/pravasipb/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.gurmattv.com/images/logo/logo_1.png" group-title="Punjabi Music",Gurmat TV HD
+#EXTINF:-1 tvg-logo="http://www.gurmattv.com/images/logo/logo_1.png" group-title="Music",Gurmat TV HD
 h#ttp://livestream.unlimitedcdn.com/agm/gurmat-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.watnodur.com/media/images/logo.png" group-title="Punjabi Music",Watno Dur
+#EXTINF:-1 tvg-logo="https://www.watnodur.com/media/images/logo.png" group-title="Music",Watno Dur
 http://cdn12.henico.net:8080/live/wtdur/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://trademaklogos.s3.ap-south-1.amazonaws.com/5534404.jpeg" group-title="Punjabi Movies",Tabbar Hits
+#EXTINF:-1 tvg-logo="https://trademaklogos.s3.ap-south-1.amazonaws.com/5534404.jpeg" group-title="Movies",Tabbar Hits
 https://jio.drmlive.au/jio/bpk-tv/Tabbar_Hits_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="Punjabi Movies",PTC Punjabi
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="Movies",PTC Punjabi
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="Punjabi Movies",PTC Punjabi Gold
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="Movies",PTC Punjabi Gold
 https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" group-title="Punjabi Movies",PTC Simran
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" group-title="Movies",PTC Simran
 https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="Punjabi Movies",Wah Punjabi
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="Movies",Wah Punjabi
 https://jio.drmlive.au/jio/Wah_Punjabi/Wah_Punjabi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=946
-#EXTINF:-1 tvg-id=ts946 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Punjabi Movies",Pitaara
+#EXTINF:-1 tvg-id=ts946 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Movies",Pitaara
 https://jt.drmlive.au/jiotvplus/946.mpd
 
 
-#EXTINF:-1 tvg-logo="https://scontent.fluh1-1.fna.fbcdn.net/v/t39.30808-1/428704303_122121607052208556_2583895390774868802_n.jpg?stp=c22.22.196.196a_dst-jpg_p240x240&_nc_cat=100&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=-mC9Bz3qn58Q7kNvgEzMhuM&_nc_ht=scontent.fluh1-1.fna&oh=00_AYAtQTzeSxBCplRqWE2Z0qLEh0uNikNaKbtB599p1dYWtw&oe=6681BD81" group-title="Punjabi Movies",Vasda Punjab
+#EXTINF:-1 tvg-logo="https://scontent.fluh1-1.fna.fbcdn.net/v/t39.30808-1/428704303_122121607052208556_2583895390774868802_n.jpg?stp=c22.22.196.196a_dst-jpg_p240x240&_nc_cat=100&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=-mC9Bz3qn58Q7kNvgEzMhuM&_nc_ht=scontent.fluh1-1.fna&oh=00_AYAtQTzeSxBCplRqWE2Z0qLEh0uNikNaKbtB599p1dYWtw&oe=6681BD81" group-title="Movies",Vasda Punjab
 #http://livestream.unlimitedcdn.com/agm-pn/punjabi-national-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canadiansathtv.ca/wp-content/uploads/2023/05/can-1-1-1.jpg" group-title="Punjabi Movies",Canadian Sath
+#EXTINF:-1 tvg-logo="https://canadiansathtv.ca/wp-content/uploads/2023/05/can-1-1-1.jpg" group-title="Movies",Canadian Sath
 https://cdn12.henico.net:8443/live/candiansath/index.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fluh1-2.fna.fbcdn.net/v/t39.30808-1/218563497_324469256089969_2672309951426914334_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=8ZN9sUNiKPsQ7kNvgH-Z-3u&_nc_ht=scontent.fluh1-2.fna&oh=00_AYCEss2OTxJO9ZGlcBORKNvXoxuY17D-Eh4mr-GOQgcDag&oe=6681CF70" group-title="Punjabi Movies",Asiatv Canada
+#EXTINF:-1 tvg-logo="https://scontent.fluh1-2.fna.fbcdn.net/v/t39.30808-1/218563497_324469256089969_2672309951426914334_n.jpg?stp=dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=8ZN9sUNiKPsQ7kNvgH-Z-3u&_nc_ht=scontent.fluh1-2.fna&oh=00_AYCEss2OTxJO9ZGlcBORKNvXoxuY17D-Eh4mr-GOQgcDag&oe=6681CF70" group-title="Movies",Asiatv Canada
 #http://cdn12.henico.net:8080/live/asiatv/index.m3u8
 https://cdn12.henico.net:8443/live/asiatv/index.m3u8
 #EXTINF:0, group-title="Punjabi", tvg-logo="https://scontent.fluh1-2.fna.fbcdn.net/v/t1.6435-1/155001613_272295937602520_2857456431563395178_n.jpg?stp=dst-jpg_s200x200&_nc_cat=1&ccb=1-7&_nc_sid=616b0e&_nc_ohc=mSLdc37_8sUQ7kNvgFxUw3e&_nc_ht=scontent.fluh1-2.fna&oh=00_AYAjD0Yxbx53SheUlJb9T4u-f20XgRNe0SypQVsIh6VN6w&oe=66A36AD0",Sardari TV
@@ -9762,6 +9756,15 @@ https://now.drmlive.au/now/nowtv1412.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1276
 #EXTINF:-1 tvg-id=ts1276 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1276_lightnow/400/100" group-title="Entertainment",Sky Showcase
-https://now.drmlive.au/now/nowtv1276.mpd`
+https://now.drmlive.au/now/nowtv1276.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/allowipmpd_key.php?id=chlajabsdk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="✅ Activation",Activate Playlist
+#EXTVLCOPT:http-user-agent=third-party
+https://mix.drmlive.au/mix/actchaljabsdk.mpd
+
+`
 
 module.exports = playlist
