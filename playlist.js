@@ -275,69 +275,69 @@ https://la.drmlive.au/tp/stargoldsel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=hboastro
-#EXTINF:-1 tvg-id=ts1281 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENG Movies",HBO
+#EXTINF:-1 tvg-id=ts1281 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Movies",HBO
 #EXTVLCOPT:http-user-agent=third-party
 https://mix.drmlive.au/mix/enghboastro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=hbofamilyastro
-#EXTINF:-1 tvg-id=ts1280 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyyg_DOKWkpsdhMHlQRNF0gWjbg85w80oGQ&s" group-title="ENG Movies",HBO Family
+#EXTINF:-1 tvg-id=ts1280 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyyg_DOKWkpsdhMHlQRNF0gWjbg85w80oGQ&s" group-title="Movies",HBO Family
 #EXTVLCOPT:http-user-agent=third-party
 https://mix.drmlive.au/mix/enghbofamilyastro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=hbohits
-#EXTINF:-1 tvg-id=ts1279 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="ENG Movies",HBO Hits
+#EXTINF:-1 tvg-id=ts1279 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO Hits
 #EXTVLCOPT:http-user-agent=third-party
 https://mix.drmlive.au/mix/enghbohits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=hbosig
-#EXTINF:-1 tvg-id=ts1278 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="ENG Movies",HBO Signature
+#EXTINF:-1 tvg-id=ts1278 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature
 #EXTVLCOPT:http-user-agent=third-party
 https://mix.drmlive.au/mix/enghbosig.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=cinemax
-#EXTINF:-1 tvg-id=ts1282 tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg" group-title="ENG Movies",Cinemax
+#EXTINF:-1 tvg-id=ts1282 tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg" group-title="Movies",Cinemax
 #EXTVLCOPT:http-user-agent=third-party
 https://mix.drmlive.au/mix/engcinemax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=paramount
-#EXTINF:-1 tvg-id=ts1274 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paramount_Global_Logo.svg/2560px-Paramount_Global_Logo.svg.png" group-title="ENG Movies",Paramount
+#EXTINF:-1 tvg-id=ts1274 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paramount_Global_Logo.svg/2560px-Paramount_Global_Logo.svg.png" group-title="Movies",Paramount
 #EXTVLCOPT:http-user-agent=third-party
 #https://mix.drmlive.au/mix/engparamount.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=warnertv
-#EXTINF:-1 tvg-id=ts1264 tvg-logo="https://logowik.com/content/uploads/images/warner-tv4266.logowik.com.webp" group-title="ENG Movies",Warner TV
+#EXTINF:-1 tvg-id=ts1264 tvg-logo="https://logowik.com/content/uploads/images/warner-tv4266.logowik.com.webp" group-title="Movies",Warner TV
 #EXTVLCOPT:http-user-agent=third-party
 https://mix.drmlive.au/mix/engwarnertv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=axn
-#EXTINF:-1 tvg-id=ts1261 tvg-logo="https://w7.pngwing.com/pngs/903/320/png-transparent-axn-television-channel-sony-channel-television-show-axn-television-angle-text-thumbnail.png" group-title="ENG Movies",AXN
+#EXTINF:-1 tvg-id=ts1261 tvg-logo="https://w7.pngwing.com/pngs/903/320/png-transparent-axn-television-channel-sony-channel-television-show-axn-television-angle-text-thumbnail.png" group-title="Movies",AXN
 #EXTVLCOPT:http-user-agent=third-party
 https://mix.drmlive.au/mix/engaxn.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=axn1
-#EXTINF:-1 tvg-id=ts1255 tvg-logo="https://w7.pngwing.com/pngs/903/320/png-transparent-axn-television-channel-sony-channel-television-show-axn-television-angle-text-thumbnail.png" group-title="ENG Movies",AXN ??
+#EXTINF:-1 tvg-id=ts1255 tvg-logo="https://w7.pngwing.com/pngs/903/320/png-transparent-axn-television-channel-sony-channel-television-show-axn-television-angle-text-thumbnail.png" group-title="Movies",AXN ??
 https://mix.drmlive.au/mix/engaxn1.mpd|X-Forwarded-For=90.77.2.161
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=axnwhite
-#EXTINF:-1 tvg-id=ts1254 tvg-logo="https://w7.pngwing.com/pngs/903/320/png-transparent-axn-television-channel-sony-channel-television-show-axn-television-angle-text-thumbnail.png" group-title="ENG Movies",AXN White
+#EXTINF:-1 tvg-id=ts1254 tvg-logo="https://w7.pngwing.com/pngs/903/320/png-transparent-axn-television-channel-sony-channel-television-show-axn-television-angle-text-thumbnail.png" group-title="Movies",AXN White
 https://mix.drmlive.au/mix/engaxnwhite.mpd|X-Forwarded-For=90.77.2.161
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -356,29 +356,29 @@ https://mix.drmlive.au/mix/engcolors.mpd
 
 punjabi news
 
-#EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/LVMS1Dkw_punjab_haryana.jpeg" group-title="Punjabi News",ZEE News Punjab Haryana
+#EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/LVMS1Dkw_punjab_haryana.jpeg" group-title="News",ZEE News Punjab Haryana
 https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="Punjabi News",Abp Sanjha
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",Abp Sanjha
 https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/e/9/1/e91bc524d6e84487926e65ef669f26c4_screen.png" group-title="Punjabi News",Apna Punjab TV
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/e/9/1/e91bc524d6e84487926e65ef669f26c4_screen.png" group-title="News",Apna Punjab TV
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-22/2406222019003.jpg" group-title="Punjabi News",Global Punjab
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-22/2406222019003.jpg" group-title="News",Global Punjab
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51-Iht3cQAL.png" group-title="Punjabi News",TV Punjab
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51-Iht3cQAL.png" group-title="News",TV Punjab
 #http://cdn.samtv.ca/tvpunjab/index.m3u8
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/247/660/png-transparent-haryana-punjab-india-news-live-television-itv-network-punjab-miscellaneous-television-text.png" group-title="Punjabi News",India News Punjab/Haryana/Himachal
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/247/660/png-transparent-haryana-punjab-india-news-live-television-itv-network-punjab-miscellaneous-television-text.png" group-title="News",India News Punjab/Haryana/Himachal
 https://livetv.newsx.com/itv/itvnetwork8/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=511
-#EXTINF:-1 tvg-id=ts511 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="Punjabi News",Mh One News
+#EXTINF:-1 tvg-id=ts511 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="News",Mh One News
 https://jt.drmlive.au/jiotvplus/511.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/PTC_NEWS_LOGO.png" group-title="Punjabi News",PTC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/PTC_NEWS_LOGO.png" group-title="News",PTC News
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/channel-y.jpg" group-title="Punjabi News",Channel Y
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/channel-y.jpg" group-title="News",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -387,20 +387,20 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-id=ts517 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="News",Chardikla Time TV
 https://jt.drmlive.au/jiotvplus/517.mpd
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/n2-C6Iu-YsEsYd4__5tD1xbsWsTs4zXe7Q1DTs-_LUDCAy78Kz3inla-k2H4TugO0ME" group-title="Punjabi News",Liv Punjabi TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/n2-C6Iu-YsEsYd4__5tD1xbsWsTs4zXe7Q1DTs-_LUDCAy78Kz3inla-k2H4TugO0ME" group-title="News",Liv Punjabi TV
 https://cable15tataplay.akamaized.net/livepunjabi/livepunjabi/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.jusbroadcasting.org/uploads/1/4/1/2/141251565/jus-punjabi-hd-logo-white-final_orig.png" group-title="Punjabi News",JUSPunjabi
+#EXTINF:-1 tvg-logo="https://www.jusbroadcasting.org/uploads/1/4/1/2/141251565/jus-punjabi-hd-logo-white-final_orig.png" group-title="News",JUSPunjabi
 https://jio.drmlive.au/jio/JUSPunjabi/JUSPunjabi.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2950.DistroTv.in/en/16x9/320x180/test_pic1688061707648.webp" group-title="Punjabi News",News Only
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2950.DistroTv.in/en/16x9/320x180/test_pic1688061707648.webp" group-title="News",News Only
 https://jio.drmlive.au/jio/News_Only/News_Only.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-only/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-20/2406201534021.jpg" group-title="Punjabi News",World Punjabi
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-06-20/2406201534021.jpg" group-title="News",World Punjabi
 https://jio.drmlive.au/jio/World_Punjab/World_Punjab.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2eoQbsXtNx7METV-hW2VXRCJPLgncb14nPFtPhWG67LcU6-1xgsCp9vaY_fh-LSW6Bo&usqp=CAU" group-title="Punjabi News",Ptv Pardesi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2eoQbsXtNx7METV-hW2VXRCJPLgncb14nPFtPhWG67LcU6-1xgsCp9vaY_fh-LSW6Bo&usqp=CAU" group-title="News",Ptv Pardesi
 http://stream.pardesitv.online/pardesi/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/news18punjab-logo-1200x675.png" group-title="Punjabi News",News18 Punjab Haryana
+#EXTINF:-1 tvg-logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/news18punjab-logo-1200x675.png" group-title="News",News18 Punjab Haryana
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kedyMREmutKwRJ1gXVTTvl6VGoIln9IT2Y_gpeKk56GTAsYt6twhG3LLoFuKEmvCMAM&usqp=CAU" group-title="Punjabi News",BBC Toronto Punjab
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kedyMREmutKwRJ1gXVTTvl6VGoIln9IT2Y_gpeKk56GTAsYt6twhG3LLoFuKEmvCMAM&usqp=CAU" group-title="News",BBC Toronto Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream1/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -415,16 +415,16 @@ https://jt.drmlive.au/jiotvplus/715.mpd
 #EXTINF:-1 tvg-id=ts831 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="News",Living India News
 https://jt.drmlive.au/jiotvplus/831.mpd
 
-#EXTINF:-1 tvg-logo="https://tv.khabriya.in/uploads/hamdard-tv-1650133223593.png" group-title="Punjabi News",Hamdard TV
+#EXTINF:-1 tvg-logo="https://tv.khabriya.in/uploads/hamdard-tv-1650133223593.png" group-title="News",Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d55ccd39467e727bd13ba3fa68777d7a0d4df64aeed45e261118562ef58be03c.png" group-title="Punjabi News",Prime Asia TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d55ccd39467e727bd13ba3fa68777d7a0d4df64aeed45e261118562ef58be03c.png" group-title="News",Prime Asia TV
 https://jio.drmlive.au/jio/Prime_Asia_Tv/Prime_Asia_Tv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvcezwcIkVW5xhcR08SVtN58pgEHaXol8MpudFLiRJtrTzEt5qGyFQu5tdbSp05ikZkCg&usqp=CAU" group-title="Punjabi News",Sanjha TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvcezwcIkVW5xhcR08SVtN58pgEHaXol8MpudFLiRJtrTzEt5qGyFQu5tdbSp05ikZkCg&usqp=CAU" group-title="News",Sanjha TV
 https://jio.drmlive.au/jio/Sanjha_TV/Sanjha_TV.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sanjha-tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Daily_Post_PHH.png" group-title="Punjabi News",Daily Post PHH
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Daily_Post_PHH.png" group-title="News",Daily Post PHH
 https://jio.drmlive.au/jio/bpk-tv/Daily_Post_PHH_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4b960d_9e0cd152aab6402988b953794102682c~mv2.png/v1/fill/w_280,h_187,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_mockup.png" group-title="Punjabi News",Politics Punjab
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4b960d_9e0cd152aab6402988b953794102682c~mv2.png/v1/fill/w_280,h_187,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_mockup.png" group-title="News",Politics Punjab
 https://stream.imagetv.in/hls/politicspunjab/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -528,8 +528,6 @@ https://jio.drmlive.au/jio/Wah_Punjabi/Wah_Punjabi.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotvplus/jtck.php?id=946
 #EXTINF:-1 tvg-id=ts946 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Punjabi Movies",Pitaara
 https://jt.drmlive.au/jiotvplus/946.mpd
-#EXTINF:-1 channel-id="samsung-IN1600001OG" tvg-id="IN1600001OG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" tvg-chno="1125" group-title="SAMSUNG | Entertainment" , Pitaara Comedy
-https://jmp2.uk/SamsungTVPlus/IN1600001OG.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://scontent.fluh1-1.fna.fbcdn.net/v/t39.30808-1/428704303_122121607052208556_2583895390774868802_n.jpg?stp=c22.22.196.196a_dst-jpg_p240x240&_nc_cat=100&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=-mC9Bz3qn58Q7kNvgEzMhuM&_nc_ht=scontent.fluh1-1.fna&oh=00_AYAtQTzeSxBCplRqWE2Z0qLEh0uNikNaKbtB599p1dYWtw&oe=6681BD81" group-title="Punjabi Movies",Vasda Punjab
@@ -544,7 +542,7 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg?fit=250%2C250&ssl=1" group-title="Documentary","Nature","Knowledge","HD",Wild Earth
 https://wildearth-roku.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest/scale-to-width-down/1000?cb=20190917082854" group-title="ENG Movies",Sony Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest/scale-to-width-down/1000?cb=20190917082854" group-title="Movies",Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran.png" group-title="Sports",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -555,13 +553,13 @@ https://jio.drmlive.au/jio/bpk-tv/Sports18_2_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_3.png" group-title="Sports",Sports18 3
 https://jio.drmlive.au/jio/bpk-tv/Sports18_3_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0X2xdLJX_4D-Fnwblbjx-PCPlV4IBpCUDw&usqp=CAU" group-title="Hindi Movies",Bollywood HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0X2xdLJX_4D-Fnwblbjx-PCPlV4IBpCUDw&usqp=CAU" group-title="Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndSXIevKPQmocntgIpYtdRp070NHEX0CLwxAC5iJbUBJuk_xhZEH8FpF4BUmtQ-gXujo&usqp=CAU" group-title="Hindi Movies",MBC Bollywood
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndSXIevKPQmocntgIpYtdRp070NHEX0CLwxAC5iJbUBJuk_xhZEH8FpF4BUmtQ-gXujo&usqp=CAU" group-title="Movies",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/medium_16_9_webp_1661880865.webp?1661890514" group-title="Hindi Movies",Shemaroo Bollywood
+#EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/medium_16_9_webp_1661880865.webp?1661890514" group-title="Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/medium_16_9_webp_1661880865.webp?1661890514" group-title="Hindi Movies",Shemaroo Bollywood
+#EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/medium_16_9_webp_1661880865.webp?1661890514" group-title="Movies",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 
 
@@ -607,19 +605,19 @@ https://la.drmlive.au/tp/641.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/959.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts8" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment, HD",STAR Plus HD
+#EXTINF:-1 tvg-id="ts8" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",STAR Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=8
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/8.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts244" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Entertainment, HD",Star Bharat HD
+#EXTINF:-1 tvg-id="ts244" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Entertainment",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=244
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/244.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts15" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Entertainment, HD",SET HD
+#EXTINF:-1 tvg-id="ts15" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Entertainment",SET HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=15
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -631,7 +629,7 @@ https://la.drmlive.au/tp/15.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/556.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts48" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment, HD",SONY SAB HD
+#EXTINF:-1 tvg-id="ts48" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment",SONY SAB HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=48
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -643,7 +641,7 @@ https://la.drmlive.au/tp/48.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/559.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts40" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment, HD",&tv HD
+#EXTINF:-1 tvg-id="ts40" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment",&tv HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=40
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -655,7 +653,7 @@ https://la.drmlive.au/tp/40.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/578.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts63" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Entertainment, HD",Zee TV HD
+#EXTINF:-1 tvg-id="ts63" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Entertainment",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=63
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -673,7 +671,7 @@ https://la.drmlive.au/tp/557.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/811.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts52" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment, HD",Colors HD
+#EXTINF:-1 tvg-id="ts52" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=52
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -823,19 +821,19 @@ https://la.drmlive.au/tp/191.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/326.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts808" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49809-k7454ppk-v3/imageContent-49809-k7454ppk-m6.png" group-title="Entertainment, HD",Tata Play Hits
+#EXTINF:-1 tvg-id="ts808" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49809-k7454ppk-v3/imageContent-49809-k7454ppk-m6.png" group-title="Entertainment",Tata Play Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=808
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/808.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts187" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png" group-title="Entertainment, HD",Colors Infinity HD
+#EXTINF:-1 tvg-id="ts187" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png" group-title="Entertainment",Colors Infinity HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=187
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/187.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts307" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png" group-title="Entertainment, HD",Comedy Central HD
+#EXTINF:-1 tvg-id="ts307" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png" group-title="Entertainment",Comedy Central HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=307
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -871,7 +869,7 @@ https://la.drmlive.au/tp/486.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/789.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts245" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies, HD",STAR GOLD HD
+#EXTINF:-1 tvg-id="ts245" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies",STAR GOLD HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=245
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -883,7 +881,7 @@ https://la.drmlive.au/tp/245.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/1130.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts80" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Movies, HD",SONY MAX HD
+#EXTINF:-1 tvg-id="ts80" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Movies",SONY MAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=80
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -901,7 +899,7 @@ https://la.drmlive.au/tp/132.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/741.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts503" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Movies, HD",Zee Cinema HD
+#EXTINF:-1 tvg-id="ts503" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=503
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -925,13 +923,13 @@ https://la.drmlive.au/tp/175.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/727.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts666" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png" group-title="Movies, HD",Tata Play Theatre HD
+#EXTINF:-1 tvg-id="ts666" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png" group-title="Movies",Tata Play Theatre HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=666
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/666.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts267" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Movies, HD",&pictures HD
+#EXTINF:-1 tvg-id="ts267" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Movies",&pictures HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=267
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -955,7 +953,7 @@ https://la.drmlive.au/tp/1183.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/677.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts61" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="Movies, HD",Colors Cineplex HD
+#EXTINF:-1 tvg-id="ts61" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="Movies",Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=61
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1069,7 +1067,7 @@ https://la.drmlive.au/tp/173.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/234.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts32" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Movies, HD",SONY PIX HD
+#EXTINF:-1 tvg-id="ts32" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Movies",SONY PIX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=32
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1081,19 +1079,19 @@ https://la.drmlive.au/tp/32.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/558.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts562" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" group-title="Movies, HD",Movies Now HD
+#EXTINF:-1 tvg-id="ts562" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" group-title="Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=562
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/562.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts210" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png" group-title="Movies, HD",MN+ HD
+#EXTINF:-1 tvg-id="ts210" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png" group-title="Movies",MN+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=210
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/210.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts599" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" group-title="Movies, HD",MNX HD
+#EXTINF:-1 tvg-id="ts599" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png" group-title="Movies",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=599
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1111,37 +1109,37 @@ https://la.drmlive.au/tp/174.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/223.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts78" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports, HD",Star Sports 1 HD
+#EXTINF:-1 tvg-id="ts78" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=78
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/78.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts235" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports, HD",Star Sports 2 HD
+#EXTINF:-1 tvg-id="ts235" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=235
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/235.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts24" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports, HD",Star Sports 1 Hindi HD
+#EXTINF:-1 tvg-id="ts24" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=24
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/24.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts246" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports, HD",Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="ts246" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=246
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/246.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts463" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports, HD",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="ts463" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=463
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/463.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts81" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports, HD",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-id="ts81" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",SONY SPORTS TEN 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=81
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1153,7 +1151,7 @@ https://la.drmlive.au/tp/81.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/150.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts462" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports, HD",SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-id="ts462" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",SONY SPORTS TEN 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=462
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1165,7 +1163,7 @@ https://la.drmlive.au/tp/462.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/170.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts464" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="Sports, HD",SONY SPORTS TEN 3 HD
+#EXTINF:-1 tvg-id="ts464" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="Sports",SONY SPORTS TEN 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=464
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1177,7 +1175,7 @@ https://la.drmlive.au/tp/464.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/171.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts35" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sports, HD",SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-id="ts35" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sports",SONY SPORTS TEN 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=35
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1195,7 +1193,7 @@ https://la.drmlive.au/tp/1033.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/980.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts812" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="Sports, HD",Eurosport HD
+#EXTINF:-1 tvg-id="ts812" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="Sports",Eurosport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=812
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1207,7 +1205,7 @@ https://la.drmlive.au/tp/812.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/693.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts691" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34886-jqc7dybs-v2/imageContent-34886-jqc7dybs-m2.png" group-title="News, HD",DD News HD
+#EXTINF:-1 tvg-id="ts691" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34886-jqc7dybs-v2/imageContent-34886-jqc7dybs-m2.png" group-title="News",DD News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=691
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1237,7 +1235,7 @@ https://la.drmlive.au/tp/783.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/179.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts689" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="News, HD",Aaj Tak HD
+#EXTINF:-1 tvg-id="ts689" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="News",Aaj Tak HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=689
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1333,7 +1331,7 @@ https://la.drmlive.au/tp/706.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/485.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts932" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png" group-title="News, HD",Times Now Navbharat HD
+#EXTINF:-1 tvg-id="ts932" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png" group-title="News",Times Now Navbharat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=932
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1501,7 +1499,7 @@ https://la.drmlive.au/tp/212.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/208.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts547" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11853-j9l1tvhs-v4/imageContent-11853-j9l1tvhs-m5.png" group-title="News, HD",Times Now World
+#EXTINF:-1 tvg-id="ts547" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11853-j9l1tvhs-v4/imageContent-11853-j9l1tvhs-m5.png" group-title="News",Times Now World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=547
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1555,7 +1553,7 @@ https://la.drmlive.au/tp/72.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/324.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts304" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png" group-title="Business, HD",CNBC TV18 Prime HD
+#EXTINF:-1 tvg-id="ts304" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png" group-title="Business",CNBC TV18 Prime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=304
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1783,7 +1781,7 @@ https://la.drmlive.au/tp/111.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/167.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts605" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Documentary, HD",National Geographic HD
+#EXTINF:-1 tvg-id="ts605" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Documentary",National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=605
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1795,7 +1793,7 @@ https://la.drmlive.au/tp/605.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/137.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts413" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Documentary, HD",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="ts413" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Documentary",Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=413
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1807,7 +1805,7 @@ https://la.drmlive.au/tp/413.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/184.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts341" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Documentary, HD",Discovery HD World
+#EXTINF:-1 tvg-id="ts341" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="Documentary",Discovery HD World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=341
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1819,7 +1817,7 @@ https://la.drmlive.au/tp/341.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/219.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts287" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="Documentary, HD",Animal Planet HD World
+#EXTINF:-1 tvg-id="ts287" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="Documentary",Animal Planet HD World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=287
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1849,7 +1847,7 @@ https://la.drmlive.au/tp/616.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/172.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts460" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Documentary, HD",SONY BBC Earth HD
+#EXTINF:-1 tvg-id="ts460" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Documentary",SONY BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=460
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1939,7 +1937,7 @@ https://la.drmlive.au/tp/227.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/735.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts406" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Music, HD",MTV HD
+#EXTINF:-1 tvg-id="ts406" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Music",MTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=406
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -1969,7 +1967,7 @@ https://la.drmlive.au/tp/96.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/224.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts405" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Music, HD",MTV Beats HD
+#EXTINF:-1 tvg-id="ts405" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Music",MTV Beats HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=405
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2011,7 +2009,7 @@ https://la.drmlive.au/tp/39.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/733.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts539" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="Music, HD",VH1 HD
+#EXTINF:-1 tvg-id="ts539" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png" group-title="Music",VH1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=539
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2467,7 +2465,7 @@ https://la.drmlive.au/tp/365.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/338.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts308" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16764-jcix3xpc-v2/imageContent-16764-jcix3xpc-m2.PNG" group-title="Regional, HD",Colors Marathi HD
+#EXTINF:-1 tvg-id="ts308" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16764-jcix3xpc-v2/imageContent-16764-jcix3xpc-m2.PNG" group-title="Regional",Colors Marathi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=308
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2479,7 +2477,7 @@ https://la.drmlive.au/tp/308.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/134.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts501" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png" group-title="Regional, HD",Zee Marathi HD
+#EXTINF:-1 tvg-id="ts501" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png" group-title="Regional",Zee Marathi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=501
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2497,7 +2495,7 @@ https://la.drmlive.au/tp/251.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/622.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts469" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png" group-title="Regional, HD",Star Pravah HD
+#EXTINF:-1 tvg-id="ts469" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png" group-title="Regional",Star Pravah HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=469
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2521,7 +2519,7 @@ https://la.drmlive.au/tp/658.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/999.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts515" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="Regional, HD",Zee Talkies HD
+#EXTINF:-1 tvg-id="ts515" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png" group-title="Regional",Zee Talkies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=515
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2773,7 +2771,7 @@ https://la.drmlive.au/tp/314.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/215.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts635" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="Regional, HD",Zee Telugu HD
+#EXTINF:-1 tvg-id="ts635" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png" group-title="Regional",Zee Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=635
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2785,7 +2783,7 @@ https://la.drmlive.au/tp/635.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/250.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts355" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png" group-title="Regional, HD",Gemini TV HD
+#EXTINF:-1 tvg-id="ts355" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png" group-title="Regional",Gemini TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=355
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2803,7 +2801,7 @@ https://la.drmlive.au/tp/516.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/956.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts359" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="Regional, HD",ETV HD
+#EXTINF:-1 tvg-id="ts359" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png" group-title="Regional",ETV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=359
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2851,7 +2849,7 @@ https://la.drmlive.au/tp/585.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/645.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts362" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="Regional, HD",Gemini Movies HD
+#EXTINF:-1 tvg-id="ts362" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" group-title="Regional",Gemini Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=362
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -2887,7 +2885,7 @@ https://la.drmlive.au/tp/954.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/1168.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts636" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="Regional, HD",Zee Cinemalu HD
+#EXTINF:-1 tvg-id="ts636" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png" group-title="Regional",Zee Cinemalu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=636
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -3091,7 +3089,7 @@ https://la.drmlive.au/tp/351.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/630.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts521" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Regional, HD",Sun TV HD
+#EXTINF:-1 tvg-id="ts521" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Regional",Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=521
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -3109,7 +3107,7 @@ https://la.drmlive.au/tp/1260.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/474.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts496" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Regional, HD",Star Vijay HD
+#EXTINF:-1 tvg-id="ts496" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Regional",Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=496
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -3121,7 +3119,7 @@ https://la.drmlive.au/tp/496.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/1167.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts608" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Regional, HD",Zee Tamil HD
+#EXTINF:-1 tvg-id="ts608" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Regional",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=608
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -3133,7 +3131,7 @@ https://la.drmlive.au/tp/608.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/257.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts674" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Regional, HD",Colors Tamil HD
+#EXTINF:-1 tvg-id="ts674" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Regional",Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=674
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -3145,7 +3143,7 @@ https://la.drmlive.au/tp/674.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/418.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts708" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Regional, HD",Jaya TV HD
+#EXTINF:-1 tvg-id="ts708" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Regional",Jaya TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=708
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -3229,7 +3227,7 @@ https://la.drmlive.au/tp/659.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/1322.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts380" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Regional, HD",KTV HD
+#EXTINF:-1 tvg-id="ts380" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Regional",KTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=380
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -3397,13 +3395,13 @@ https://la.drmlive.au/tp/334.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/490.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts492" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11883-j9l3rjzc-v1/imageContent-11883-j9l3rjzc-m1.png" group-title="Regional, HD",Udaya TV HD
+#EXTINF:-1 tvg-id="ts492" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11883-j9l3rjzc-v1/imageContent-11883-j9l3rjzc-m1.png" group-title="Regional",Udaya TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=492
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/492.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts612" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12249-j9qr87hc-v5/imageContent-12249-j9qr87hc-m5.png" group-title="Regional, HD",Colors Kannada HD
+#EXTINF:-1 tvg-id="ts612" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12249-j9qr87hc-v5/imageContent-12249-j9qr87hc-m5.png" group-title="Regional",Colors Kannada HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=612
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -3415,13 +3413,13 @@ https://la.drmlive.au/tp/612.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/108.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts467" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png" group-title="Regional, HD",Star Suvarna HD
+#EXTINF:-1 tvg-id="ts467" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png" group-title="Regional",Star Suvarna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=467
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/467.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts675" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png" group-title="Regional, HD",Zee Kannada HD
+#EXTINF:-1 tvg-id="ts675" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png" group-title="Regional",Zee Kannada HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=675
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -3793,7 +3791,7 @@ https://la.drmlive.au/tp/1169.mpd|X-Forwarded-For=59.178.74.184
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
 https://la.drmlive.au/tp/230.mpd|X-Forwarded-For=59.178.74.184
 
-#EXTINF:-1 tvg-id="ts292" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Regional, HD",Asianet HD
+#EXTINF:-1 tvg-id="ts292" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Regional",Asianet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=292
 #EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
@@ -9514,91 +9512,91 @@ https://jt.drmlive.au/jiotvplus/143.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1
-#EXTINF:-1 tvg-id=ts1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png" group-title="Eports",TNT Sport 1
+#EXTINF:-1 tvg-id=ts1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png" group-title="Sports",TNT Sport 1
 https://now.drmlive.au/now/nowtv1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=2
-#EXTINF:-1 tvg-id=ts2 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png" group-title="Eports",TNT Sport 2
+#EXTINF:-1 tvg-id=ts2 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png" group-title="Sports",TNT Sport 2
 https://now.drmlive.au/now/nowtv2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=3
-#EXTINF:-1 tvg-id=ts3 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/iwotea1701768457.png" group-title="Eports",TNT Sport 3
+#EXTINF:-1 tvg-id=ts3 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/iwotea1701768457.png" group-title="Sports",TNT Sport 3
 https://now.drmlive.au/now/nowtv3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=4
-#EXTINF:-1 tvg-id=ts4 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png" group-title="Eports",TNT Sport 4
+#EXTINF:-1 tvg-id=ts4 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png" group-title="Sports",TNT Sport 4
 https://now.drmlive.au/now/nowtv4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=5
-#EXTINF:-1 tvg-id=ts5 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/za5ba01689746204.png" group-title="Eports",TNT Sport 5
+#EXTINF:-1 tvg-id=ts5 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/za5ba01689746204.png" group-title="Sports",TNT Sport 5
 https://now.drmlive.au/now/nowtv5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=4091
-#EXTINF:-1 tvg-id=ts4091 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_4091_darknow/400/100" group-title="Eports",Sky Sports Mix
+#EXTINF:-1 tvg-id=ts4091 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_4091_darknow/400/100" group-title="Sports",Sky Sports Mix
 https://now.drmlive.au/now/nowtv4091.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1354
-#EXTINF:-1 tvg-id=ts1354 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1354_darknow/400/100" group-title="Eports",Sky Sports Racing
+#EXTINF:-1 tvg-id=ts1354 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1354_darknow/400/100" group-title="Sports",Sky Sports Racing
 https://now.drmlive.au/now/nowtv1354.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=3839
-#EXTINF:-1 tvg-id=ts3839 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_3839_darknow/400/100" group-title="Eports",Sky Sports Arena
+#EXTINF:-1 tvg-id=ts3839 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_3839_darknow/400/100" group-title="Sports",Sky Sports Arena
 https://now.drmlive.au/now/nowtv3839.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1333
-#EXTINF:-1 tvg-id=ts1333 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1333_darknow/400/100" group-title="Eports",Sky Sports Action
+#EXTINF:-1 tvg-id=ts1333 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1333_darknow/400/100" group-title="Sports",Sky Sports Action
 https://now.drmlive.au/now/nowtv1333.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1284
-#EXTINF:-1 tvg-id=ts1284 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1284_lightnow/400/100" group-title="Eports",Sky Sports Tennis
+#EXTINF:-1 tvg-id=ts1284 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1284_lightnow/400/100" group-title="Sports",Sky Sports Tennis
 https://now.drmlive.au/now/nowtv1284.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1306
-#EXTINF:-1 tvg-id=ts1306 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1306_darknow/400/100" group-title="Eports",Sky Sports F1
+#EXTINF:-1 tvg-id=ts1306 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1306_darknow/400/100" group-title="Sports",Sky Sports F1
 https://now.drmlive.au/now/nowtv1306.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1322
-#EXTINF:-1 tvg-id=ts1322 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1322_darknow/400/100" group-title="Eports",Sky Sports Golf
+#EXTINF:-1 tvg-id=ts1322 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1322_darknow/400/100" group-title="Sports",Sky Sports Golf
 https://now.drmlive.au/now/nowtv1322.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1302
-#EXTINF:-1 tvg-id=ts1302 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1302_darknow/400/100" group-title="Eports",Sky Sports Cricket
+#EXTINF:-1 tvg-id=ts1302 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1302_darknow/400/100" group-title="Sports",Sky Sports Cricket
 https://now.drmlive.au/now/nowtv1302.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=3838
-#EXTINF:-1 tvg-id=ts3838 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_3838_darknow/400/100" group-title="Eports",Sky Sports Football
+#EXTINF:-1 tvg-id=ts3838 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_3838_darknow/400/100" group-title="Sports",Sky Sports Football
 https://now.drmlive.au/now/nowtv3838.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1303
-#EXTINF:-1 tvg-id=ts1303 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1303_darknow/400/100" group-title="Eports",Sky Sports Premier League
+#EXTINF:-1 tvg-id=ts1303 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1303_darknow/400/100" group-title="Sports",Sky Sports Premier League
 https://now.drmlive.au/now/nowtv1303.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1301
-#EXTINF:-1 tvg-id=ts1301 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1301_darknow/400/100" group-title="Eports",Sky Sports Main Event
+#EXTINF:-1 tvg-id=ts1301 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1301_darknow/400/100" group-title="Sports",Sky Sports Main Event
 https://now.drmlive.au/now/nowtv1301.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1314
-#EXTINF:-1 tvg-id=ts1314 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1314_darknow/400/100" group-title="Eports",Sky Sports News HQ
+#EXTINF:-1 tvg-id=ts1314 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1314_darknow/400/100" group-title="Sports",Sky Sports News HQ
 https://now.drmlive.au/now/nowtv1314.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9638,57 +9636,57 @@ https://now.drmlive.au/now/nowtv1147.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=4016
-#EXTINF:-1 tvg-id=ts4016 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1816_darknow/400/100" group-title="Eovies",Sky Cinema Drama
+#EXTINF:-1 tvg-id=ts4016 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1816_darknow/400/100" group-title="Movies",Sky Cinema Drama
 https://now.drmlive.au/now/nowtv4016.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1815
-#EXTINF:-1 tvg-id=ts1815 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1815_darknow/400/100" group-title="Eovies",Sky Cinema Greats
+#EXTINF:-1 tvg-id=ts1815 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1815_darknow/400/100" group-title="Movies",Sky Cinema Greats
 https://now.drmlive.au/now/nowtv1815.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=4062
-#EXTINF:-1 tvg-id=ts4062 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1818_darknow/400/100" group-title="Eovies",Sky Cinema Thriller
+#EXTINF:-1 tvg-id=ts4062 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1818_darknow/400/100" group-title="Movies",Sky Cinema Thriller
 https://now.drmlive.au/now/nowtv4062.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=4017
-#EXTINF:-1 tvg-id=ts4017 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1807_darknow/400/100" group-title="Eovies",Sky Cinema ScFi/Horror
+#EXTINF:-1 tvg-id=ts4017 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1807_darknow/400/100" group-title="Movies",Sky Cinema ScFi/Horror
 https://now.drmlive.au/now/nowtv4017.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=4019
-#EXTINF:-1 tvg-id=ts4019 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1002_darknow/400/100" group-title="Eovies",Sky Cinema Comedy
+#EXTINF:-1 tvg-id=ts4019 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1002_darknow/400/100" group-title="Movies",Sky Cinema Comedy
 https://now.drmlive.au/now/nowtv4019.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1808
-#EXTINF:-1 tvg-id=ts1808 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1808_darknow/400/100" group-title="Eovies",Sky Cinema Family
+#EXTINF:-1 tvg-id=ts1808 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1808_darknow/400/100" group-title="Movies",Sky Cinema Family
 https://now.drmlive.au/now/nowtv1808.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1199
-#EXTINF:-1 tvg-id=ts1199 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1199_lightnow/400/100" group-title="Eovies",Sky Cinema Animation
+#EXTINF:-1 tvg-id=ts1199 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1199_lightnow/400/100" group-title="Movies",Sky Cinema Animation
 https://now.drmlive.au/now/nowtv1199.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1001
-#EXTINF:-1 tvg-id=ts1001 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1001_darknow/400/100" group-title="Eovies",Sky Cinema Action
+#EXTINF:-1 tvg-id=ts1001 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1001_darknow/400/100" group-title="Movies",Sky Cinema Action
 https://now.drmlive.au/now/nowtv1001.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=4033
-#EXTINF:-1 tvg-id=ts4033 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1814_darknow/400/100" group-title="Eovies",Sky Cinema Hits
+#EXTINF:-1 tvg-id=ts4033 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1814_darknow/400/100" group-title="Movies",Sky Cinema Hits
 https://now.drmlive.au/now/nowtv4033.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=4020
-#EXTINF:-1 tvg-id=ts4020 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sky_Cinema_Select_2020.svg/400px-Sky_Cinema_Select_2020.svg.png" group-title="Eovies",Sky Cinema Select
+#EXTINF:-1 tvg-id=ts4020 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sky_Cinema_Select_2020.svg/400px-Sky_Cinema_Select_2020.svg.png" group-title="Movies",Sky Cinema Select
 https://now.drmlive.au/now/nowtv4020.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1409
-#EXTINF:-1 tvg-id=ts1409 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1409_darknow/400/100" group-title="Eovies",Sky Cinema Premiere
+#EXTINF:-1 tvg-id=ts1409 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1409_darknow/400/100" group-title="Movies",Sky Cinema Premiere
 https://now.drmlive.au/now/nowtv1409.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
