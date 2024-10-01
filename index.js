@@ -167,7 +167,8 @@ app.use("/tp", async (req, res) => {
 });
 
 app.use("/play", async (req, res) => {
-  return res.send(converter(zee_sony + playlist + new20));
+  const sLiv = await Axios.get('https://rentry.co/sonyliv/raw')
+  return res.send(converter(sLiv.data + playlist));
 });
 
 app.get("/down", async (req, res) => {
