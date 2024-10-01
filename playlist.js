@@ -9666,6 +9666,16 @@ https://jt.drmlive.au/jiotv+/jiotv+.php?id=144
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.au/jiotv+/jtck.php?id=143
 #EXTINF:-1 tvg-id=ts143 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Business News",CNBC Tv18 Prime HD
-https://jt.drmlive.au/jiotv+/jiotv+.php?id=143`;
+https://jt.drmlive.au/jiotv+/jiotv+.php?id=143
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/allowipmpd_key.php?id=chlajabsdk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="✅ Activation",Activate Playlist
+#EXTVLCOPT:http-user-agent=third-party
+https://mix.drmlive.au/mix/actchaljabsdk.mpd`;
+
+
+
 
 module.exports = playlist;
