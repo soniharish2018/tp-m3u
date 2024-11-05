@@ -9,7 +9,8 @@ const new20 = require("./newt20");
 const fs = require("fs");
 const path = require("path");
 const m3uContent = require("./downloadedFile");
-const { SonyZee } = require("./SonuZee");
+const { SonyZee } = require("./denPlay");
+const { denPlay } = require("./denPlay");
 var app = express();
 
 const converter = (playls) => {
@@ -143,8 +144,7 @@ const converter = (playls) => {
 
 app.use("/gen", async (req, res) => {
 
-  const response = await Axios.get("https://drmtp.vercel.app/");
-  let modify = converter(SonyZee + response.data);
+  let modify = converter(SonyZee + denPlay);
   return res.send(modify);
 });
 
