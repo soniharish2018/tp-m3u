@@ -9,7 +9,7 @@ const new20 = require("./newt20");
 const fs = require("fs");
 const path = require("path");
 const m3uContent = require("./downloadedFile");
-const { SonyZee } = require("./denPlay");
+const { SonyZee } = require("./SonuZee");
 const { denPlay } = require("./denPlay");
 var app = express();
 
