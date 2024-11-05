@@ -304,11 +304,11 @@ https://tp.denver1769.workers.dev/tplay/486.mpd
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://tp.denver1769.workers.dev/tplay/789.mpd
 
+#EXTINF:-1 tvg-id="ts245" tvg-country="IN" catchup-days="7" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies",STAR GOLD HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/T3/KeyLelo4.php?id=245
-#EXTINF:-1 tvg-id="ts245" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" tvg-country="IN" catchup-type="append" catchup-days="7" catchup-source="&utc={utc}&lutc={utcend}" group-title="Movies",STAR GOLD HD
-#EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://tp.denver1769.workers.dev/tplay/245.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=245
+#EXTVLCOPT:http-user-agent=Drmlive/5.0 Safari/537.36
+https://la.drmlive.au/tp/245.mpd|X-Forwarded-For=59.178.74.184
 
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://i.ibb.co/kJCTGhg/CC-20221111-203447.png" tvg-country="IN" catchup-type="append" catchup-days="7" catchup-source="&utc={utc}&lutc={utcend}" group-title="Movies",Star Gold 2
 #EXTVLCOPT:http-user-agent=Denver1769
