@@ -121,7 +121,7 @@ https://la.drmlive.au/tp/sliv.php?id=sony
 http://jio.drmlive.au/jio/jio-sliv.php?id=154
 
 #EXTINF:-1 tvg-id="559" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="Entertainment",SONY SAB (Airtel)
-https://pflixsansat.vercel.app/play?id=9088
+https://pflixsansat.vercel.app/play?id=11672
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
 https://la.drmlive.au/tp/sliv.php?id=sab
