@@ -5,12 +5,11 @@ const t20 = require("./t20");
 const { zee_sony } = require("./zee_sony");
 const { zeesony } = require("./zeesony");
 const new20 = require("./newt20");
-const { SLiv } = require("./SonuZee");
 
 const fs = require("fs");
 const path = require("path");
 const m3uContent = require("./downloadedFile");
-const { SonyZee } = require("./newSliv");
+const { SonyZee } = require("./SonuZee");
 var app = express();
 
 const converter = (playls) => {
@@ -145,8 +144,7 @@ const converter = (playls) => {
 app.use("/gen", async (req, res) => {
 
   const response = await Axios.get("https://drmtp.vercel.app/");
-  const sLiv = SonyZee
-  let modify = converter(sLiv.data + response.data);
+  let modify = converter(SonyZee + response.data);
   return res.send(modify);
 });
 
@@ -154,7 +152,7 @@ app.use("/tp", async (req, res) => {
   const response = await Axios.get(
     "https://tataplay.firecaptain94.workers.dev"
   );
-  let modify = converter(response.data + t20 + new20 + SLiv);
+  let modify = converter(response.data + t20 + new20 + SonyZee);
   modify +
     `
     #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -168,8 +166,7 @@ app.use("/tp", async (req, res) => {
 });
 
 app.use("/play", async (req, res) => {
-  const sLiv = SonyZee
-  return res.send(converter(sLiv.data + playlist));
+  return res.send(converter(SonyZee + playlist));
 });
 
 app.get("/down", async (req, res) => {
