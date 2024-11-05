@@ -1,4 +1,12 @@
 const playlist = `
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/allowipmpd_key.php?id=chlajabsdk
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="✅ Activation",Activate Playlist
+#EXTVLCOPT:http-user-agent=third-party
+https://mix.drmlive.au/mix/actchaljabsdk.mpd
+
 #EXTINF:-1 tvg-id="24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Cricket",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -113,9 +121,7 @@ https://la.drmlive.au/tp/sliv.php?id=sony
 http://jio.drmlive.au/jio/jio-sliv.php?id=154
 
 #EXTINF:-1 tvg-id="559" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="Entertainment",SONY SAB (Airtel)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/eng_key.php?id=sonysab
-https://mix.drmlive.au/mix/engsonysab.mpd
+https://pflixsansat.vercel.app/play?id=9088
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
 https://la.drmlive.au/tp/sliv.php?id=sab
@@ -9757,13 +9763,6 @@ https://now.drmlive.au/now/nowtv1412.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://now.drmlive.au/now/now_key.php?id=1276
 #EXTINF:-1 tvg-id=ts1276 tvg-logo="https://images.metadata.sky.com/pd-logo/skychb_1276_lightnow/400/100" group-title="Entertainment",Sky Showcase
 https://now.drmlive.au/now/nowtv1276.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.au/mix/allowipmpd_key.php?id=chlajabsdk
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="✅ Activation",Activate Playlist
-#EXTVLCOPT:http-user-agent=third-party
-https://mix.drmlive.au/mix/actchaljabsdk.mpd
 
 `
 
