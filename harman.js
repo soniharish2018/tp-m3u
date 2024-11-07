@@ -837,171 +837,171 @@ https://dv8r.short.gy/Bollywood_nonstop_HD.m3u8
 #EXTINF:-1 tvg-id="ts41966" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="🎬 Movies" tvg-country="IN"  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2nm6hdal5e6de3vt8ypeq/Bollywood_Hits_HD.png?rlkey=29yy1cso62f00x5c6l44haklj&st=20onvbfr&dl=0",Bollywood Hits HD
 https://dv8r.short.gy/Bollywood_hits_HD.m3u8
 
-#EXTINF:-1 tvg-id="ts134" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-450-j5jtumug-v3/imageContent-450-j5jtumug-m3.png",Colors Marathi 
+#EXTINF:-1 tvg-id="ts134" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Marathi" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-450-j5jtumug-v3/imageContent-450-j5jtumug-m3.png",Colors Marathi 
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 https://play.tsdevil.fun/tplay-api/tp-voot.m3u8?id=134
 
-#EXTINF:-1 tvg-id="ts658" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png",Sony Marathi
+#EXTINF:-1 tvg-id="ts658" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Marathi" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png",Sony Marathi
 https://play.tsdevil.fun/tplay-api/tp-sliv.m3u8?id=658
 
-#EXTINF:-1 tvg-id="ts18714" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SPRPHD_Thumbnail-v1/SPRPHD_Thumbnail.png",Star Pravah Pictures HD 
+#EXTINF:-1 tvg-id="ts18714" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Marathi" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SPRPHD_Thumbnail-v1/SPRPHD_Thumbnail.png",Star Pravah Pictures HD 
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 https://dv8r.short.gy/Star_Pravah_PictureHD.m3u8
 
-#EXTINF:-1 tvg-id="ts816" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV HD
+#EXTINF:-1 tvg-id="ts816" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV HD
 https://dv8r.short.gy/Duronto_TV.m3u8
 
-#EXTINF:-1 tvg-id="ts817" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-country="BD" tvg-logo="https://www.highnewslive.in/wp-content/uploads/2023/05/imgpsh_fullsize_anim-min.jpeg",High News
+#EXTINF:-1 tvg-id="ts817" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-country="BD" tvg-logo="https://www.highnewslive.in/wp-content/uploads/2023/05/imgpsh_fullsize_anim-min.jpeg",High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
-#EXTINF:-1 tvg-id="ts818" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-country="BD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/14/Channel_Dinraat_logo.png/revision/latest?cb=20210917023142",Channel Dinraat
+#EXTINF:-1 tvg-id="ts818" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-country="BD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/14/Channel_Dinraat_logo.png/revision/latest?cb=20210917023142",Channel Dinraat
 https://ythls.armelin.one/channel/UCILYNzZvWNUPaALmDJBIMAw.m3u8
 
-#EXTINF:-1 tvg-id="ts819" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-country="BD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmzx2XTAcQb8YYuSC34QPiFO1vBp4ZYLagLvi58gc9g&s",Digital Bangla
+#EXTINF:-1 tvg-id="ts819" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-country="BD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmzx2XTAcQb8YYuSC34QPiFO1vBp4ZYLagLvi58gc9g&s",Digital Bangla
 https://digitalbangla.livebox.co.in/digitalbanglahls/live.m3u8
 
-#EXTINF:-1 tvg-id="ts34" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png",SONY AATH
+#EXTINF:-1 tvg-id="ts34" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png",SONY AATH
 https://play.tsdevil.fun/tplay-api/tp-sliv.m3u8?id=34
 
-#EXTINF:-1 tvg-id="ts8457" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Telugu" tvg-country="IN"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160105",Star Sports 1 HD Telugu
+#EXTINF:-1 tvg-id="ts8457" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Telugu" tvg-country="IN"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160105",Star Sports 1 HD Telugu
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 https://dv8r.short.gy/Star_sports1_HD_telugu.m3u8
 
-#EXTINF:-1 tvg-id="ts363" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Tamil",Star Sports 1 HD Tamil
+#EXTINF:-1 tvg-id="ts363" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Tamil",Star Sports 1 HD Tamil
 http://premiumdedi.one:80/live/Jubilant7Relative/xmb1HEJBsY/451473.ts
 
-#EXTINF:-1 tvg-id="ts45" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Tamil" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",SONY YAY! Tamil
+#EXTINF:-1 tvg-id="ts45" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Tamil" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",SONY YAY! Tamil
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 https://dv8r.short.gy/Sony_yay_tamil.m3u8
 
-#EXTINF:-1 tvg-id="ts496" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Tamil" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD (Altr.)
+#EXTINF:-1 tvg-id="ts496" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Tamil" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD (Altr.)
 #EXTVLCOPT:http-referrer=https://tamilultra.tv/player.php?master.m3u8?c=STAR_VIJAY&server=1
 https://dv8r.short.gy/star_vijya_HD.m3u8
 
-#EXTINF:-1 tvg-id="ts235" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png",Star Vijay Super
+#EXTINF:-1 tvg-id="ts235" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Tamil" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png",Star Vijay Super
 https://dv8r.short.gy/Star_vijay_super.m3u8
 
-#EXTINF:-1 tvg-id="ts468" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png",Star Jalsha HD
+#EXTINF:-1 tvg-id="ts468" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png",Star Jalsha HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=468
 https://tsdevil.fun/tplay-api/live-mpd.php?id=468
 
-#EXTINF:-1 tvg-id="ts537" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",Jalsha Movies HD
+#EXTINF:-1 tvg-id="ts537" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",Jalsha Movies HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=537
 https://tsdevil.fun/tplay-api/live-mpd.php?id=537
 
-#EXTINF:-1 tvg-id="ts469" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",Star Pravah HD
+#EXTINF:-1 tvg-id="ts469" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Marathi" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",Star Pravah HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=469
 https://tsdevil.fun/tplay-api/live-mpd.php?id=469
 
-#EXTINF:-1 tvg-id="ts496" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Tamil" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
+#EXTINF:-1 tvg-id="ts496" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Tamil" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=496
 https://tsdevil.fun/tplay-api/live-mpd.php?id=496
 
-#EXTINF:-1 tvg-id="ts467" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Kannada" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png",Star Suvarna HD
+#EXTINF:-1 tvg-id="ts467" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Kannada" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png",Star Suvarna HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=467
 https://tsdevil.fun/tplay-api/live-mpd.php?id=467
 
-#EXTINF:-1 tvg-id="ts540" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Kannada" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12038-j9o0554o-v2/imageContent-12038-j9o0554o-m2.png",Star Suvarna Plus
+#EXTINF:-1 tvg-id="ts540" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Kannada" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12038-j9o0554o-v2/imageContent-12038-j9o0554o-m2.png",Star Suvarna Plus
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=540
 https://tsdevil.fun/tplay-api/live-mpd.php?id=540
 
-#EXTINF:-1 tvg-id="ts516" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Telugu" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png",STAR Maa HD
+#EXTINF:-1 tvg-id="ts516" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Telugu" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png",STAR Maa HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=516
 https://tsdevil.fun/tplay-api/live-mpd.php?id=516
 
-#EXTINF:-1 tvg-id="ts387" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Telugu" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG",Star Maa Movies HD
+#EXTINF:-1 tvg-id="ts387" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Telugu" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG",Star Maa Movies HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=387
 https://tsdevil.fun/tplay-api/live-mpd.php?id=387
 
-#EXTINF:-1 tvg-id="ts388" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Telugu" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png",Star Maa Gold
+#EXTINF:-1 tvg-id="ts388" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Telugu" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png",Star Maa Gold
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=388
 https://tsdevil.fun/tplay-api/live-mpd.php?id=388
 
-#EXTINF:-1 tvg-id="ts292" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Malayalam" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",Asianet HD
+#EXTINF:-1 tvg-id="ts292" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",Asianet HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tsdevil.fun/tplay-api/live-key.php?id=292
 https://tsdevil.fun/tplay-api/live-mpd.php?id=292
 
-#EXTINF:-1 tvg-id="ts674" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Tamil" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",Colors Tamil HD 
+#EXTINF:-1 tvg-id="ts674" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Tamil" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",Colors Tamil HD 
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 https://play.tsdevil.fun/tplay-api/tp-voot.m3u8?id=674
 
-#EXTINF:-1 tvg-id="ts107" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Gujarati" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-340-j5jmiei0-v1/imageContent-340-j5jmiei0-m1.png",Colors Gujarati 
+#EXTINF:-1 tvg-id="ts107" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Gujarati" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-340-j5jmiei0-v1/imageContent-340-j5jmiei0-m1.png",Colors Gujarati 
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 https://play.tsdevil.fun/tplay-api/tp-voot.m3u8?id=107
 
-#EXTINF:-1 tvg-id="tarangtv.in" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Odia" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCgffGkaakZAvO0lLBKW0w0cEljQ0SCheTg&s",Tarang TV
+#EXTINF:-1 tvg-id="tarangtv.in" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Odia" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCgffGkaakZAvO0lLBKW0w0cEljQ0SCheTg&s",Tarang TV
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 https://dv8r.short.gy/tarang_tv.m3u8
 
-#EXTINF:-1 tvg-id="ts292" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Malayalam" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",Asianet HD (Altr.)
+#EXTINF:-1 tvg-id="ts292" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",Asianet HD (Altr.)
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 https://dv8r.short.gy/Asianet_HD.m3u8
 
-#EXTINF:-1 tvg-id="ts1173" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Malayalam" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ASMOHD_Thumbnail-v2/ASMOHD_Thumbnail.png",Asianet Movies HD
+#EXTINF:-1 tvg-id="ts1173" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ASMOHD_Thumbnail-v2/ASMOHD_Thumbnail.png",Asianet Movies HD
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 https://dv8r.short.gy/Asianet_movies_HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="🎶 Music",Masti Music 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/75d18606-c9ea-41df-883d-2f4d5db9fc35/0.m3u8
 
-#EXTINF:-1 tvg-id="ts123" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-logo="https://i.postimg.cc/fLrwFw4Q/Green-TV.jpg",Green TV HD
+#EXTINF:-1 tvg-id="ts123" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-logo="https://i.postimg.cc/fLrwFw4Q/Green-TV.jpg",Green TV HD
 https://dv8r.short.gy/Green_tv
 
-#EXTINF:-1 tvg-id=ts1669 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali",Sun Bangla
+#EXTINF:-1 tvg-id=ts1669 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali",Sun Bangla
 https://dv8r.short.gy/sun_bangla.m3u8
 
-#EXTINF:-1 tvg-id="" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-cinema-in.png",Sun Bangla Cinema
+#EXTINF:-1 tvg-id="" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-cinema-in.png",Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/299fb7b1-571b-4c1f-85c2-b7e18954db48.jpg",Aamar Digital
+#EXTINF:-1 tvg-id="" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/299fb7b1-571b-4c1f-85c2-b7e18954db48.jpg",Aamar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-1 tvg-id="ts18452" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-country="IN"  tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.rtstsportsbd.rtsaiful/37e74dce-dbf6-11eb-8c00-734831dc9cc4/640",T SPORTS HD
+#EXTINF:-1 tvg-id="ts18452" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-country="IN"  tvg-logo="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.rtstsportsbd.rtsaiful/37e74dce-dbf6-11eb-8c00-734831dc9cc4/640",T SPORTS HD
 https://play.tsdevil.fun/tmkoc/xtreme/starS-tsdevil.m3u8?id=18452
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-logo="https://i.ibb.co/xh1M5D8/IMG-20240320-115340.jpg",RTV Music
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-logo="https://i.ibb.co/xh1M5D8/IMG-20240320-115340.jpg",RTV Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-logo="https://i.postimg.cc/SNQqCqyh/1708ecea-d867-423c-9743-2aabefcd8ecc.jpg",Mon TV Bangla
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-logo="https://i.postimg.cc/SNQqCqyh/1708ecea-d867-423c-9743-2aabefcd8ecc.jpg",Mon TV Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-logo="https://i.ibb.co/ynYtDv8/IMG-20240126-111745.png",Nobanno TV
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-logo="https://i.ibb.co/ynYtDv8/IMG-20240126-111745.png",Nobanno TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-logo="https://i.postimg.cc/vZc6kZRJ/Sananda-TV-Logo.jpg",Sananda TV
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-logo="https://i.postimg.cc/vZc6kZRJ/Sananda-TV-Logo.jpg",Sananda TV
 https://fr.tvanondo.online/sananda/video.m3u8
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="⚜️ Bengali" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+ HD
+#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="Bengali" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+ HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-id="ts908" group-logo="https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg" group-title="🙏🏻 Spiritual" tvg-country="IN"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62599-koxtswe0-v1/imageContent-62599-koxtswe0-m2.png",Nimbark TV
@@ -1038,16 +1038,16 @@ https://play.tsdevil.fun/zee5/stream.php?id=0-9-255
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&a HD" group-title="🎬 Movies" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-chno="0-9-9z5543514" ,&Prive HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5543514
-#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" tvg-name="Zee Punjab Haryana Himachal Pradesh" group-title="⚜️ Punjabi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png" tvg-chno="0-9-zeepunjabharyanahima" ,Zee Punjab Haryana Himachal Pradesh
+#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" tvg-name="Zee Punjab Haryana Himachal Pradesh" group-title="Punjabi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png" tvg-chno="0-9-zeepunjabharyanahima" ,Zee Punjab Haryana Himachal Pradesh
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeepunjabharyanahima
 #EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-name="Zee Business" group-title="📰  News" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png" tvg-chno="0-9-zeebusiness" ,Zee Business
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeebusiness
-#EXTINF:-1 tvg-id="0-9-zee24kalak" tvg-name="Zee 24 Kalak" group-title="⚜️ Gujarati" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" tvg-chno="0-9-zee24kalak" ,Zee 24 Kalak
+#EXTINF:-1 tvg-id="0-9-zee24kalak" tvg-name="Zee 24 Kalak" group-title="Gujarati" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" tvg-chno="0-9-zee24kalak" ,Zee 24 Kalak
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zee24kalak
-#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-name="Zee 24 Taas" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" tvg-chno="0-9-zee24taas" ,Zee 24 Taas
+#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-name="Zee 24 Taas" group-title="Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" tvg-chno="0-9-zee24taas" ,Zee 24 Taas
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zee24taas
 #EXTINF:-1 tvg-id="0-9-wion" tvg-name="WION" group-title="📰  News" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/WION.png" tvg-chno="0-9-wion" ,WION
@@ -1059,7 +1059,7 @@ https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeehindustan
 #EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" tvg-name="Zee Bihar Jharkhand" group-title="📰  News" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar_Jharkhand.png" tvg-chno="0-9-zeebiharjharkhand" ,Zee Bihar Jharkhand
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeebiharjharkhand
-#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-name="Zee 24 Ghanta" group-title="⚜️ Bengali" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" tvg-chno="0-9-24ghantatv" ,Zee 24 Ghanta
+#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-name="Zee 24 Ghanta" group-title="Bengali" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" tvg-chno="0-9-24ghantatv" ,Zee 24 Ghanta
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-24ghantatv
 #EXTINF:-1 tvg-id="0-9-zeekalinganews" tvg-name="Zee Delhi NCR Haryana" group-title="📰  News" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Delhi_NCR_Haryana.png" tvg-chno="0-9-zeekalinganews" ,Zee Delhi NCR Haryana
@@ -1083,10 +1083,10 @@ https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeetvhd
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" group-title="📺 Entertainment" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-chno="0-9-tvhd_0" ,&TV HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-tvhd_0
-#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" tvg-chno="0-9-zeemarathi" ,Zee Marathi HD
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" group-title="Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" tvg-chno="0-9-zeemarathi" ,Zee Marathi HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeemarathi
-#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-name="Zee Yuva" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" tvg-chno="0-9-zeeyuva" ,Zee Yuva
+#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-name="Zee Yuva" group-title="Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" tvg-chno="0-9-zeeyuva" ,Zee Yuva
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeeyuva
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Zee Café HD" group-title="📺 Entertainment" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" tvg-chno="0-9-zeecafehd" ,Zee Café HD
@@ -1095,19 +1095,19 @@ https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeecafehd
 #EXTINF:-1 tvg-id="0-9-bigganga" tvg-name="Zee Anmol Cinema 2" group-title="🎬 Movies" tvg-country="IN"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png" tvg-chno="0-9-bigganga" ,Zee Anmol Cinema 2
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-bigganga
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" group-title="⚜️ Tamil" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-chno="0-9-zeetamil" ,Zee Tamil HD
+#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" group-title="Tamil" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-chno="0-9-zeetamil" ,Zee Tamil HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeetamil
-#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" group-title="⚜️ Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png" tvg-chno="0-9-zeetelugu" ,Zee Telugu HD
+#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" group-title="Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png" tvg-chno="0-9-zeetelugu" ,Zee Telugu HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeetelugu
-#EXTINF:-1 tvg-id="0-9-zeekannada" tvg-name="Zee Kannada HD" group-title="⚜️ Kannada" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png" tvg-chno="0-9-zeekannada" ,Zee Kannada HD
+#EXTINF:-1 tvg-id="0-9-zeekannada" tvg-name="Zee Kannada HD" group-title="Kannada" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png" tvg-chno="0-9-zeekannada" ,Zee Kannada HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeekannada
-#EXTINF:-1 tvg-id="0-9-129" tvg-name="Zee Keralam HD" group-title="⚜️ Malayalam" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png" tvg-chno="0-9-129" ,Zee Keralam HD
+#EXTINF:-1 tvg-id="0-9-129" tvg-name="Zee Keralam HD" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png" tvg-chno="0-9-129" ,Zee Keralam HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-129
-#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla HD" group-title="⚜️ Bengali" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" tvg-chno="0-9-zeebangla" ,Zee Bangla HD
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla HD" group-title="Bengali" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" tvg-chno="0-9-zeebangla" ,Zee Bangla HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeebangla
 #EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" group-title="🎬 Movies" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png" tvg-chno="0-9-zeeanmol" ,Zee Anmol
@@ -1116,19 +1116,19 @@ https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeeanmol
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" group-title="🎬 Movies" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-chno="0-9-zeecinemahd" ,Zee Cinema HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeecinemahd
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-name="Zee Cinemalu HD" group-title="⚜️ Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" tvg-chno="0-9-zeecinemalu" ,Zee Cinemalu HD
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-name="Zee Cinemalu HD" group-title="Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" tvg-chno="0-9-zeecinemalu" ,Zee Cinemalu HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeecinemalu
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-name="&Pictures HD" group-title="🎬 Movies" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="0-9-tvpictureshd" ,&Pictures HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-name="Zee Talkies HD" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" tvg-chno="0-9-zeetalkies" ,Zee Talkies HD
+#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-name="Zee Talkies HD" group-title="Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" tvg-chno="0-9-zeetalkies" ,Zee Talkies HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeetalkies
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" group-title="⚜️ Bengali" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" tvg-chno="0-9-zeebanglacinema" ,Zee Bangla Cinema
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" group-title="Bengali" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" tvg-chno="0-9-zeebanglacinema" ,Zee Bangla Cinema
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeebanglacinema
-#EXTINF:-1 tvg-id="0-9-215" tvg-name="Zee Punjabi" group-title="⚜️ Punjabi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png" tvg-chno="0-9-215" ,Zee Punjabi
+#EXTINF:-1 tvg-id="0-9-215" tvg-name="Zee Punjabi" group-title="Punjabi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png" tvg-chno="0-9-215" ,Zee Punjabi
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-215
 #EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-name="Zee Anmol Cinema" group-title="🎬 Movies" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" tvg-chno="0-9-zeeanmolcinema" ,Zee Anmol Cinema
@@ -1158,7 +1158,7 @@ https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeetv
 #EXTINF:-1 tvg-id="0-9-zeesalaam" tvg-name="Zee Salaam" group-title="📺 Entertainment" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png" tvg-chno="0-9-zeesalaam" ,Zee Salaam
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-zeesalaam
-#EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-name="Zee Sarthak" group-title="⚜️ Odia" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png" tvg-chno="0-9-sarthaktv" ,Zee Sarthak
+#EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-name="Zee Sarthak" group-title="Odia" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png" tvg-chno="0-9-sarthaktv" ,Zee Sarthak
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-sarthaktv
 #EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" group-title="📰  News" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png" tvg-chno="0-9-channel_265145625" ,Zee News Uttar Pradesh Uttrakhand
@@ -1173,46 +1173,46 @@ https://play.tsdevil.fun/zee5/stream.php?id=0-9-209
 #EXTINF:-1 tvg-id="0-9-216" tvg-name="Zee Biskope" group-title="📺 Entertainment" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png" tvg-chno="0-9-216" ,Zee Biskope
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-216
-#EXTINF:-1 tvg-id="0-9-224" tvg-name="Zee Thirai" group-title="⚜️ Tamil" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-chno="0-9-224" ,Zee Thirai
+#EXTINF:-1 tvg-id="0-9-224" tvg-name="Zee Thirai" group-title="Tamil" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-chno="0-9-224" ,Zee Thirai
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-224
 #EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" group-title="📺 Entertainment" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" tvg-chno="0-9-348" ,Zee Zest HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-348
-#EXTINF:-1 tvg-id="0-9-241" tvg-name="Zee Picchar" group-title="⚜️ Kannada" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png" tvg-chno="0-9-241" ,Zee Picchar
+#EXTINF:-1 tvg-id="0-9-241" tvg-name="Zee Picchar" group-title="Kannada" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png" tvg-chno="0-9-241" ,Zee Picchar
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-241
-#EXTINF:-1 tvg-id="0-9-394" tvg-name="Zee Chitramandir" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png" tvg-chno="0-9-394" ,Zee Chitramandir
+#EXTINF:-1 tvg-id="0-9-394" tvg-name="Zee Chitramandir" group-title="Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png" tvg-chno="0-9-394" ,Zee Chitramandir
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-394
-#EXTINF:-1 tvg-id="0-9-9z5383466" tvg-name="Zee Kannada" group-title="⚜️ Kannada" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png" tvg-chno="0-9-9z5383466" ,Zee Kannada
+#EXTINF:-1 tvg-id="0-9-9z5383466" tvg-name="Zee Kannada" group-title="Kannada" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png" tvg-chno="0-9-9z5383466" ,Zee Kannada
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5383466
-#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-name="Zee Bangla" group-title="⚜️ Bengali" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" tvg-chno="0-9-9z5383484" ,Zee Bangla
+#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-name="Zee Bangla" group-title="Bengali" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" tvg-chno="0-9-9z5383484" ,Zee Bangla
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5383484
-#EXTINF:-1 tvg-id="0-9-9z5383485" tvg-name="Zee Telugu" group-title="⚜️ Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" tvg-chno="0-9-9z5383485" ,Zee Telugu
+#EXTINF:-1 tvg-id="0-9-9z5383485" tvg-name="Zee Telugu" group-title="Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" tvg-chno="0-9-9z5383485" ,Zee Telugu
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5383485
-#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-name="Zee Marathi" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" tvg-chno="0-9-9z5383486" ,Zee Marathi
+#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-name="Zee Marathi" group-title="Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" tvg-chno="0-9-9z5383486" ,Zee Marathi
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5383486
-#EXTINF:-1 tvg-id="0-9-9z5383487" tvg-name="Zee Tamil" group-title="⚜️ Tamil" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-chno="0-9-9z5383487" ,Zee Tamil
+#EXTINF:-1 tvg-id="0-9-9z5383487" tvg-name="Zee Tamil" group-title="Tamil" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-chno="0-9-9z5383487" ,Zee Tamil
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5383487
-#EXTINF:-1 tvg-id="0-9-9z5383488" tvg-name="Zee Cinemalu" group-title="⚜️ Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-chno="0-9-9z5383488" ,Zee Cinemalu
+#EXTINF:-1 tvg-id="0-9-9z5383488" tvg-name="Zee Cinemalu" group-title="Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-chno="0-9-9z5383488" ,Zee Cinemalu
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5383488
-#EXTINF:-1 tvg-id="0-9-9z5398768" tvg-name="Aastha Telugu" group-title="⚜️ Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-chno="0-9-9z5398768" ,Aastha Telugu
+#EXTINF:-1 tvg-id="0-9-9z5398768" tvg-name="Aastha Telugu" group-title="Telugu" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-chno="0-9-9z5398768" ,Aastha Telugu
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5398768
-#EXTINF:-1 tvg-id="0-9-9z5398770" tvg-name="Aastha Tamil" group-title="⚜️ Tamil" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" tvg-chno="0-9-9z5398770" ,Aastha Tamil
+#EXTINF:-1 tvg-id="0-9-9z5398770" tvg-name="Aastha Tamil" group-title="Tamil" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" tvg-chno="0-9-9z5398770" ,Aastha Tamil
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5398770
-#EXTINF:-1 tvg-id="0-9-9z5398771" tvg-name="Aastha Kannada" group-title="⚜️ Kannada" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png" tvg-chno="0-9-9z5398771" ,Aastha Kannada
+#EXTINF:-1 tvg-id="0-9-9z5398771" tvg-name="Aastha Kannada" group-title="Kannada" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png" tvg-chno="0-9-9z5398771" ,Aastha Kannada
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5398771
-#EXTINF:-1 tvg-id="0-9-9z5398791" tvg-name="Aastha Gujarati" group-title="⚜️ Gujarati" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" tvg-chno="0-9-9z5398791" ,Aastha Gujarati
+#EXTINF:-1 tvg-id="0-9-9z5398791" tvg-name="Aastha Gujarati" group-title="Gujarati" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" tvg-chno="0-9-9z5398791" ,Aastha Gujarati
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5398791
 #EXTINF:-1 tvg-id="0-9-9z5398792" tvg-name="Dharm Sandesh" group-title="🙏🏻 Spiritual" tvg-country="IN"  tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398792/list/270x152/1170x658c79674cf57ac4de48addad4284053d8e.png" tvg-chno="0-9-9z5398792" ,Dharm Sandesh
@@ -1221,7 +1221,7 @@ https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5398792
 #EXTINF:-1 tvg-id="0-9-9z5398793" tvg-name="Aastha Bhajan" group-title="🙏🏻 Spiritual" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" tvg-chno="0-9-9z5398793" ,Aastha Bhajan
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5398793
-#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-name="Zee Talkies" group-title="⚜️ Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" tvg-chno="0-9-9z5383489" ,Zee Talkies
+#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-name="Zee Talkies" group-title="Marathi" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" tvg-chno="0-9-9z5383489" ,Zee Talkies
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 https://play.tsdevil.fun/zee5/stream.php?id=0-9-9z5383489
 #EXTINF:-1 tvg-id="0-9-9z5398761" tvg-name="Aastha" group-title="🙏🏻 Spiritual" tvg-country="IN"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" tvg-chno="0-9-9z5398761" ,Aastha
