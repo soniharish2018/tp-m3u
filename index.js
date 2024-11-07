@@ -81,6 +81,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('"Voot | Kids"', '"🧒 Kids"');
   modify = modify.replaceAll('"Kids"', '"🧒 Kids"');
   modify = modify.replaceAll('" Kids"', '"🧒 Kids"');
+  modify = modify.replaceAll('"24X7"', '"🧒 Kids"');
   modify = modify.replaceAll('"Animation"', '"🧒 Kids"');
   modify = modify.replaceAll('"24X7 KIDS"', '"🧒 Kids"');
   modify = modify.replaceAll('"Lifestyle"', '"💼 Lifestyle"');
@@ -97,12 +98,17 @@ const converter = (playls) => {
   modify = modify.replaceAll('" News"', '"📰 News"');
   modify = modify.replaceAll('" English News"', '"📰 News"');
   modify = modify.replaceAll('"English News"', '"📰 News"');
+  modify = modify.replaceAll('"Hindi News"', '"📰 News"');
+  modify = modify.replaceAll('"Other Channels"', '"📰 News"');
   modify = modify.replaceAll('"Business News"', '"📰 News"');
   modify = modify.replaceAll('"Business"', '"📰 News"');
   modify = modify.replaceAll('"International News"', '"📰 News"');
 
   modify = modify.replaceAll('" Kannada"', '"📂 Others"');
   modify = modify.replaceAll('"Kannada"', '"📂 Others"');
+  modify = modify.replaceAll('"Travel"', '"📂 Others"');
+  modify = modify.replaceAll('"Technology"', '"📂 Others"');
+  modify = modify.replaceAll('"Fun & Games"', '"📂 Others"');
   modify = modify.replaceAll('" Regional Kannada"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Kannada"', '"📂 Others"');
 
@@ -119,6 +125,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('"Regional Telugu"', '"📂 Others"');
   modify = modify.replaceAll('" Telugu"', '"📂 Others"');
   modify = modify.replaceAll('"Telugu"', '"📂 Others"');
+  modify = modify.replaceAll('"Finance"', '"📂 Others"');
 
   modify = modify.replaceAll('"Tamil"', '"📂 Others"');
   modify = modify.replaceAll('" Tamil"', '"📂 Others"');

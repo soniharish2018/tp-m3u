@@ -72,94 +72,6 @@ https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master
 https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1731020577~acl=*~id=1556784483112233~hmac=c01ef9675b7839cec37992b1466d2f7819374f9a3e2fa1ae17f7080c26501eac
 
 
---------------------------------------------------------------------------------------------------------Fancode-Live----------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="111808" tvg-name="Phantom CC vs Fireox Unit Qatar Pro League, 2024"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Phantom CC vs Fireox Unit Qatar Pro League, 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/111808_english_hls_7117ta-di/index.m3u8
-
-#EXTINF:-1 tvg-id="112397" tvg-name="Ai Octopus Challengers vs Going KCC T20 Challengers A League, 2024-25"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112397_4616_GGL_SZN_fc-web.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Ai Octopus Challengers vs Going KCC T20 Challengers A League, 2024-25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/112397_english_hls_5340ta-di/index.m3u8
-
-#EXTINF:-1 tvg-id="111691" tvg-name="Sharjah vs Emirates Emirates D20, 2024"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111675_4589_EMB_SHA_fc-web.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Sharjah vs Emirates Emirates D20, 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/111691_english_hls_5089ta-di/index.m3u8
-
-#EXTINF:-1 tvg-id="112017" tvg-name="Jamaica Scorpions vs Guyana Harpy CG United Super50 Cup, 2024"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112017_4596_GUY_JAM_fc-web.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Jamaica Scorpions vs Guyana Harpy CG United Super50 Cup, 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/112017_english_hls_5314ta-no/index.m3u8
-
-#EXTINF:-1 tvg-id="111745" tvg-name="Crvena Zvezda mts Belgrade vs Alba EuroLeague 2024-25"  tvg-logo="https://images.fancode.com/aig/match/v1/111745_CASACARDS_APP.png" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Crvena Zvezda mts Belgrade vs Alba EuroLeague 2024-25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/111745_english_hls_5859ta-no/index.m3u8
-
-#EXTINF:-1 tvg-id="112048" tvg-name="Match #Volleyball Beach Pro Tour"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(2).png" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Match #Volleyball Beach Pro Tour
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/112048_english_hls_7314ta-no/index.m3u8
-
-#EXTINF:-1 tvg-id="112047" tvg-name="Match #Volleyball Beach Pro Tour"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(2).png" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Match #Volleyball Beach Pro Tour
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/112047_english_hls_9637ta-no/index.m3u8
-
-
-
----------------------------------------------------------------EVENTS------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="event-1" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 1
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/events/live1.m3u8
-
-#EXTINF:-1 tvg-id="event-2" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 2
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/events/live2.m3u8
-
-#EXTINF:-1 tvg-id="event-3" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 3
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/events/live3.m3u8
-
-#EXTINF:-1 tvg-id="event-4" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 4
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/events/live4.m3u8
-
-#EXTINF:-1 tvg-id="event-5" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 5
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/events/live5.m3u8
-
-#EXTINF:-1 tvg-id="event-6" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 6
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/events/live.key?id=6
-https://play.tsdevil.fun/events/live6.mpd
-
-#EXTINF:-1 tvg-id="event-7" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 7
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/events/live.key?id=7
-https://play.tsdevil.fun/events/live7.mpd
-
-#EXTINF:-1 tvg-id="event-8" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 8
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/events/live.key?id=8
-https://play.tsdevil.fun/events/live8.mpd
-
-#EXTINF:-1 tvg-id="event-9" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 9
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/events/live.key?id=9
-https://play.tsdevil.fun/events/live9.mpd
-
-#EXTINF:-1 tvg-id="event-10" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="🔮 Live Events",Live Event 10
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/events/live.key?id=10
-https://play.tsdevil.fun/events/live10.mpd
 ---------------------------------------------------------------24/7_KIDS_STARSHARE-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="KIDS-SPIDER MAN 2008" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="24X7",KIDS-SPIDER MAN 2008
@@ -349,75 +261,6 @@ https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="▶️ PTC Play" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De.png", PTC Chak De
 https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
 
-
----------------------------------------------------------------------------SonyLIV----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY SET HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SABTVHD1_Portrait_Thumb1.jpg" group-title="🚀 SLIV",SONY SAB HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-sab-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/4867313348001.jpg" group-title="🚀 SLIV",SONY MAX HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-max-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyWAH_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY WAH
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-wah.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPIXHD_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY PIX HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-pix-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/BBCEHD_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY BBC EARTH HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-bbc-earth-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPAL_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY PAL
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-pal.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SetMAXHD_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY MAX
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-max.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/sonymax2_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY MAX 2
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-max-2.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyYAY_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY YAY
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-yay.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SONYMarathi1_Portrait_Thumb1.jpg" group-title="🚀 SLIV",SONY MARATHI
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-marathi.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/Re_Sony_Aath_LIVE_channel_portrait_thumb.jpg" group-title="🚀 SLIV",SONY AATH
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-aath.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1HD_Portrait_ThumbNEW.jpg" group-title="🚀 SLIV",SONY TEN 1 HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-1-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2HDNew_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY TEN 2 HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-2-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3HD_Portrait_ThumbNEW.jpg" group-title="🚀 SLIV",SONY TEN 3 HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-3-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4HD_Portrait_Thumb1.jpg" group-title="🚀 SLIV",SONY TEN 4 HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-4-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXHD_Portrait_ThumbNEW.jpg" group-title="🚀 SLIV",SONY TEN 5 HD
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-5-hd.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN1SD_Portrait_ThumbNEW.jpg" group-title="🚀 SLIV",SONY TEN 1
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-1.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN2New_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY TEN 2
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-2.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3SD_Portrait_ThumbNEW.jpg" group-title="🚀 SLIV",SONY TEN 3
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-3.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY TEN 4
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-4.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,fl_lossy,h_494,q_auto:low,w_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXSD_Portrait_Thumb.jpg" group-title="🚀 SLIV",SONY TEN SIX
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0
-https://play.tsdevil.fun/SLIV-api/sony-ten-5.m3u8
 
 
 ----------------------------------------------------------------TATAPLAY-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9616,237 +9459,237 @@ https://play.tsdevil.fun/jio-cine/bpk-tv/News18_Urdu_voot_MOB/Fallback/index.m3u
 
 ---------------------------------------------------SUNNXT--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="194389" group-title="🌞 Hindi" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194389/200x200_SunNeoHD_194389_4cb7110f-1c29-47de-ac4e-2bddf10683cf.png",Sun Neo HD
+#EXTINF:-1 tvg-id="194389" group-title="Hindi" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194389/200x200_SunNeoHD_194389_4cb7110f-1c29-47de-ac4e-2bddf10683cf.png",Sun Neo HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194389
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194389
-#EXTINF:-1 tvg-id="194390" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194390/200x200_ChuttiTV_194390_a0be6a2e-efc0-4514-98d2-c8cae640dbcc.png",Chutti TV
+#EXTINF:-1 tvg-id="194390" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194390/200x200_ChuttiTV_194390_a0be6a2e-efc0-4514-98d2-c8cae640dbcc.png",Chutti TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194390
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194390
-#EXTINF:-1 tvg-id="194408" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194408/200x200_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png",Sun TV
+#EXTINF:-1 tvg-id="194408" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194408/200x200_SunTV_194408_87e8da9e-7476-4d8e-8aee-fb55105652c1.png",Sun TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194408
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194408
-#EXTINF:-1 tvg-id="194403" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194403/200x200_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png",Sun TV HD
+#EXTINF:-1 tvg-id="194403" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194403/200x200_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png",Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194403
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194403
-#EXTINF:-1 tvg-id="194408" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195491/200x200_SunTVHDDolbyVision_195491_acb12579-8d0f-41c2-bbb7-0b10a8dcee1a.jpg",Sun TV HD - Dolby Vision
+#EXTINF:-1 tvg-id="194408" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195491/200x200_SunTVHDDolbyVision_195491_acb12579-8d0f-41c2-bbb7-0b10a8dcee1a.jpg",Sun TV HD - Dolby Vision
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194403
 https://livestream.sunnxt.com/DolbyVision/SunTV_DV/SunTV_DV_Endpoints/SunTV-DV-IN-index.m3u8
-#EXTINF:-1 tvg-id="194408" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195491/200x200_SunTVHDDolbyVision_195491_acb12579-8d0f-41c2-bbb7-0b10a8dcee1a.jpg",Sun TV HDR+ - Dolby Vision
+#EXTINF:-1 tvg-id="194408" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195491/200x200_SunTVHDDolbyVision_195491_acb12579-8d0f-41c2-bbb7-0b10a8dcee1a.jpg",Sun TV HDR+ - Dolby Vision
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194403
 https://livestream.sunnxt.com/DolbyVision/SunTV_DV/SunTV_DV_Endpoints/SunTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-id="194404" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194404/200x200_SunNews_194404_7917a6d5-b56f-49fd-bb52-f1d9a38ae52d.png",Sun News
+#EXTINF:-1 tvg-id="194404" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194404/200x200_SunNews_194404_7917a6d5-b56f-49fd-bb52-f1d9a38ae52d.png",Sun News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194404
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194404
-#EXTINF:-1 tvg-id="194409" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194409/200x200_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png",KTV
+#EXTINF:-1 tvg-id="194409" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194409/200x200_KTV_194409_efd11a74-61c7-422d-9fcb-9329003f3459.png",KTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194409
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194409
-#EXTINF:-1 tvg-id="194405" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194405/200x200_KTVHD_194405_1d4448e1-5f79-414b-952b-424044798b43.png",KTV HD
+#EXTINF:-1 tvg-id="194405" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194405/200x200_KTVHD_194405_1d4448e1-5f79-414b-952b-424044798b43.png",KTV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194405
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194405
-#EXTINF:-1 tvg-id="194406" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194406/200x200_SunMusicHD_194406_2c082383-c774-4e76-a6be-938c48de0227.png",Sun Music HD
+#EXTINF:-1 tvg-id="194406" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194406/200x200_SunMusicHD_194406_2c082383-c774-4e76-a6be-938c48de0227.png",Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194406
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194406
-#EXTINF:-1 tvg-id="194410" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194410/200x200_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png",Sun Music
+#EXTINF:-1 tvg-id="194410" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194410/200x200_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png",Sun Music
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194410
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194410
-#EXTINF:-1 tvg-id="194391" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194391/200x200_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png",Sun Life
+#EXTINF:-1 tvg-id="194391" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194391/200x200_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png",Sun Life
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194391
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194391
-#EXTINF:-1 tvg-id="194407" group-title="🌞 Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194407/200x200_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png",Adithya TV
+#EXTINF:-1 tvg-id="194407" group-title="Tamil" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194407/200x200_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png",Adithya TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194407
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194407
-#EXTINF:-1 tvg-id="194398" group-title="🌞 Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194398/200x200_SuryaTV_194398_010180e7-db04-4e2a-9b57-c81dfee73222.png",Surya TV
+#EXTINF:-1 tvg-id="194398" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194398/200x200_SuryaTV_194398_010180e7-db04-4e2a-9b57-c81dfee73222.png",Surya TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194398
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194398
-#EXTINF:-1 tvg-id="194397" group-title="🌞 Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194397/200x200_SuryaTVHD_194397_4c99c17b-92d4-49be-a490-b5958067190a.png",Surya TV HD
+#EXTINF:-1 tvg-id="194397" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194397/200x200_SuryaTVHD_194397_4c99c17b-92d4-49be-a490-b5958067190a.png",Surya TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194397
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194397
-#EXTINF:-1 tvg-id="194397" group-title="🌞 Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195489/200x200_SuryaTVHDDolbyVision_195489_e28c6a6b-932f-4ed5-a0f1-d161dbbf55d3.jpg",Surya TV HD - Dolby Vision
+#EXTINF:-1 tvg-id="194397" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195489/200x200_SuryaTVHDDolbyVision_195489_e28c6a6b-932f-4ed5-a0f1-d161dbbf55d3.jpg",Surya TV HD - Dolby Vision
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194397
 https://livestream.sunnxt.com/DolbyVision/SuryaTV_DV/SuryaTV_DV_Endpoints/SuryaTV-DV-IN-index.m3u8
-#EXTINF:-1 tvg-id="194397" group-title="🌞 Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195489/200x200_SuryaTVHDDolbyVision_195489_e28c6a6b-932f-4ed5-a0f1-d161dbbf55d3.jpg",Surya TV HDR+ - Dolby Vision
+#EXTINF:-1 tvg-id="194397" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195489/200x200_SuryaTVHDDolbyVision_195489_e28c6a6b-932f-4ed5-a0f1-d161dbbf55d3.jpg",Surya TV HDR+ - Dolby Vision
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194397
 https://livestream.sunnxt.com/DolbyVision/SuryaTV_DV/SuryaTV_DV_Endpoints/SuryaTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-id="194385" group-title="🌞 Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194385/200x200_SuryaMovies_194385_0a1fbf90-a86a-4580-bdd8-36c6d1826c46.png",Surya Movies
+#EXTINF:-1 tvg-id="194385" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194385/200x200_SuryaMovies_194385_0a1fbf90-a86a-4580-bdd8-36c6d1826c46.png",Surya Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194385
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194385
-#EXTINF:-1 tvg-id="194338" group-title="🌞 Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194338/200x200_SuryaMusic_194338_8c3cb980-e460-478e-9b60-18b5550a2596.png",Surya Music
+#EXTINF:-1 tvg-id="194338" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194338/200x200_SuryaMusic_194338_8c3cb980-e460-478e-9b60-18b5550a2596.png",Surya Music
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194338
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194338
-#EXTINF:-1 tvg-id="193251" group-title="🌞 Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/193251/200x200_SuryaComedy_193251_1c2fd207-acad-4096-9bc4-d207375ae0af.png",Surya Comedy
+#EXTINF:-1 tvg-id="193251" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/193251/200x200_SuryaComedy_193251_1c2fd207-acad-4096-9bc4-d207375ae0af.png",Surya Comedy
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=193251
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=193251
-#EXTINF:-1 tvg-id="194348" group-title="🌞 Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194348/200x200_KochuTV_194348_f8187f4e-60c3-4727-9cdf-ecac24bff645.png",Kochu TV
+#EXTINF:-1 tvg-id="194348" group-title="Malayalam" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194348/200x200_KochuTV_194348_f8187f4e-60c3-4727-9cdf-ecac24bff645.png",Kochu TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194348
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194348
-#EXTINF:-1 tvg-id="194387" group-title="🌞 Marathi" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194387/200x200_SunMarathi_194387_70b805b7-4686-49a4-8617-f5abd975b3fe.png",Sun Marathi
+#EXTINF:-1 tvg-id="194387" group-title="Marathi" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194387/200x200_SunMarathi_194387_70b805b7-4686-49a4-8617-f5abd975b3fe.png",Sun Marathi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194387
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194387
-#EXTINF:-1 tvg-id="193239" group-title="🌞 Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/193239/200x200_UdayaTV_193239_ec435a3b-aad0-44e1-9c70-fc572199add9.png",Udaya TV
+#EXTINF:-1 tvg-id="193239" group-title="Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/193239/200x200_UdayaTV_193239_ec435a3b-aad0-44e1-9c70-fc572199add9.png",Udaya TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=193239
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=193239
-#EXTINF:-1 tvg-id="194399" group-title="🌞 Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194399/200x200_UdayaTVHD_194399_70d9e991-2ea2-4f5a-89b0-13489fe3a482.png",Udaya TV HD
+#EXTINF:-1 tvg-id="194399" group-title="Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194399/200x200_UdayaTVHD_194399_70d9e991-2ea2-4f5a-89b0-13489fe3a482.png",Udaya TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194399
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194399
-#EXTINF:-1 tvg-id="194399" group-title="🌞 Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194411/200x200_UdayaTVHDDolbyVision_194411_289bee82-3de3-4cd1-81ea-1634f46e137e.jpg",Udaya TV HD - Dolby Vision
+#EXTINF:-1 tvg-id="194399" group-title="Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194411/200x200_UdayaTVHDDolbyVision_194411_289bee82-3de3-4cd1-81ea-1634f46e137e.jpg",Udaya TV HD - Dolby Vision
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194399
 https://livestream.sunnxt.com/DolbyVision/UdayaTV_DV/UdayaTV_DV_Endpoints/UdayaTV-DV-IN-index.m3u8
-#EXTINF:-1 tvg-id="194399" group-title="🌞 Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194411/200x200_UdayaTVHDDolbyVision_194411_289bee82-3de3-4cd1-81ea-1634f46e137e.jpg",Udaya TV HDR+ - Dolby Vision
+#EXTINF:-1 tvg-id="194399" group-title="Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194411/200x200_UdayaTVHDDolbyVision_194411_289bee82-3de3-4cd1-81ea-1634f46e137e.jpg",Udaya TV HDR+ - Dolby Vision
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194399
 https://livestream.sunnxt.com/DolbyVision/UdayaTV_DV/UdayaTV_DV_Endpoints/UdayaTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-id="194397" group-title="🌞 Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194386/200x200_UdayaMovies_194386_b30f865a-0108-4c83-875c-cdf29e952582.png",Udaya Movies
+#EXTINF:-1 tvg-id="194397" group-title="Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194386/200x200_UdayaMovies_194386_b30f865a-0108-4c83-875c-cdf29e952582.png",Udaya Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194397
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194397
-#EXTINF:-1 tvg-id="194401" group-title="🌞 Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194401/200x200_UdayaMusic_194401_a075b7ca-6045-482a-90c3-a544cf6c3647.png",Udaya Music
+#EXTINF:-1 tvg-id="194401" group-title="Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194401/200x200_UdayaMusic_194401_a075b7ca-6045-482a-90c3-a544cf6c3647.png",Udaya Music
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194401
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194401
-#EXTINF:-1 tvg-id="194400" group-title="🌞 Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194400/200x200_UdayaComedy_194400_3f736966-dccc-4594-94cd-62e18c85d066.png",Udaya Comedy
+#EXTINF:-1 tvg-id="194400" group-title="Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194400/200x200_UdayaComedy_194400_3f736966-dccc-4594-94cd-62e18c85d066.png",Udaya Comedy
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194400
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194400
-#EXTINF:-1 tvg-id="194347" group-title="🌞 Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194347/200x200_ChintuTV_194347_59b6772c-5303-4eb8-9538-2b99f3956eed.png",Chintu TV
+#EXTINF:-1 tvg-id="194347" group-title="Kannada" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194347/200x200_ChintuTV_194347_59b6772c-5303-4eb8-9538-2b99f3956eed.png",Chintu TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194347
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194347
-#EXTINF:-1 tvg-id="194396" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194396/200x200_GeminiTV_194396_068bbb03-8548-4cff-af0b-556f5a2e2128.png",Gemini TV
+#EXTINF:-1 tvg-id="194396" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194396/200x200_GeminiTV_194396_068bbb03-8548-4cff-af0b-556f5a2e2128.png",Gemini TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194396
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194396
-#EXTINF:-1 tvg-id="194392" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194392/200x200_GeminiTVHD_194392_0a146256-5869-40c5-89de-2fbb9ad6b0ce.png",Gemini TV HD
+#EXTINF:-1 tvg-id="194392" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194392/200x200_GeminiTVHD_194392_0a146256-5869-40c5-89de-2fbb9ad6b0ce.png",Gemini TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194392
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194392
-#EXTINF:-1 tvg-id="194392" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195490/200x200_GeminiTVHDDolbyVision_195490_38c3f39f-992b-4164-abd7-89fbae701e79.jpg",Gemini TV HD - Dolby Vision
+#EXTINF:-1 tvg-id="194392" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195490/200x200_GeminiTVHDDolbyVision_195490_38c3f39f-992b-4164-abd7-89fbae701e79.jpg",Gemini TV HD - Dolby Vision
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194392
 https://livestream.sunnxt.com/DolbyVision/GeminiTV_DV/GeminiTV_DV_Endpoints/GeminiTV-DV-IN-index.m3u8
-#EXTINF:-1 tvg-id="194392" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195490/200x200_GeminiTVHDDolbyVision_195490_38c3f39f-992b-4164-abd7-89fbae701e79.jpg",Gemini TV HDR+ - Dolby Vision
+#EXTINF:-1 tvg-id="194392" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/195490/200x200_GeminiTVHDDolbyVision_195490_38c3f39f-992b-4164-abd7-89fbae701e79.jpg",Gemini TV HDR+ - Dolby Vision
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194392
 https://livestream.sunnxt.com/DolbyVision/GeminiTV_DV/GeminiTV_DV_Endpoints/GeminiTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-id="194384" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194384/200x200_GeminiMovies_194384_abbba9d4-509e-46d5-8808-59efe178a4c2.png",Gemini Movies
+#EXTINF:-1 tvg-id="194384" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194384/200x200_GeminiMovies_194384_abbba9d4-509e-46d5-8808-59efe178a4c2.png",Gemini Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194384
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194384
-#EXTINF:-1 tvg-id="192537" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/192537/200x200_GeminiMoviesHD_192537_b5634337-a7cf-4e44-9643-8df747dde8ed.png",Gemini Movies HD
+#EXTINF:-1 tvg-id="192537" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/192537/200x200_GeminiMoviesHD_192537_b5634337-a7cf-4e44-9643-8df747dde8ed.png",Gemini Movies HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=192537
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=192537
-#EXTINF:-1 tvg-id="194393" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194393/200x200_GeminiMusicHD_194393_38918c7e-413e-46a0-bae9-4b3b766fe6d7.png",Gemini Music HD
+#EXTINF:-1 tvg-id="194393" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194393/200x200_GeminiMusicHD_194393_38918c7e-413e-46a0-bae9-4b3b766fe6d7.png",Gemini Music HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194393
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194393
-#EXTINF:-1 tvg-id="194395" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194395/200x200_GeminiMusic_194395_9b2cc3b0-9732-4bf8-9efc-fed04d9bc9df.png",Gemini Music
+#EXTINF:-1 tvg-id="194395" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194395/200x200_GeminiMusic_194395_9b2cc3b0-9732-4bf8-9efc-fed04d9bc9df.png",Gemini Music
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194395
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194395
-#EXTINF:-1 tvg-id="194394" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194394/200x200_GeminiComedy_194394_0fe7c915-5f33-4c6f-909b-3d8d45f92f67.png",Gemini Comedy
+#EXTINF:-1 tvg-id="194394" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194394/200x200_GeminiComedy_194394_0fe7c915-5f33-4c6f-909b-3d8d45f92f67.png",Gemini Comedy
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194394
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194394
-#EXTINF:-1 tvg-id="194337" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194337/200x200_GeminiLife_194337_e1145455-d580-4b95-8f35-73e48e199533.png",Gemini Life
+#EXTINF:-1 tvg-id="194337" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194337/200x200_GeminiLife_194337_e1145455-d580-4b95-8f35-73e48e199533.png",Gemini Life
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194337
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194337
-#EXTINF:-1 tvg-id="194346" group-title="🌞 Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194346/200x200_KushiTV_194346_21645eb7-43c4-4721-89bf-b2658d856251.png",Kushi TV
+#EXTINF:-1 tvg-id="194346" group-title="Telugu" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194346/200x200_KushiTV_194346_21645eb7-43c4-4721-89bf-b2658d856251.png",Kushi TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 #KODIPROP:inputstream.adaptive.license_key=https://play.tsdevil.fun/sunnxt/chan24.key?id=194346
 https://play.tsdevil.fun/sunnxt/chan24.mpd?id=194346
-#EXTINF:-1 tvg-id="194388" group-title="🌞 Bengali" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194388/200x200_SunBangla_194388_9c4b5c51-1554-4507-83a8-7b54f31a8967.png",Sun Bangla
+#EXTINF:-1 tvg-id="194388" group-title="Bengali" tvg-country="IN"  tvg-logo="https://sund-images.sunnxt.com/194388/200x200_SunBangla_194388_9c4b5c51-1554-4507-83a8-7b54f31a8967.png",Sun Bangla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=DevilBhai/5.0
