@@ -10,7 +10,7 @@ const fs = require("fs");
 const path = require("path");
 const m3uContent = require("./downloadedFile");
 const { SonyZee } = require("./SonuZee");
-const { denPlay } = require("./denPlay");
+const { harman } = require("./harman");
 var app = express();
 
 const converter = (playls) => {
@@ -143,8 +143,7 @@ const converter = (playls) => {
 };
 
 app.use("/gen", async (req, res) => {
-
-  let modify = converter(SonyZee + denPlay);
+  let modify = converter(SonyZee + harman);
   return res.send(modify);
 });
 
