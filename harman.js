@@ -11081,3 +11081,8 @@ https://jmp2.uk/sam-INBD4700017SL.m3u8
 #EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/tOWejMUdWACgAgMadToZDzzxMWTnSV8a3b4znyAv0yHaP2yz-iPw3lKIPagLCSWYxkI" channel-id="samsung-INBA4900001DL" tvg-id="INBA4900001DL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900001DL_20240710T022236SQUARE.png" group-title="Music" , Qwest TV
 https://jmp2.uk/sam-INBA4900001DL.m3u8
 `
+
+module.exports = {
+  harman
+
+}
