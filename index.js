@@ -10,7 +10,6 @@ const fs = require("fs");
 const path = require("path");
 const m3uContent = require("./downloadedFile");
 const { SonyZee } = require("./SonuZee");
-const { harman } = require("./harman");
 var app = express();
 
 const converter = (playls) => {
@@ -27,6 +26,7 @@ const converter = (playls) => {
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
+  modify = modify.replaceAll('"Live_Tv ', '');
   modify = modify.replaceAll('"Sony_Liv"', '"🎁 Sony_Liv"');
   modify = modify.replaceAll('"Sony Liv"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
@@ -151,7 +151,9 @@ const converter = (playls) => {
 };
 
 app.use("/gen", async (req, res) => {
-  let modify = converter(SonyZee + harman);
+  const { data } = require("./harman");
+
+  let modify = converter(SonyZee + data);
   return res.send(modify);
 });
 
@@ -203,43 +205,48 @@ app.use("/cap", async (req, res) => {
   return res.send(converter(zee_sony + response.data + jtv.data));
 });
 
-app.use("/tp-drm", async (req, res) => {
-  const config = {
-    ...req,
-  };
+app.use("/tp-harman", async (req, res) => {
+  try {
+    // Replace with the URL of the external API
+    const response = await Axios.get(
+      `https://play.tsdevil.fun/benX/${req.query.name}.php`,
+      {
+        headers: {
+          'User-Agent': 'OTT Navigator/1.7.1.4 (Linux; Android 14; en; pfat4k)'
+        }
+      }
+    );
+    // Define the file path and name
+    const filePath = path.join(__dirname, 'harman.js');
 
-  const response = await Axios.get(
-    "https://la.drmlive.au/tp/playlist.php",
-    config
-  );
-  console.log(">> response", response);
-  return res.send(converter(response.data));
+    // Check if the file already exists
+    if (fs.existsSync(filePath)) {
+      // Delete the file if it exists
+      fs.unlinkSync(filePath);
+    }
+    const fileContent = `const data = \`${response.data}\`;\n\nmodule.exports = { data };`;
+
+    // Write content to file (will create a new file)
+    fs.writeFile(filePath, fileContent, (err) => {
+      if (err) {
+        console.error('Error writing file:', err);
+        return res.status(500).json({ error: 'Failed to create file' });
+      }
+      // console.log(">> response", response);
+      res.json({ message: 'File created successfully', filePath });
+      // return res.send(converter(response.data));
+    });
+  } catch (error) {
+    console.error('Error fetching data:', error);
+    res.status(500).json({ error: 'Failed to fetch data from external API' });
+  }
 });
 
-app.get("/download-m3u", async (req, res) => {
+app.get("/den-m3u", async (req, res) => {
   try {
-    // URL of the .m3u file you want to download
-    const m3uUrl = "https://denverisalive.vercel.app/Playlist/TP_Dev3.m3u";
+    const data = require('./den.js')
+    return res.send(converter(SonyZee + data));
 
-    // Fetch the content using axios
-    const response = await Axios.get(m3uUrl);
-
-    // Save the content as a .js file
-    const jsFilePath = path.join(__dirname, "downloadedFile.js");
-    const m3uContent = response.data;
-
-    // Optional: You can process the .m3u content here before saving it as .js
-    const jsContent = `
-      // M3U content saved as a JavaScript file
-      const m3uContent = \`${m3uContent}\`;
-      module.exports = m3uContent;
-    `;
-
-    // Write the content to a .js file
-    fs.writeFileSync(jsFilePath, jsContent, "utf8");
-
-    // Respond with success message
-    res.send(`File saved successfully as ${jsFilePath}`);
   } catch (error) {
     console.error("Error downloading or saving the file:", error);
     res.status(500).send("Error downloading or saving the file");
@@ -249,4 +256,42 @@ app.get("/download-m3u", async (req, res) => {
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
+});
+
+
+app.use("/tp-file", async (req, res) => {
+  try {
+    // Replace with the URL of the external API
+    const response = await Axios.get(
+      `${req.query.link}`,
+      {
+        headers: {
+          'User-Agent': 'OTT Navigator/1.7.1.4 (Linux; Android 14; en; pfat4k)'
+        }
+      }
+    );
+    // Define the file path and name
+    const filePath = path.join(__dirname, `${req.query.filename}.js`);
+
+    // Check if the file already exists
+    if (fs.existsSync(filePath)) {
+      // Delete the file if it exists
+      fs.unlinkSync(filePath);
+    }
+    const fileContent = `const data = \`${response.data}\`;\n\nmodule.exports = { data };`;
+
+    // Write content to file (will create a new file)
+    fs.writeFile(filePath, fileContent, (err) => {
+      if (err) {
+        console.error('Error writing file:', err);
+        return res.status(500).json({ error: 'Failed to create file' });
+      }
+      // console.log(">> response", response);
+      res.json({ message: 'File created successfully', filePath });
+      // return res.send(converter(response.data));
+    });
+  } catch (error) {
+    console.error('Error fetching data:', error);
+    res.status(500).json({ error: 'Failed to fetch data from external API' });
+  }
 });
