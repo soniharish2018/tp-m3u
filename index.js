@@ -22,6 +22,10 @@ const converter = (playls) => {
     `tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn`,
     ""
   );
+  modify = modify.replaceAll(`<script type="text/javascript">
+        alert("Use in IPTV Player Only!")
+      window.location = "https://t.me/HarmanIPTV"
+    </script>`, '');
   modify = modify.replaceAll('"Live_Tv | ', '');
   modify = modify.replaceAll('"JIO_TV | ', '');
   modify = modify.replaceAll('"Airtel |  ', '');
@@ -155,7 +159,6 @@ const converter = (playls) => {
 
 app.use("/gen", async (req, res) => {
   const { data } = require("./harman");
-
   let modify = converter(SonyZee + data);
   return res.send(modify);
 });
@@ -238,7 +241,7 @@ app.use("/tp-harman", async (req, res) => {
 
 app.get("/den-m3u", async (req, res) => {
   try {
-    const data = require('./den.js')
+    const { data } = require('./den')
     return res.send(converter(SonyZee + data));
 
   } catch (error) {

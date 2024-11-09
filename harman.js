@@ -62,17 +62,21 @@ https://dai.fancode.com/primary/112300_english_hls_4858ta-di/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://dai.fancode.com/primary/112299_english_hls_3630ta-di/index.m3u8
 
-#EXTINF:-1 tvg-id="112320" tvg-name="Ashtapailu Sports vs Solapur Stars XI | Ecole T20 Cup, 2024"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112320_4608_SSX_APS_fc-app_fc-web_1730730057897.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Ashtapailu Sports vs Solapur Stars XI | Ecole T20 Cup, 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/112320_english_hls_5291ta-no/index.m3u8
-
 #EXTINF:-1 tvg-id="111600" tvg-name="Mater Dei vs Royal Strikers | ECS Malta, 2024"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Mater Dei vs Royal Strikers | ECS Malta, 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://dai.fancode.com/primary/111600_english_hls_6892ta-di/index.m3u8
 
+#EXTINF:-1 tvg-id="109833" tvg-name="Cardiff City vs Blackburn Rovers | EFL Championship 2024-25"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/109833_4352_CAR_BLK_fc-web.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Cardiff City vs Blackburn Rovers | EFL Championship 2024-25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/109833_english_hls_4871ta-no/index.m3u8
+
 #EXTINF:-1 tvg-id="111771" tvg-name="Netherlands vs United Arab Emirates | ICC CWC League 2, 2023-27"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/111771_3908_UAE_NED_fc-web.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Netherlands vs United Arab Emirates | ICC CWC League 2, 2023-27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://dai.fancode.com/primary/111771_english_hls_8381ta-no/index.m3u8
+
+#EXTINF:-1 tvg-id="113005" tvg-name="Loyola Colts Cricket vs Unique Sports Club | Bijay Kumar Saha Memorial T20"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Loyola Colts Cricket vs Unique Sports Club | Bijay Kumar Saha Memorial T20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://dai.fancode.com/primary/113005_english_hls_8128ta-no/index.m3u8
 
 #EXTINF:-1 tvg-id="112181" tvg-name="Day 3 | Abu Dhabi HSBC Championship"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_3.jpg" group-title="🔮 FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Day 3 | Abu Dhabi HSBC Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
