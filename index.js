@@ -26,9 +26,13 @@ const converter = (playls) => {
         alert("Use in IPTV Player Only!")
       window.location = "https://t.me/HarmanIPTV"
     </script>`, '');
-  modify = modify.replaceAll('"Live_Tv | ', '');
+  // modify = modify.replaceAll(/^Live_Tv \| /, '');;
+  modify = modify.replaceAll(`#EXTINF:-1 tvg-id="tsdevil" tvg-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-logo="https://i.ibb.co/bFmhfCt/Screenshot-20241008-023209-2.png" group-title="TG @HarmanIPTV",Join_the_channel!
+https://play.tsdevil.fun/Devil/intro/intro.m3u8
+`, '');
+  modify = modify.replaceAll("Live_Tv | ", '');
   modify = modify.replaceAll('"JIO_TV | ', '');
-  modify = modify.replaceAll('"Airtel |  ', '');
+  modify = modify.replaceAll('🅰️irtel | ', '');
   modify = modify.replaceAll(`https://t.me/allinonereborn`, "");
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
