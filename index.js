@@ -22,11 +22,14 @@ const converter = (playls) => {
     `tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn`,
     ""
   );
+  modify = modify.replaceAll('"Live_Tv | ', '');
+  modify = modify.replaceAll('"JIO_TV | ', '');
+  modify = modify.replaceAll('"Airtel |  ', '');
   modify = modify.replaceAll(`https://t.me/allinonereborn`, "");
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
+  modify = modify.replaceAll('"📺 Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
-  modify = modify.replaceAll('"Live_Tv ', '');
   modify = modify.replaceAll('"Sony_Liv"', '"🎁 Sony_Liv"');
   modify = modify.replaceAll('"Sony Liv"', '"🌟 Hindi"');
   modify = modify.replaceAll('"Voot | Entertainment"', '"🎭 Entertainment"');
@@ -157,22 +160,13 @@ app.use("/gen", async (req, res) => {
   return res.send(modify);
 });
 
-app.use("/tp", async (req, res) => {
-  const response = await Axios.get(
-    "https://tataplay.firecaptain94.workers.dev"
-  );
-  let modify = converter(response.data + t20 + new20 + SonyZee);
-  modify +
-    `
-    #KODIPROP:inputstream.adaptive.license_type=clearkey
-    #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=80&key
-    #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="🎬 Movies",Sony Max HD
-    https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?type=ST
-    
-    `;
+app.use("/yuv", async (req, res) => {
+  const { data } = require("./yuv");
 
+  let modify = converter(SonyZee + data);
   return res.send(modify);
 });
+
 
 app.use("/play", async (req, res) => {
   return res.send(converter(SonyZee + playlist));
@@ -295,3 +289,4 @@ app.use("/tp-file", async (req, res) => {
     res.status(500).json({ error: 'Failed to fetch data from external API' });
   }
 });
+
