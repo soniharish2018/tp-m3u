@@ -31,7 +31,7 @@ const converter = (playls) => {
 https://play.tsdevil.fun/Devil/intro/intro.m3u8
 `, '');
   modify = modify.replaceAll("Live_Tv | ", '');
-  modify = modify.replaceAll('"JIO_TV | ', '');
+  modify = modify.replaceAll('JIO_TV | ', '');
   modify = modify.replaceAll('🅰️irtel | ', '');
   modify = modify.replaceAll(`https://t.me/allinonereborn`, "");
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
