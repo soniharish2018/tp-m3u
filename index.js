@@ -36,6 +36,7 @@ https://play.tsdevil.fun/Devil/intro/intro.m3u8
   modify = modify.replaceAll(`https://t.me/allinonereborn`, "");
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
   modify = modify.replaceAll('" Entertainment"', '"🎭 Entertainment"');
+  modify = modify.replaceAll('"Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"📺 Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll('"SonyLiv"', '"🎁 Sony Liv"');
   modify = modify.replaceAll('"Sony_Liv"', '"🎁 Sony_Liv"');
