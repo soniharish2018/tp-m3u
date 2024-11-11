@@ -294,7 +294,7 @@ app.use("/tp-file", async (req, res) => {
     });
   } catch (error) {
     console.error('Error fetching data:', error);
-    res.status(500).json({ error: 'Failed to fetch data from external API' });
+    res.status(500).json({ errorMsg: 'Failed to fetch data from external API', error });
   }
 });
 
