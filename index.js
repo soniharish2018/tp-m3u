@@ -288,7 +288,7 @@ app.use("/tp-file", async (req, res) => {
     fs.writeFile(filePath, fileContent, (err) => {
       if (err) {
         console.error('Error writing file:', err);
-        return res.status(500).json({ error: 'Failed to create file' });
+        return res.status(500).json({ error: 'Failed to create file', err });
       }
     });
     const s3 = new S3Client({
