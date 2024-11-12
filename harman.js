@@ -47,24 +47,20 @@ https://play.tsdevil.fun/Devil/intro/intro.m3u8
 
 --------------------------------------------------------------------------------------------------------SLIV-Live----------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="1000295445" tvg-name="Andrea Vavassori / Simone Bolelli vs Matthew Ebden / Rohan Bopanna - Group Stage - 11 Nov 2024 | Nitto ATP Finals 2024"  tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/nittoatpfinals24_grpstage_ebden_bopanna_10nov_landscape_thumb.jpg" group-title="ðŸ”® SLIV-Live" group-logo="https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png", Andrea Vavassori / Simone Bolelli vs Matthew Ebden / Rohan Bopanna - Group Stage - 11 Nov 2024 | Nitto ATP Finals 2024
+#EXTINF:-1 tvg-id="1000295445" tvg-name="Zeballos & Granollers vs Mektic & Koolhof - Group Stage - 12 Nov 2024 | Nitto ATP Finals 2024"  tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/nitto_atp_finals2024_group_stage_landscape_thumb.jpg" group-title="ðŸ”® SLIV-Live" group-logo="https://images.slivcdn.com/UI_icons/sonyliv_new_revised_header_logo.png", Zeballos & Granollers vs Mektic & Koolhof - Group Stage - 12 Nov 2024 | Nitto ATP Finals 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://pubads.g.doubleclick.net/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
 
 --------------------------------------------------------------------------------------------------------Fancode-Live----------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="110865" tvg-name="Bangladesh vs Afghanistan | Afghanistan vs Bangladesh tour in UAE, 2024"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png" group-title="ðŸ”® FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Bangladesh vs Afghanistan | Afghanistan vs Bangladesh tour in UAE, 2024
+#EXTINF:-1 tvg-id="112405" tvg-name="CECC-B vs Al Mulla Exchange | KCC T20 Challengers A League, 2024-25"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112405_4616_CEC-B_AEC_fc-web.jpg" group-title="ðŸ”® FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", CECC-B vs Al Mulla Exchange | KCC T20 Challengers A League, 2024-25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/110865_english_hls_4824ta-no/index.m3u8
+https://dai.fancode.com/primary/112405_english_hls_6015ta-di/index.m3u8
 
-#EXTINF:-1 tvg-id="112404" tvg-name="ACE KRM Panthers vs Afghan Stars | KCC T20 Challengers A League, 2024-25"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112404_4616_AS_KRM_fc-web.jpg" group-title="ðŸ”® FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", ACE KRM Panthers vs Afghan Stars | KCC T20 Challengers A League, 2024-25
+#EXTINF:-1 tvg-id="112022" tvg-name="Jamaica Scorpions vs Trinidad & Tobago Red Force | CG United Super50 Cup, 2024"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112022_4596_JAM_TNT_fc-web.jpg" group-title="ðŸ”® FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Jamaica Scorpions vs Trinidad & Tobago Red Force | CG United Super50 Cup, 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/112404_english_hls_5077ta-di/index.m3u8
-
-#EXTINF:-1 tvg-id="112021" tvg-name="Barbados Pride vs Windward Islands Volcanoes | CG United Super50 Cup, 2024"  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/112021_4596_BAR_WIS_fc-web.jpg" group-title="ðŸ”® FAN-CODE" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png", Barbados Pride vs Windward Islands Volcanoes | CG United Super50 Cup, 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://dai.fancode.com/primary/112021_english_hls_4885ta-di/index.m3u8
+https://dai.fancode.com/primary/112022_english_hls_4734ta-no/index.m3u8
 
 
 
