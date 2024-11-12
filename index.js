@@ -275,7 +275,7 @@ app.use("/tp-file", async (req, res) => {
       }
     );
     // Define the file path and name
-    const filePath = path.join(__dirname, `${req.query.filename}.js`);
+    const filePath = path.join('/tmp/', `${req.query.filename}.js`);
 
     // Check if the file already exists
     // if (fs.existsSync(filePath)) {
