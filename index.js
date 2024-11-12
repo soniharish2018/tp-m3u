@@ -163,13 +163,13 @@ https://play.tsdevil.fun/Devil/intro/intro.m3u8
 };
 
 app.use("/gen", async (req, res) => {
-  const { data } = require("./harman");
+  const { data } = require("/tmp/harman");
   let modify = converter(SonyZee + data);
   return res.send(modify);
 });
 
 app.use("/yuv", async (req, res) => {
-  const { data } = require("./yuv");
+  const { data } = require("/tmp/yuv");
 
   let modify = converter(SonyZee + data);
   return res.send(modify);
@@ -246,7 +246,7 @@ app.use("/tp-harman", async (req, res) => {
 
 app.get("/den-m3u", async (req, res) => {
   try {
-    const { data } = require('./den')
+    const { data } = require('/tmp/den')
     return res.send(converter(SonyZee + data));
 
   } catch (error) {
@@ -273,7 +273,7 @@ app.use("/tp-file", async (req, res) => {
       }
     );
     // Define the file path and name
-    const filePath = path.join(__dirname, `${req.query.filename}.js`);
+    const filePath = path.join('/tmp/', `${req.query.filename}.js`);
 
     // Check if the file already exists
     if (fs.existsSync(filePath)) {
