@@ -7,7 +7,7 @@ const t20 = require("./t20");
 const { zee_sony } = require("./zee_sony");
 const { zeesony } = require("./zeesony");
 const new20 = require("./newt20");
-
+require('dotenv').config();
 const fs = require("fs");
 const path = require("path");
 const m3uContent = require("./downloadedFile");
@@ -295,8 +295,8 @@ app.use("/tp-file", async (req, res) => {
       region: "ap-southeast-2", // Asia Pacific (Hanoi) RegionID
       endpoint: "https://mos.ap-southeast-2.sufybkt.com", // Asia Pacific (Hanoi) Endpoint
       credentials: {
-        accessKeyId: "JRx9ul3i8IBNpuD-txqEZgBHto2W86srEXrnOODm",
-        secretAccessKey: "yAyIcYBsfz2lYXN4SK6q4XUuvr4thnJLVbBnRB95",
+        accessKeyId: process.env.A_KEY,
+        secretAccessKey: process.env.S_KEY,
       },
     });
 
@@ -321,8 +321,8 @@ app.get('/put-object', async (req, res) => {
     region: "ap-southeast-2", // Asia Pacific (Hanoi) RegionID
     endpoint: "https://mos.ap-southeast-2.sufybkt.com", // Asia Pacific (Hanoi) Endpoint
     credentials: {
-      accessKeyId: "JRx9ul3i8IBNpuD-txqEZgBHto2W86srEXrnOODm",
-      secretAccessKey: "yAyIcYBsfz2lYXN4SK6q4XUuvr4thnJLVbBnRB95",
+      accessKeyId: process.env.A_KEY,
+      secretAccessKey: process.env.S_KEY,
     },
   });
 
