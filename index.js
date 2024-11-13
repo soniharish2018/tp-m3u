@@ -1,11 +1,13 @@
 const Axios = require("axios");
 var express = require("express");
+const { getSignedUrl } = require("@aws-sdk/s3-request-presigner");
+const { S3Client, PutObjectCommand } = require("@aws-sdk/client-s3");
 const playlist = require("./playlist");
 const t20 = require("./t20");
 const { zee_sony } = require("./zee_sony");
 const { zeesony } = require("./zeesony");
 const new20 = require("./newt20");
-
+require('dotenv').config();
 const fs = require("fs");
 const path = require("path");
 const m3uContent = require("./downloadedFile");
@@ -163,13 +165,13 @@ https://play.tsdevil.fun/Devil/intro/intro.m3u8
 };
 
 app.use("/gen", async (req, res) => {
-  const { data } = require("/tmp/harman");
+  const { data } = await Axios.get('https://m3u.mos.ap-southeast-2.sufybkt.com/harman.js')
   let modify = converter(SonyZee + data);
   return res.send(modify);
 });
 
 app.use("/yuv", async (req, res) => {
-  const { data } = require("/tmp/yuv");
+  const { data } = await Axios.get('https://m3u.mos.ap-southeast-2.sufybkt.com/yuv.js')
 
   let modify = converter(SonyZee + data);
   return res.send(modify);
@@ -246,7 +248,7 @@ app.use("/tp-harman", async (req, res) => {
 
 app.get("/den-m3u", async (req, res) => {
   try {
-    const { data } = require('/tmp/den')
+    const { data } = await Axios.get('https://m3u.mos.ap-southeast-2.sufybkt.com/den.js')
     return res.send(converter(SonyZee + data));
 
   } catch (error) {
@@ -276,25 +278,71 @@ app.use("/tp-file", async (req, res) => {
     const filePath = path.join('/tmp/', `${req.query.filename}.js`);
 
     // Check if the file already exists
-    if (fs.existsSync(filePath)) {
-      // Delete the file if it exists
-      fs.unlinkSync(filePath);
-    }
+    // if (fs.existsSync(filePath)) {
+    //   // Delete the file if it exists
+    //   fs.unlinkSync(filePath);
+    // }
     const fileContent = `const data = \`${response.data}\`;\n\nmodule.exports = { data };`;
 
     // Write content to file (will create a new file)
     fs.writeFile(filePath, fileContent, (err) => {
       if (err) {
         console.error('Error writing file:', err);
-        return res.status(500).json({ error: 'Failed to create file' });
+        return res.status(500).json({ error: 'Failed to create file', err });
       }
-      // console.log(">> response", response);
-      res.json({ message: 'File created successfully', filePath });
-      // return res.send(converter(response.data));
     });
+    const s3 = new S3Client({
+      region: "ap-southeast-2", // Asia Pacific (Hanoi) RegionID
+      endpoint: "https://mos.ap-southeast-2.sufybkt.com", // Asia Pacific (Hanoi) Endpoint
+      credentials: {
+        accessKeyId: process.env.A_KEY,
+        secretAccessKey: process.env.S_KEY,
+      },
+    });
+
+    const fileStream = fs.createReadStream(filePath);
+    fileStream.on("error", (err) => console.error(err));
+
+    return s3.send(
+      new PutObjectCommand({ Bucket: "m3u", Key: `${req.query.filename}.js`, Body: fileStream })
+    )
+      .then((data) => res.send({ message: 'File created successfully', data, filePath })
+      )
+      .catch((err) => res.send({ err }));
   } catch (error) {
     console.error('Error fetching data:', error);
     res.status(500).json({ errorMsg: 'Failed to fetch data from external API', error });
   }
 });
 
+app.get('/put-object', async (req, res) => {
+
+  const s3 = new S3Client({
+    region: "ap-southeast-2", // Asia Pacific (Hanoi) RegionID
+    endpoint: "https://mos.ap-southeast-2.sufybkt.com", // Asia Pacific (Hanoi) Endpoint
+    credentials: {
+      accessKeyId: process.env.A_KEY,
+      secretAccessKey: process.env.S_KEY,
+    },
+  });
+
+
+  const fileStream = fs.createReadStream("./harman.js");
+  fileStream.on("error", (err) => console.error(err));
+
+
+  s3.send(
+    new PutObjectCommand({ Bucket: "m3u", Key: 'harman.js', Body: fileStream })
+  )
+    .then((data) => res.send({ URL: data })
+    )
+    .catch((err) => res.send({ err }));
+  // getSignedUrl(s3, new PutObjectCommand({ Bucket: "m3u", Key: "NDMAfJDYqQyCaeM55GeawUbMUiO1R41KbqrmGJ4p", Body: fileStream }))
+  //   .then((data) => {
+  //     res.send({ URL: data })
+  //   })
+  //   .catch((err) => {
+  //     res.send({ err })
+  //   });
+
+}) 

@@ -18,7 +18,12 @@
   },
   "homepage": "https://github.com/soniharish2018/tp-m3u#readme",
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.427.0",
+    "@aws-sdk/client-sts": "^3.427.0",
+    "@aws-sdk/lib-storage": "^3.427.0",
+    "@aws-sdk/s3-request-presigner": "^3.427.0",
     "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "nodemon": "^3.1.3"
   }
