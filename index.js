@@ -34,6 +34,10 @@ https://play.tsdevil.fun/Devil/intro/intro.m3u8
 `, '');
   modify = modify.replaceAll("Live_Tv | ", '');
   modify = modify.replaceAll('JIO_TV | ', '');
+  modify = modify.replaceAll('Airtel | ', '');
+  modify = modify.replaceAll('🌞 SunNxt | ', '');
+  modify = modify.replaceAll('⚜️ ', '');
+  modify = modify.replaceAll('TG @HarmanIPTV ', '"🌟 Hindi"');
   modify = modify.replaceAll('🅰️irtel | ', '');
   modify = modify.replaceAll(`https://t.me/allinonereborn`, "");
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
