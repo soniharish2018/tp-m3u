@@ -194,7 +194,7 @@ app.use("/play.m3u", async (req, res) => {
   return res.send(converter(zee_sony + playlist + new20));
 });
 
-app.use("tp-new", async (req, res) => {
+app.use("/tp-new", async (req, res) => {
   console.log(">> req.params.link", req.query);
 
   const response = await Axios.get(
