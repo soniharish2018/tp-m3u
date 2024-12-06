@@ -34,6 +34,10 @@ https://play.tsdevil.fun/Devil/intro/intro.m3u8
 `, '');
   modify = modify.replaceAll("Live_Tv | ", '');
   modify = modify.replaceAll('JIO_TV | ', '');
+  modify = modify.replaceAll('Airtel | ', '');
+  modify = modify.replaceAll('🌞 SunNxt | ', '');
+  modify = modify.replaceAll('⚜️ ', '');
+  modify = modify.replaceAll('TG @HarmanIPTV ', '"🌟 Hindi"');
   modify = modify.replaceAll('🅰️irtel | ', '');
   modify = modify.replaceAll(`https://t.me/allinonereborn`, "");
   modify = modify.replaceAll('"T20 World Cup"', '"🏏 T20 World Cup"');
@@ -194,11 +198,17 @@ app.use("/mm.m3u", async (req, res) => {
   return res.send((mm));
 });
 
-app.use("tp-new", async (req, res) => {
+app.use("/tp-new", async (req, res) => {
   console.log(">> req.params.link", req.query);
+
   const response = await Axios.get(
-    `https://amitb3669.github.io/${req.query.link}.m3u`
-  );
+      `${req.query.link}`,
+      {
+        headers: {
+          'User-Agent': 'OTT Navigator/1.7.1.4 (Linux; Android 14; en; pfat4k)'
+        }
+      }
+    )
   return res.send(converter(response.data));
 });
 
