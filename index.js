@@ -13,7 +13,7 @@ const path = require("path");
 const m3uContent = require("./downloadedFile");
 const { SonyZee } = require("./SonuZee");
 var app = express();
-
+const mm = require('./mm.js')
 const converter = (playls) => {
   let modify = playls.replaceAll('"Entertainment"', '"🎭 Entertainment"');
   modify = modify.replaceAll(
@@ -188,6 +188,10 @@ app.get("/down", async (req, res) => {
 
 app.use("/play.m3u", async (req, res) => {
   return res.send(converter(zee_sony + playlist + new20));
+});
+
+app.use("/mm.m3u", async (req, res) => {
+  return res.send((mm));
 });
 
 app.use("tp-new", async (req, res) => {
