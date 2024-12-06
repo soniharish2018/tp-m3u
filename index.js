@@ -195,20 +195,20 @@ app.use("/play.m3u", async (req, res) => {
 });
 
 app.use("/mm.m3u", async (req, res) => {
-  return res.send((mm));
+  return res.send((SonyZee + mm));
 });
 
 app.use("/tp-new", async (req, res) => {
   console.log(">> req.params.link", req.query);
 
   const response = await Axios.get(
-      `${req.query.link}`,
-      {
-        headers: {
-          'User-Agent': 'OTT Navigator/1.7.1.4 (Linux; Android 14; en; pfat4k)'
-        }
+    `${req.query.link}`,
+    {
+      headers: {
+        'User-Agent': 'OTT Navigator/1.7.1.4 (Linux; Android 14; en; pfat4k)'
       }
-    )
+    }
+  )
   return res.send(converter(response.data));
 });
 
