@@ -7,6 +7,7 @@ const t20 = require("./t20");
 const { zee_sony } = require("./zee_sony");
 const { zeesony } = require("./zeesony");
 const new20 = require("./newt20");
+const newChannels = require("./new.js");
 require('dotenv').config();
 const fs = require("fs");
 const path = require("path");
@@ -33,7 +34,9 @@ const converter = (playls) => {
 https://play.tsdevil.fun/Devil/intro/intro.m3u8
 `, '');
   modify = modify.replaceAll("Live_Tv | ", '');
+  modify = modify.replaceAll("PLAYLIVTV⭐", '');
   modify = modify.replaceAll('JIO_TV | ', '');
+  modify = modify.replaceAll('Airtel | ', '');
   modify = modify.replaceAll('Airtel | ', '');
   modify = modify.replaceAll('🌞 SunNxt | ', '');
   modify = modify.replaceAll('⚜️ ', '');
@@ -124,8 +127,11 @@ https://play.tsdevil.fun/Devil/intro/intro.m3u8
 
   modify = modify.replaceAll('" Kannada"', '"📂 Others"');
   modify = modify.replaceAll('"Kannada"', '"📂 Others"');
+  modify = modify.replaceAll('"1▁𝐏𝐥𝐚𝐲𝐥𝐢𝐯𝐭𝐯 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰▁"', '"📂 Others"');
   modify = modify.replaceAll('"Travel"', '"📂 Others"');
+  modify = modify.replaceAll('"▁•☆•𝐏𝐥𝐚𝐲𝐥𝐢𝐯𝐭𝐯 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰•☆•▁"', '"📂 Others"');
   modify = modify.replaceAll('"Technology"', '"📂 Others"');
+  modify = modify.replaceAll('"OTHERS"', '"📂 Others"');
   modify = modify.replaceAll('"Fun & Games"', '"📂 Others"');
   modify = modify.replaceAll('" Regional Kannada"', '"📂 Others"');
   modify = modify.replaceAll('"Regional Kannada"', '"📂 Others"');
@@ -198,18 +204,27 @@ app.use("/mm.m3u", async (req, res) => {
   return res.send((SonyZee + mm));
 });
 
-app.use("/tp-new", async (req, res) => {
-  console.log(">> req.params.link", req.query);
+app.use("/newm3u", async (req, res) => {
+  return res.send(converter(newChannels + SonyZee + mm));
+});
 
-  const response = await Axios.get(
-    `${req.query.link}`,
-    {
-      headers: {
-        'User-Agent': 'OTT Navigator/1.7.1.4 (Linux; Android 14; en; pfat4k)'
+app.use("/tp-new", async (req, res) => {
+  console.log(">> req.params.link", req.headers);
+
+  try {
+    const response = await Axios.get(
+      `${req.query.link}`,
+      {
+        headers: {
+          'User-Agent': 'TiviMate/5.0.2 (Android 14)'
+        }
       }
-    }
-  )
-  return res.send(converter(response.data));
+    )
+    return res.send(converter(SonyZee + response.data));
+  } catch (error) {
+    return res.send((error));
+
+  }
 });
 
 app.use("/cap", async (req, res) => {

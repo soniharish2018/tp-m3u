@@ -1,0 +1,2085 @@
+const tpnew = `
+	#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="http://astv.life:8080/images/395237fc7358135adbdfa4414077f9e7.png" tvg-id="zeetvhd.in" ,ZEE TV HD
+https://airsteam.playlivtv.workers.dev/?id=137737
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUQMCK9JiMNKDzB72npx1j4tK1OXLpyb5rG8c-BciNEU_31Nl_l15755WFnuE_WWwMcBz7WOLHOVxSzkETyqeH9VAP1-5imGb6VRPBN6ZUEZnc-FGSafgZVCaKIgegmy8ShtLaSr4LhmMytEc1UAFW8aTvzAwx-yUFZiGLk3MiRjP4uzgwdte1G0Z6eErd/w200-h200/20241101_101541.gif" tvg-id="sonyhd.in" ,SONY SET HD
+https://airsteam.playlivtv.workers.dev/?id=137740
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="http://astv.life:8080/images/e6ceecfd36070e57227f2d84c39a14a1.png" tvg-id="starplushd.in" ,STAR PLUS HD
+https://airsteam.playlivtv.workers.dev/?id=137742
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="http://astv.life:8080/images/afbbe0992aa80f69b408b861f05b7600.png" tvg-id="colorshd.in" ,COLORS HD
+https://airsteam.playlivtv.workers.dev/?id=137745
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="http://astv.life:8080/images/afbbe0992aa80f69b408b861f05b7600.png" tvg-id="colorshd.in" ,COLORS*
+https://airsteam.playlivtv.workers.dev/?id=137746
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="http://astv.life:8080/images/063ab6ea6e34820c7e79c73ecf5aab9f.png" tvg-id="starbharathd.in" ,STAR BHARAT HD
+https://airsteam.playlivtv.workers.dev/?id=137748
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin3XNRhQnaOQPtQ0193nBTRe5kbFvGE649uiEjiwkUQ_z4vfx_gZDACweg4Y9Xm0zJgsGMZNo1cf8hrOqwhwwXN8jClFuJmnUeRAnsKEYCogEeAnbXmAUM42FtdgQqAeNaTTStQvcsfPf6pqWueY2iFS7em4dRr8wTZ7ICc8tAshIDLHdj1-9HPC2daM2K/w200-h200/20241101_101646.gif" tvg-id="sonysabhd.in" ,SONY SAB HD
+https://airsteam.playlivtv.workers.dev/?id=137751
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="http://astv.life:8080/images/9580b71e6a022e556d53ab7bc6a223f5.jpg" tvg-id="andtvhd.in" ,& TV HD
+https://airsteam.playlivtv.workers.dev/?id=137755
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Colors_rishtey.png/revision/latest/scale-to-width-down/250?cb=20210514120116" tvg-id="colorsrishtey.in" ,COLORS RISHTEY*
+https://airsteam.playlivtv.workers.dev/?id=137758
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="http://astv.life:8080/images/45f9b7dc5e42765bddcc57ccfde1178c.jpg" tvg-id="sonypal.in" ,SONY PAL
+https://airsteam.playlivtv.workers.dev/?id=137761
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKEQdQHaRrBnx-d6HapnM2i1LtQ7A_Pz7FiMG5cOulraCwgLqppJwxEk&s=10" tvg-id="bigmagic.in" ,BIG MAGIC*
+https://airsteam.playlivtv.workers.dev/?id=137762
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXix33L_OJPnjz6E0stuAeHgeBuShys4EvEA&usqp=CAU" tvg-id="zanmol.in" ,ZEE ANMOL*
+https://airsteam.playlivtv.workers.dev/?id=137765
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest/scale-to-width-down/250?cb=20240320075353" tvg-id="starutsav.in" ,STAR UTSAV*
+https://airsteam.playlivtv.workers.dev/?id=137768
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="http://astv.life:8080/images/f6731ff5afc5bf088f50a8370b871e38.png" ,BHOJPURI CINEMA
+https://airsteam.playlivtv.workers.dev/?id=137775
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/fe1331a5-f411-46a5-a24c-3af5172a60dc/2558617115/dangal-tv-live-series-hints-logo" ,DANGAL*
+https://airsteam.playlivtv.workers.dev/?id=137778
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321" ,B4U BHOJPURI
+https://airsteam.playlivtv.workers.dev/?id=137780
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Shemaroo_tv_slogan.png/revision/latest/scale-to-width-down/1200?cb=20210514143118" ,DANGAL 2*
+https://airsteam.playlivtv.workers.dev/?id=137781
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" ,DABANGG
+https://airsteam.playlivtv.workers.dev/?id=219534
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" ,SONY KAL
+https://airsteam.playlivtv.workers.dev/?id=208368
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" tvg-logo="http://astv.life:8080/images/99deaa64a99bdd1166ff690fe4ccd533.png" ,NAZARA
+https://airsteam.playlivtv.workers.dev/?id=212434
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Entertainment" ,ZEE ZEST HD*
+https://airsteam.playlivtv.workers.dev/?id=212457
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxa60UwWyFXqdR98kiE6GDlxzf4_61pfafwsNc4JGAVd8dJjZUiPa1A&s=10" tvg-id="stargoldhd.in" ,STAR GOLD HD
+https://airsteam.playlivtv.workers.dev/?id=137694
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/7bcfa9f0ca7ba4c6309c61c6c68ad62c/366166-multi-media-channels-tv-world-india-star-gold-select.gif" tvg-id="stargoldselecthd.in" ,STAR GOLD SELECT HD
+https://airsteam.playlivtv.workers.dev/?id=137695
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" ,STAR GOLD 2
+https://airsteam.playlivtv.workers.dev/?id=137697
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZBLbwhJ2dKfl8CeqGP19diRxPZaPH0PlJQ&usqp=CAU" tvg-id="andpictureshd.in" ,& PICTURES HD
+https://airsteam.playlivtv.workers.dev/?id=137701
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTIy0NnXgrjB8dgfpWQ_kuCJc_eroGMbV_mA&s" tvg-id="zeecinemaindiahd.in" ,ZEE CINEMA HD
+https://airsteam.playlivtv.workers.dev/?id=137703
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj" ,B4U MOVIES*
+https://airsteam.playlivtv.workers.dev/?id=137707
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest/scale-to-width-down/220?cb=20211216002621" ,STAR GOLD ROMANCE  P L A Y L i V T V
+https://airsteam.playlivtv.workers.dev/?id=137708
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWj12gggfT2yy8ufsThYVZP69QZburaZeuMJpOW42-A12YPtHSNAKyyFN9&s=10" tvg-id="colorscineplexhd.in" ,COLORS CINEPLEX*
+https://airsteam.playlivtv.workers.dev/?id=137709
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeqHRlrc7c3p3FISbs2IsKr6JFnjL92d6xFG8moA_jgCnSnr8z_eo--U&s=10" tvg-id="colorscineplexhd.in" ,COLORS CINEPLEX HD*
+https://airsteam.playlivtv.workers.dev/?id=137710
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="http://astv.life:8080/images/30d7b142ab15688f5ca319c270b3093e.png" tvg-id="sonymaxhd.in" ,SONY MAX HD
+https://airsteam.playlivtv.workers.dev/?id=137712
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSs_sM_UicfCHw6_4M9h6HGEqPUlYk1m_qywkZ8MUov-Mf_83VEI4LmRm&s=10" tvg-id="sonymax.in" ,SONY MAX 2*
+https://airsteam.playlivtv.workers.dev/?id=137714
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrHJOzu4TfbjQ_P0uEbstvONp8Qj5iulrq7MN-Juaq0mINIR6s4-ej0qse&s=10" tvg-id="zeeanmolcinema.in" ,ZEE ANMOL CINEMA*
+https://airsteam.playlivtv.workers.dev/?id=137715
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854" tvg-id="zeeclassic.in" ,ZEE CLASSIC*
+https://airsteam.playlivtv.workers.dev/?id=137716
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjQ8CLi5p65t-bXMKEBRET3cqlVLu67IzGOPQyghmnJfr0DWJAB4FWJU&s=10" ,COLORS CINEPLEX SUPERHITS*
+https://airsteam.playlivtv.workers.dev/?id=137720
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul0JnGoNmaIeoKNnVI-kbd98EfZsrMOCQMr3_xlWSMS8uYYS2bOrWvBQ&s=10" ,MANORANJAN GRAND*
+https://airsteam.playlivtv.workers.dev/?id=137722
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://yt3.googleusercontent.com/pB_InSVxo8PJab1mjdyHxw4RzyErSbzXoYC0ZjHMVhhLYU2pxh2VuMfj7hLhsNu_ZS-GVyQu=s900-c-k-c0x00ffffff-no-rj" ,GOLDMINES*
+https://airsteam.playlivtv.workers.dev/?id=137723
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" ,B4U KADAK*
+https://airsteam.playlivtv.workers.dev/?id=137724
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpy2ATlSqm5sJ8od2ryaJO4uDC7d7byFIQVq6c3yv1wICF_l-popaaS4&s=10" ,STAR UTSAV MOVIES
+https://airsteam.playlivtv.workers.dev/?id=137725
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HAAZGhJRF4WgfI2TfbH9mTKUIRQLF-E51SMjtUsCrk59ZZhD926XhaiV&s=10" ,COLORS CINEPLEX BOLLYWOOD*
+https://airsteam.playlivtv.workers.dev/?id=137728
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTIy0NnXgrjB8dgfpWQ_kuCJc_eroGMbV_mA&s" ,ZEE CINEMA SD*
+https://airsteam.playlivtv.workers.dev/?id=137731
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTD2j3kxszvDN-wZU8Us-H5DyRxfUfXq7E_mW3OKVS95LwTfHJg-Gibc&s=10" ,& XPLORER HD
+https://airsteam.playlivtv.workers.dev/?id=204801
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muYk3H6cceCnfb1MkJ0MP0ZFyLlIElpCXstEyfm-svPO0=s900-c-k-c0x00ffffff-no-rj" ,STAR GOLD SD*
+https://airsteam.playlivtv.workers.dev/?id=212475
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6bsC8XT_OcbZItMctonYiea5dvHktQjDsFA&usqp=CAU" ,ZEE BOLLYWOOD*
+https://airsteam.playlivtv.workers.dev/?id=210726
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://yt3.googleusercontent.com/DZjV6nl44f0Q2wxbf2izqsxDJKVeL_Fi6vbsD7E6_Kp1OUYHZirsHdQL7kVKPFZFBD8ZmX459TA=s900-c-k-c0x00ffffff-no-rj" ,SONY WAH*
+https://airsteam.playlivtv.workers.dev/?id=210727
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPf8y4wg4jzvzzvrIKo9QBJDQVIfhKs6GWYg&usqp=CAU" ,ZEE ACTION*
+https://airsteam.playlivtv.workers.dev/?id=211657
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHjUbMs1Q3uCRDU87eC8zn1kwPC1_C03n4iw&s" ,STAR GOLD THRILLS
+https://airsteam.playlivtv.workers.dev/?id=211658
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUfMv4-qwm7R2KteQgZ1clVks0jNN96RgZQ&s" ,MANORANJAN TV*
+https://airsteam.playlivtv.workers.dev/?id=212428
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDZCBGR3YTr5r-UR3g4cp3ZWxE3c3CURhIw&usqp=CAU" ,MBC BOLLYWOOD*
+https://airsteam.playlivtv.workers.dev/?id=212456
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/a6bb5998baef0ca7ab376ab0e8fd0540.png" ,Aastha
+https://airsteam.playlivtv.workers.dev/?id=208376
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/4c2917ab0d24a3ebff6ce864c34599d2.png" ,Sanskar
+https://airsteam.playlivtv.workers.dev/?id=208377
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/2e18b163a0a847a458d6f8e327644349.png" ,Arihant TV
+https://airsteam.playlivtv.workers.dev/?id=208378
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/3630bbc7c31a86b867a9df7898809984.png" ,Sadhna
+https://airsteam.playlivtv.workers.dev/?id=208379
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/d4ac30c3ba5945578aadb008571a8786.png" ,Aastha Bhajan
+https://airsteam.playlivtv.workers.dev/?id=208380
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/c99f3749d49b2e5468fe9718c91a47af.png" ,Jinvani TV
+https://airsteam.playlivtv.workers.dev/?id=208381
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/79a290f0e3df21a0e9a770f609db2f19.png" ,Satsang TV
+https://airsteam.playlivtv.workers.dev/?id=208382
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/a559796ec2c04c567ff52605408cb4d3.png" ,Sri Venkateshwar Bhakti
+https://airsteam.playlivtv.workers.dev/?id=208383
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/8d34af6dfa1eebb808d3f5e2b87d00b2.png" ,Disha tv
+https://airsteam.playlivtv.workers.dev/?id=208384
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/4812d7f857d07a09db5c0155358bf265.png" ,Ishwar TV
+https://airsteam.playlivtv.workers.dev/?id=208385
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/0e2a63da9b98a2fd3a2979bd55a6e6fe.png" ,Paras tv
+https://airsteam.playlivtv.workers.dev/?id=208386
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/d272100edf028e929a60913f48260b55.png" ,Nambikkai
+https://airsteam.playlivtv.workers.dev/?id=208387
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/cd62223068264256bddaa18def990a9f.png" ,Channel Win
+https://airsteam.playlivtv.workers.dev/?id=208388
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/53038f663a87c8f15432fd1a7a023436.png" ,Shalom
+https://airsteam.playlivtv.workers.dev/?id=208389
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/bf6cf9c7e32924e4b78db31b586a4eda.png" ,Subhavartha TV
+https://airsteam.playlivtv.workers.dev/?id=208390
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/87a9aa3fb1be9a8827d6a0905f75ceaf.png" ,Shubhsandesh TV
+https://airsteam.playlivtv.workers.dev/?id=208391
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/a16595ca7e4bb35111506a26af6a9944.png" ,mh1 Shraddha
+https://airsteam.playlivtv.workers.dev/?id=208392
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/10f170f2103bf55909bbf9b0a89a7e1a.png" ,Darshan 24
+https://airsteam.playlivtv.workers.dev/?id=208393
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/cb0968ff4da7e55b56804a8f49bb2173.png" ,CVR OM Spiritual
+https://airsteam.playlivtv.workers.dev/?id=208394
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/6879becce928c2e6a7ed782c594e46b5.png" ,Bhakti TV
+https://airsteam.playlivtv.workers.dev/?id=208395
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/6ce6d040f89c27b830c4cf6c42820adc.png" ,Aradhana TV
+https://airsteam.playlivtv.workers.dev/?id=208396
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/f2d5c72cf67fbae75f2d1f5d3755a9b0.png" ,Peace of Mind
+https://airsteam.playlivtv.workers.dev/?id=208397
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/829d96010681494deb9fbbd156d24a04.png" ,Divya TV
+https://airsteam.playlivtv.workers.dev/?id=208398
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/29baf6e7526e251d6cd2db212dba45a1.png" ,Shubh TV
+https://airsteam.playlivtv.workers.dev/?id=208399
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/f8bf725a386da5fff7bb7c82698d47c5.png" ,Sri Sankara
+https://airsteam.playlivtv.workers.dev/?id=208400
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/18bc25f5aee8306d0a03395316cf9aaa.png" ,Vedic TV
+https://airsteam.playlivtv.workers.dev/?id=208401
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/89186a9e87087046c596524bfa3fa9c6.png" ,Hare krsna
+https://airsteam.playlivtv.workers.dev/?id=208402
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/c0586f3c3251930e1fc52bbb401e82be.png" ,Lakshya TV
+https://airsteam.playlivtv.workers.dev/?id=208403
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/8a4e4c1a6f8bd5af590edc29d473183b.png" ,Swar Shree
+https://airsteam.playlivtv.workers.dev/?id=208404
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/9f3501936dae96933b4238aacdb156d7.png" ,Mercy TV
+https://airsteam.playlivtv.workers.dev/?id=208405
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/dd40c2e73b2fb4492858ee1bd2c82f39.png" ,Divya Vani
+https://airsteam.playlivtv.workers.dev/?id=208406
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/23e13222ff79439dccba5c970cfd6060.png" ,Sai TV
+https://airsteam.playlivtv.workers.dev/?id=208407
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/65d2c38b200d45da4328320733295bf5.png" ,Bhaktisagar 2
+https://airsteam.playlivtv.workers.dev/?id=208408
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/85790c33241b1569bf3be11bf4db7995.png" ,Garv Punjabi Gurbani
+https://airsteam.playlivtv.workers.dev/?id=208409
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/d0e6415ddbfe63698870ed559fae85d4.png" ,Hindu Dharmam
+https://airsteam.playlivtv.workers.dev/?id=208410
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/f3b38365abe5794cb699aec7a05db215.png" ,JUSOne
+https://airsteam.playlivtv.workers.dev/?id=208411
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/6ae91469397233b5e8dc6bfede5b844d.png" ,Om Shanti
+https://airsteam.playlivtv.workers.dev/?id=208412
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/1acf22f560a7fe71000348201101eedd.png" ,Sarv Dharam Sangam
+https://airsteam.playlivtv.workers.dev/?id=208413
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/16d6de0d2ee302aae454165f30aa4271.png" ,Calvary
+https://airsteam.playlivtv.workers.dev/?id=208414
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/3114576fd1f67552910bc21f58aefc27.png" ,Sharnam TV  P L A Y L i V T V
+https://airsteam.playlivtv.workers.dev/?id=208415
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/85e0e3b25620cdcd5dc7bcf57a63eecc.png" ,Soham TV
+https://airsteam.playlivtv.workers.dev/?id=208416
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/d84637f2c04246ee136e4bdb2656e336.png" ,Tulja Bhavani
+https://airsteam.playlivtv.workers.dev/?id=208417
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/c70b6b9738506ebe0f008c2d3e720308.png" ,Fateh TV
+https://airsteam.playlivtv.workers.dev/?id=208418
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/bfd5f6e4ae033865ad297fe5c04ab465.png" ,Awakening
+https://airsteam.playlivtv.workers.dev/?id=208419
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/09e5f1018ba93816d2ce422a0ab7c7db.png" ,Kartavya TV
+https://airsteam.playlivtv.workers.dev/?id=208420
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/0b8a038ab5f15439e96f9122848f7237.png" ,Valam TV
+https://airsteam.playlivtv.workers.dev/?id=208421
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/d086c41255948c2ac644c2f1b133427f.png" ,PTC Simran
+https://airsteam.playlivtv.workers.dev/?id=208422
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/6faeff80560d58e1bd8f23e736dade7a.png" ,Hare Krsna Music
+https://airsteam.playlivtv.workers.dev/?id=208423
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/6a240d2c2a37ab44ac1b75d0dd27d3bb.png" ,Sadhguru Television HD
+https://airsteam.playlivtv.workers.dev/?id=208424
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/dfbd71f8228f64e64123bc83c8188695.png" ,Hare Krsna Pravachan
+https://airsteam.playlivtv.workers.dev/?id=208425
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/28e8624b90a3bb5573c2faf014817c80.png" ,Rajyoga TV
+https://airsteam.playlivtv.workers.dev/?id=208426
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/fbc6f213e13460c3cf576a50e453650d.png" ,Rajyoga TV Kannada
+https://airsteam.playlivtv.workers.dev/?id=208427
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/84426c2091fbf9d95c3da862ff2ec175.png" ,Mandir Shri Govinddevji-Jaipur
+https://airsteam.playlivtv.workers.dev/?id=208428
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/a4c47fe59610645cf2bd18a827467a67.png" ,Dagdusheth Ganpati - Pune
+https://airsteam.playlivtv.workers.dev/?id=208429
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/edd2d93c80be4cd57ce28f3acc7e2612.png" ,Nimbark TV
+https://airsteam.playlivtv.workers.dev/?id=208430
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/3b445f35de4e84b595159ae746ea5c30.png" ,PTC VR
+https://airsteam.playlivtv.workers.dev/?id=208431
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/afa7a61db09c841b601ee75a2e215754.png" ,God TV
+https://airsteam.playlivtv.workers.dev/?id=208432
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/464626686a527d2aeb1689dc6de82c5e.png" ,Aastha Telugu
+https://airsteam.playlivtv.workers.dev/?id=208433
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/ee2d4b0b8108ac31534b012242fc1353.png" ,Aastha Gujarati
+https://airsteam.playlivtv.workers.dev/?id=208434
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/1bcf11afebf112ab4b6214e0961ad1f7.png" ,Aastha Kannada
+https://airsteam.playlivtv.workers.dev/?id=208435
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/f7b00a17a06ff1bb917de09efa8fe6fe.png" ,Sri Krishna Matha Udupi
+https://airsteam.playlivtv.workers.dev/?id=208436
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/7fa497281f5516ef922c3a5f3072fb56.png" ,Prarthana Bhawan
+https://airsteam.playlivtv.workers.dev/?id=208437
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/14709dd529294f85937a31c00088d80c.PNG" ,Vignesh TV
+https://airsteam.playlivtv.workers.dev/?id=208438
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/06ede9e0dcbd866b809562ba196caf49.png" ,HHDL
+https://airsteam.playlivtv.workers.dev/?id=208439
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/8bfd98af0054dab4827e628edaf18034.png" ,Goodness
+https://airsteam.playlivtv.workers.dev/?id=208440
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/dd40bec4b604bbf314411476f0fbdafd.png" ,Sai Leela
+https://airsteam.playlivtv.workers.dev/?id=208441
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/ef4ee07450539d7d23743b7615fae24a.png" ,Shani Shingnapur
+https://airsteam.playlivtv.workers.dev/?id=208442
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/42cf94c50637e4a5ca06e3b93b84c9a5.png" ,Prati Shirdi Saibaba
+https://airsteam.playlivtv.workers.dev/?id=208443
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/08f602973d39d787fad62bb6155d371c.png" ,Ganga Darshan Varanasi
+https://airsteam.playlivtv.workers.dev/?id=208444
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/2a1c91fb9fc7a27c799d3bb9d4614b95.png" ,SVBC2
+https://airsteam.playlivtv.workers.dev/?id=208445
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/33c75ee0ddaf91a1478326191cc3c852.png" ,Ichhapuran Balaji Rajasthan
+https://airsteam.playlivtv.workers.dev/?id=208446
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/493c4f427f57af8cdb133636155483d0.png" ,Iskon Girgaon
+https://airsteam.playlivtv.workers.dev/?id=208447
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/3f0315439fb4119ca1e1ab7a570788a3.png" ,Ashtavinayak Ranjangaon
+https://airsteam.playlivtv.workers.dev/?id=208448
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/67f2d886131bb928cde0a78a01ff7826.png" ,Karani Mata Rajasthan
+https://airsteam.playlivtv.workers.dev/?id=208449
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/38854e5e58eb0b06e7761bbf399bbe1e.png" ,Mahalaxmi Mumbai
+https://airsteam.playlivtv.workers.dev/?id=208450
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/6a6bfad1c2607a73110b76940662e5ca.png" ,Babulnaath Mumbai
+https://airsteam.playlivtv.workers.dev/?id=208451
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/735d740250c7468214cc768671478dec.png" ,Mumbadevi Mumbai
+https://airsteam.playlivtv.workers.dev/?id=208452
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/0ac2d623c827f4f4e7b6398eda399521.png" ,Santvani
+https://airsteam.playlivtv.workers.dev/?id=208453
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/4267bc0ffc984bcb45fbf775931ecaac.png" ,Velukkudi Discourses
+https://airsteam.playlivtv.workers.dev/?id=208454
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/0db8baf4be7b6ab4fc5be6f830fb0c48.png" ,Krishna Vani
+https://airsteam.playlivtv.workers.dev/?id=208455
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/131ac6dae9a054ad337fbaae2fb5ea91.png" ,Shiksha TV
+https://airsteam.playlivtv.workers.dev/?id=208456
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/211253bb98f9203401de26306031399c.png" ,Gurkibani
+https://airsteam.playlivtv.workers.dev/?id=208457
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/4f4a3e3da7bb12cae5a8ab530534709d.png" ,Shree Ganesh - Moti Doongri Jaipur
+https://airsteam.playlivtv.workers.dev/?id=208458
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/5bd87ac901a0adc40e2281dd0283c088.png" ,AMMA TV
+https://airsteam.playlivtv.workers.dev/?id=208459
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/823f300e29e9a3257db46d52bc3a0015.png" ,RadheKrishna TV
+https://airsteam.playlivtv.workers.dev/?id=208460
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/b7964457a2b1169dcd3435e24877c523.png" ,Sangat TV
+https://airsteam.playlivtv.workers.dev/?id=208461
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/2985860704e2c89d7536008fae6b09d2.png" ,Subharti
+https://airsteam.playlivtv.workers.dev/?id=208462
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/2c978ad13aa0472cc2c662991c742414.png" ,Dharm Granth TV
+https://airsteam.playlivtv.workers.dev/?id=208463
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/cf98cf4c484d968705ae17f36ce79445.png" ,Sanatan TV
+https://airsteam.playlivtv.workers.dev/?id=208464
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/0a756806866985c9bdde32db1006fe41.png" ,Jigyasa TV
+https://airsteam.playlivtv.workers.dev/?id=208465
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/8208f34c88b8f504c524c73033f607d5.png" ,35mm
+https://airsteam.playlivtv.workers.dev/?id=208466
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/2fd2bf44127bd0256e2a952d9a253cf7.png" ,Atmadarshan TV
+https://airsteam.playlivtv.workers.dev/?id=208467
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/3efccf64e31028799ac85e12a5d611fd.png" ,Bangla Bhakti
+https://airsteam.playlivtv.workers.dev/?id=208468
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/fd839a8efbbac9c6218ac7aa74d2f268.png" ,Manav Dharam
+https://airsteam.playlivtv.workers.dev/?id=208469
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/7bd0c284cd586484fadac6e99218994c.png" ,Ishvani TV
+https://airsteam.playlivtv.workers.dev/?id=208470
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/066f238352fa57673a457641cfd19ecf.png" ,Harvest TV 24x7
+https://airsteam.playlivtv.workers.dev/?id=208471
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/4c71dcfe36cd8c225753582d55c61e53.png" ,Powervision TV
+https://airsteam.playlivtv.workers.dev/?id=208472
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/dd5e00cb424a6e018e40df32f582a98c.png" ,Madha TV
+https://airsteam.playlivtv.workers.dev/?id=208473
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/ff04c1cc357ce1f3cfc5b6235e06e4b3.png" ,BVTV  P L A Y L i V T V
+https://airsteam.playlivtv.workers.dev/?id=208474
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/1f2cde1ea8a8e4c3a99d15681705bb8f.png" ,Shri Hingulambika Devi Temple
+https://airsteam.playlivtv.workers.dev/?id=208475
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/640a88916c5422abfdfaf811d30cacb2.png" ,Shri Mangal Dev Grah Temple
+https://airsteam.playlivtv.workers.dev/?id=208476
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/64caa8ee692b859aad1a43d30df38432.png" ,Ek Onkar
+https://airsteam.playlivtv.workers.dev/?id=208477
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/a61f8df8065f8e28793db58ad38b3b16.png" ,Hosanna TV
+https://airsteam.playlivtv.workers.dev/?id=208478
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/995b2d40d32a6e26a43281d93b82fe94.png" ,Sanskrit Ganga
+https://airsteam.playlivtv.workers.dev/?id=208479
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/8068bb42b356ea3aaadff1b3bdf8b918.png" ,Dada Bhagwan Foundation
+https://airsteam.playlivtv.workers.dev/?id=208480
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/046a2e57cfe9e57a8e0e88ac9f320edb.png" ,VISVAS
+https://airsteam.playlivtv.workers.dev/?id=208481
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/40177ff623cde969b43480b04f9b9ca7.png" ,Yeshuaa TV
+https://airsteam.playlivtv.workers.dev/?id=208482
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/4630fb5e615af5ab9e102c5952a33fd4.png" ,Dada Bhagwan Foundation Gujarati
+https://airsteam.playlivtv.workers.dev/?id=208483
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/60f1941254dd1da416904017eb7cf3a7.png" ,Mangalmay Live
+https://airsteam.playlivtv.workers.dev/?id=208484
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/e662a730d3dc33d31b1d7da9e4f759d9.png" ,Shri Amarnathji Shrine Board
+https://airsteam.playlivtv.workers.dev/?id=208485
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/8dc879c1c7f5ec19fbf0a63c92609a57.png" ,SVBC
+https://airsteam.playlivtv.workers.dev/?id=208486
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/f8fea6b0da6c94445fe41923fb1c4635.png" ,SVBC3
+https://airsteam.playlivtv.workers.dev/?id=208487
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/4cc292cfc5bcfe66063b125770a58656.png" ,SVBC4
+https://airsteam.playlivtv.workers.dev/?id=208488
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/b3afc26aa086c20e5e23d7fd85cbb5a3.png" ,Kripa TV
+https://airsteam.playlivtv.workers.dev/?id=208489
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/6acbe6a64975e428409752195f6f994f.png" ,Adhyatam TV
+https://airsteam.playlivtv.workers.dev/?id=208490
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/bf5f46c2a43033052f6b58036a3bee08.png" ,Sanskriti 24x7
+https://airsteam.playlivtv.workers.dev/?id=208491
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/318f7467e7d09cda013ee9f8783bb544.png" ,Shri Trimbakeshwar Devasthan Trust
+https://airsteam.playlivtv.workers.dev/?id=208492
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/e283dd70bc4f9274e3af42b2325db87a.png" ,Sidharth Bhakti
+https://airsteam.playlivtv.workers.dev/?id=208493
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/427e370e1897206c80a41b850cdcbc3d.png" ,PMC Hindi
+https://airsteam.playlivtv.workers.dev/?id=208494
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/5ebc370598d70bfd36e54d496cf6612c.png" ,PMC Telugu
+https://airsteam.playlivtv.workers.dev/?id=208495
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/8221e458bb8a5c0be7876950c911611e.png" ,Aadinath TV
+https://airsteam.playlivtv.workers.dev/?id=208496
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/1e88198836bc6e76c6b9086da43ac15c.png" ,Paramatma
+https://airsteam.playlivtv.workers.dev/?id=208497
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/d97a8e431de4099f37e5c6281372cf1b.png" ,Sadvidya TV
+https://airsteam.playlivtv.workers.dev/?id=208498
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/e76840faeb219af8af1b89b00fb3024b.png" ,Aaryaa Bhakti
+https://airsteam.playlivtv.workers.dev/?id=208499
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/50df9ce2c02d779a897b0c86a87c531e.png" ,Amritwani
+https://airsteam.playlivtv.workers.dev/?id=208500
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/b15666c1462b360ff8d8ac1f75db239d.png" ,Bhakti Sagar
+https://airsteam.playlivtv.workers.dev/?id=208501
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/1b677a5f6c858fc9220774bba34a7491.png" ,Auroville TV
+https://airsteam.playlivtv.workers.dev/?id=208502
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/373d7388505b4d239fceebb535df2437.png" ,Arya Sandesh TV
+https://airsteam.playlivtv.workers.dev/?id=208503
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/9de98b737805dbe0bd7d48434e1b3f78.png" ,Gurukul
+https://airsteam.playlivtv.workers.dev/?id=208504
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/1da63a72bdea325d9431d2098033ddac.png" ,Guruvayur Devaswom
+https://airsteam.playlivtv.workers.dev/?id=208505
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/e9d1303006d2306a72cc4cd89d0ee0cd.png" ,Divyalok TV
+https://airsteam.playlivtv.workers.dev/?id=208506
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/54ceab7573c6405931a218e240dd6e04.png" ,SRS Bhakti TV
+https://airsteam.playlivtv.workers.dev/?id=208507
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/868597e1b216e11df6ca8abf19d56f23.png" ,Desika daya
+https://airsteam.playlivtv.workers.dev/?id=208508
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/2889476fd47a1dc16f742ad222cf3c8c.png" ,Jyothishavartha
+https://airsteam.playlivtv.workers.dev/?id=208509
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/edd4f5e33300a45d06463431f96af15d.png" ,Jothi TV
+https://airsteam.playlivtv.workers.dev/?id=208510
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/0a8fb6bcbfa37a9b4a988b8ebd726319.png" ,Grace TV
+https://airsteam.playlivtv.workers.dev/?id=208511
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/087f4b083c8efbf950db899153393e48.png" ,ISKCON Bangalore
+https://airsteam.playlivtv.workers.dev/?id=208512
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/801e7f06b9d5d1190d5718f25957e061.png" ,Sadhna Gold
+https://airsteam.playlivtv.workers.dev/?id=208513
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/ba0ab27f11978cfa42fa94ac4e1ce29e.png" ,Jeewan Bhakti
+https://airsteam.playlivtv.workers.dev/?id=208514
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/c59746dd13a984b2b4186cd7a7f3324f.png" ,Kalyan TV
+https://airsteam.playlivtv.workers.dev/?id=208515
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/181768165a4f86ffed9631b3dcd36f01.png" ,Amritwani TV
+https://airsteam.playlivtv.workers.dev/?id=208516
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/4147a8c2d3c09c90d4c0f19f1b3b657a.png" ,Gramin Drishti
+https://airsteam.playlivtv.workers.dev/?id=208517
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/069a68ca0b515e9ead41c2e8c18e2359.png" ,Shree Jagannath TV
+https://airsteam.playlivtv.workers.dev/?id=208518
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/a59e7c1180185a7041e8b88666425ea8.png" ,Sai TV Telugu
+https://airsteam.playlivtv.workers.dev/?id=208519
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/f94b090ad7f5d748255ec3e32cdbc5e8.png" ,Sangam TV
+https://airsteam.playlivtv.workers.dev/?id=208520
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/cf0d051248565d73d8ba1fbc1377e6b9.png" ,Bhakthi Siri
+https://airsteam.playlivtv.workers.dev/?id=208521
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/ee749cc9ac3380da177f4e04abbec677.png" ,Sanmarg Tv
+https://airsteam.playlivtv.workers.dev/?id=208522
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/ece1d9ccc20a11b07be4c38012811e62.png" ,Jay Jagannath
+https://airsteam.playlivtv.workers.dev/?id=208523
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/abee36a2caa2bfa662cf3f704deeb582.png" ,RKMM TV
+https://airsteam.playlivtv.workers.dev/?id=208524
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/03d316b469261d18d8a0f8d06a145692.png" ,Kathaamrut TV
+https://airsteam.playlivtv.workers.dev/?id=208525
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Devotional" tvg-logo="http://astv.life:8080/images/38ee64395813e0f65978fc15efd3adc4.png" ,Prabhu Vani Tv
+https://airsteam.playlivtv.workers.dev/?id=208526
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" ,EPIC HD (MULTI)
+https://airsteam.playlivtv.workers.dev/?id=219418
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" tvg-logo="http://astv.life:8080/images/e1721839a93c94eefd7029185a1f8592.png" ,DISCOVERY SCIENCE*
+https://airsteam.playlivtv.workers.dev/?id=210736
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" tvg-logo="http://astv.life:8080/images/7cf04752425f18cb510b11556cbc1f33.png" ,DISCOVERY HD (MULTI)*
+https://airsteam.playlivtv.workers.dev/?id=210740
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" tvg-logo="http://astv.life:8080/images/131ce6bb46183c90a6f0aebd4c03c5be.png" ,NAT GEO WILD HD (MULTI)*
+https://airsteam.playlivtv.workers.dev/?id=212459
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" ,FOODXP
+https://airsteam.playlivtv.workers.dev/?id=219537
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" ,SONY BBC EARTH HD (MULTI)*
+https://airsteam.playlivtv.workers.dev/?id=210759
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" tvg-logo="http://astv.life:8080/images/fe5fcca298f154ee497073cc4bd4c0ec.png" ,HISTORY TV18 HD (MULTI)*
+https://airsteam.playlivtv.workers.dev/?id=210728
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" tvg-logo="http://astv.life:8080/images/1e4542396b3016183de326594fa352e2.png" ,DISCOVERY TURBO*
+https://airsteam.playlivtv.workers.dev/?id=210733
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" tvg-logo="http://astv.life:8080/images/45df9da0583dcdd04a958bcc38aeeb5f.png" ,ANIMAL PLANET HD (MULTI)*
+https://airsteam.playlivtv.workers.dev/?id=210735
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" tvg-logo="http://astv.life:8080/images/9980f79493afd1db68314dc4beb87eec.png" ,TLC HD (MULTI)*
+https://airsteam.playlivtv.workers.dev/?id=210760
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" ,STAR LIFE HD (MULTI)*
+https://airsteam.playlivtv.workers.dev/?id=210761
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" ,NAT GEO HD (MULTI)*
+https://airsteam.playlivtv.workers.dev/?id=212458
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" ,TRAVEL XP HD (MULTI)*
+https://airsteam.playlivtv.workers.dev/?id=212460
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" tvg-logo="http://astv.life:8080/images/663aed927326f3ccc50d7c228cd96456.png" ,INVESTIGATION DISCOVERY*  P L A Y L i V T V
+https://airsteam.playlivtv.workers.dev/?id=212461
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Documentary" ,FOOD FOOD
+https://airsteam.playlivtv.workers.dev/?id=219417
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="http://astv.life:8080/images/6f9482883a694ca0b585922b9f306259.png" tvg-id="cartoonnetworkhd.in" ,CARTOON NETWORK  P L A Y L i V T V
+https://airsteam.playlivtv.workers.dev/?id=137784
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest/scale-to-width-down/1200?cb=20191112233054" tvg-id="pogo.in" ,POGO*
+https://airsteam.playlivtv.workers.dev/?id=137785
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" tvg-id="cartoonnetworkhd.in" ,CARTOON NETWORK HD+*
+https://airsteam.playlivtv.workers.dev/?id=137786
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzp0DJEzIgMof2Xui9k-eyIM8GE2eaLP1fj6bGHljqKsjixIRmH7dI_Gf&s=10" tvg-id="sonyyay.in" ,SONY YAY
+https://airsteam.playlivtv.workers.dev/?id=137787
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/b/b9/Hungama_TV_logo.png/revision/latest/thumbnail/width/360/height/360?cb=20210625205608" ,HUNGAMA TV
+https://airsteam.playlivtv.workers.dev/?id=137788
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="http://astv.life:8080/images/d391c84ad43a00593e649c12324435b2.png" tvg-id="nick.in" ,NICK
+https://airsteam.playlivtv.workers.dev/?id=137789
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="http://astv.life:8080/images/53c0d0fdc277b25bb054820b72880752.png" tvg-id="nickjrin.in" ,NICK JUNIOR
+https://airsteam.playlivtv.workers.dev/?id=137790
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/5/54/2016_Discovery_Kids_logo.svg.png/revision/latest/thumbnail/width/360/height/360?cb=20180819211819" tvg-id="discoverykids.in" ,DISCOVERY KIDS*
+https://airsteam.playlivtv.workers.dev/?id=137791
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="http://astv.life:8080/images/4a180342329ee768d76b3e505f220e55.png" tvg-id="disneyjunior.us" ,DISNEY JUNIOR (MULTI)
+https://airsteam.playlivtv.workers.dev/?id=137792
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/disney/images/2/25/Disney_Channel_2024_logo.png/revision/latest?cb=20240924174359" tvg-id="disneychannel.in" ,DISNEY CHANNEL HD
+https://airsteam.playlivtv.workers.dev/?id=137794
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/2/2b/Nickelodeon_Sonic_logo.png/revision/latest?cb=20231014183709" tvg-id="sonicnickelodeon.in" ,NICK SONIC
+https://airsteam.playlivtv.workers.dev/?id=137795
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="http://astv.life:8080/images/64ad18f2fe54f722dc7e66c9c48a1e82.png" tvg-id="nickhdplus.in" ,NICK HD+*
+https://airsteam.playlivtv.workers.dev/?id=137796
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="https://toplinetaxi.com/wp-content/uploads/2023/08/clock.gif" ,24/7 DORAEMON CARTOON
+https://airsteam.playlivtv.workers.dev/?id=154546
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" ,24/7 NINJA HATTORI
+https://airsteam.playlivtv.workers.dev/?id=219596
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" ,24/7 Little Krishna
+https://airsteam.playlivtv.workers.dev/?id=219600
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" ,DISNEY CHANNEL
+https://airsteam.playlivtv.workers.dev/?id=208364
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" ,GUBBARE
+https://airsteam.playlivtv.workers.dev/?id=208365
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" ,POWER KIDS TV
+https://airsteam.playlivtv.workers.dev/?id=208530
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" ,HOOPLA KIDS TV
+https://airsteam.playlivtv.workers.dev/?id=208531
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kids" tvg-logo="https://toplinetaxi.com/wp-content/uploads/2023/08/clock.gif" ,24/7 PERMAN
+https://airsteam.playlivtv.workers.dev/?id=212430
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" ,HINDI HITS
+https://airsteam.playlivtv.workers.dev/?id=147502
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/a1ae50428251b597c1299b728774044f.png" ,B4U Music
+https://airsteam.playlivtv.workers.dev/?id=211465
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/1ee2991133ed3ca7ef90c7faedc20b29.png" ,MTV
+https://airsteam.playlivtv.workers.dev/?id=211466
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/975c8996fb02452acb9dd5a6f6a45c83.png" ,Music India
+https://airsteam.playlivtv.workers.dev/?id=211467
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/35d45d7c020f59e83bda819239561465.png" ,9X Jalwa
+https://airsteam.playlivtv.workers.dev/?id=211468
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/25df145c61291deaae0e6528196f94c3.png" ,Mastiii
+https://airsteam.playlivtv.workers.dev/?id=211469
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/a7bb3bd6f7b2100a721b4b603fd417cc.png" ,9XM
+https://airsteam.playlivtv.workers.dev/?id=211470
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/7cdc38366be351f3d73685ed825309e5.png" ,E 24
+https://airsteam.playlivtv.workers.dev/?id=211471
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/7c4efbfc53833b1fd263b90a6655ef4e.png" ,ZOOM
+https://airsteam.playlivtv.workers.dev/?id=211472
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/2ec0de35c0ce94a42a344b28c82f99ca.png" ,9X Tashan
+https://airsteam.playlivtv.workers.dev/?id=211473
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/44fa5c43153ff52f422fd1a781c2d1dd.png" ,Sangeet Bangla
+https://airsteam.playlivtv.workers.dev/?id=211474
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/4504c32a2bdcb866efca3fd3fbf52bde.png" ,Sangeet Bhojpuri
+https://airsteam.playlivtv.workers.dev/?id=211475
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/ee8cba0956643fc0939974d34a4974d8.png" ,mh1 (Music)
+https://airsteam.playlivtv.workers.dev/?id=211476
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/843a7a1ff8b0312b7e665ae9d0135c4d.png" ,Raj Music Kannada
+https://airsteam.playlivtv.workers.dev/?id=211477
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/ca093134647bddfcd873959abfa78b98.png" ,Udaya Music
+https://airsteam.playlivtv.workers.dev/?id=211478
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/7401af6d1de429ccc96d253e97ec1ad1.png" ,MTV Beats HD
+https://airsteam.playlivtv.workers.dev/?id=211479
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/9b99caff4e96d5723605c18e31cf328b.png" ,Public Music
+https://airsteam.playlivtv.workers.dev/?id=211480
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/32e837464f4d78bbfbb68fa62c8bfdcf.png" ,Only Music
+https://airsteam.playlivtv.workers.dev/?id=211481
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/ff4d60629415478cc8e6a7d5e292d7fe.png" ,PBN Music
+https://airsteam.playlivtv.workers.dev/?id=211482
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/bbd97cbbef8dca03c8b3182c96797a63.png" ,Boogle Bollywood
+https://airsteam.playlivtv.workers.dev/?id=211483
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/8c4bfcf2fdbe35fe8a0e3b7a40ea9bfb.png" ,PEACE MUSIC
+https://airsteam.playlivtv.workers.dev/?id=211484
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/ada3faea6f4d82674602862cba30937c.png" ,MTV HD Plus
+https://airsteam.playlivtv.workers.dev/?id=211485
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/7d672af55db5d0fa77985ae88b870098.png" ,PTC Chak De
+https://airsteam.playlivtv.workers.dev/?id=211486
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/52a1aaf250252b53e522d440f37e2acd.png" ,Steelbird Music
+https://airsteam.playlivtv.workers.dev/?id=211487
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/ec0944c70d6febbb515b238cfe976769.png" ,PTC DHOL TV
+https://airsteam.playlivtv.workers.dev/?id=211488
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/568d397eaed5b3c964339546a520b4a9.png" ,PTC Music
+https://airsteam.playlivtv.workers.dev/?id=211489
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/302152f1b74f13c6d8e02731cf76d5d2.png" ,Brit Asia
+https://airsteam.playlivtv.workers.dev/?id=211490
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/9e95608933b0f5c4067cd094d5d5b299.png" ,Sakkat
+https://airsteam.playlivtv.workers.dev/?id=211491
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/c014e91cf0c484610adc513e458105e8.png" ,Bol Hadippa
+https://airsteam.playlivtv.workers.dev/?id=211492
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/90eb00bb04c01c917bfd8a7f06500d7c.png" ,Kadak Hits
+https://airsteam.playlivtv.workers.dev/?id=211493
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/134b17139ed305466f729d99e6f3333e.png" ,Insync
+https://airsteam.playlivtv.workers.dev/?id=211494
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/5b94b626ba0bf6db53eac1fa5aa38a6d.png" ,VH1 HD
+https://airsteam.playlivtv.workers.dev/?id=211495
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/22b4dd8e731bc25019f52d8faf85a7d9.png" ,VH1
+https://airsteam.playlivtv.workers.dev/?id=211496
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/9f4e0eed213c739c575d3d58df062425.png" ,MTV Beats SD
+https://airsteam.playlivtv.workers.dev/?id=211497
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/39a760b76b08b9d5479cccb875fedca6.png" ,SongDew TV
+https://airsteam.playlivtv.workers.dev/?id=211498
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/8e66da99efea7d06df6698d4d877494d.png" ,Wah Punjabi
+https://airsteam.playlivtv.workers.dev/?id=211499
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/b0292e88ee724666467901028a57c6f1.png" ,Balle Balle TV
+https://airsteam.playlivtv.workers.dev/?id=211500
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/f49e229d69bdb2cc147051eec35c1b71.png" ,Haryanvi Hits
+https://airsteam.playlivtv.workers.dev/?id=211501
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/de61cbf848a244a9f7758edab369b1f1.png" ,Haryana Beats
+https://airsteam.playlivtv.workers.dev/?id=211502
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/88314186cdb875fb0f05b1614017f754.png" ,SKY 12
+https://airsteam.playlivtv.workers.dev/?id=211503
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/f397475768e687f619f38b732b903afb.png" ,7X Music
+https://airsteam.playlivtv.workers.dev/?id=211504
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/435fbc4b713a4cf2f5921ff5c281c78a.png" ,Ekamra Musiq
+https://airsteam.playlivtv.workers.dev/?id=211505
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/941ac4b70696c82c342057e1a408509f.png" ,Dil Se
+https://airsteam.playlivtv.workers.dev/?id=211506
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/60722d0b013db2a49638d65ecc7c3f61.png" ,Pop Pataka
+https://airsteam.playlivtv.workers.dev/?id=211507
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/867e42e504b319c3911c63c1153dc01d.png" ,Dhamaal
+https://airsteam.playlivtv.workers.dev/?id=211508
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/10d25deaba7a69d52b108b8c6379c253.png" ,Nazraana
+https://airsteam.playlivtv.workers.dev/?id=211509
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/f3fd012990e07d6a70fdd9043c089330.png" ,Artist Aloud
+https://airsteam.playlivtv.workers.dev/?id=211510
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/093b903f969fb0418f959db4b09b0b09.png" ,RS Bharat
+https://airsteam.playlivtv.workers.dev/?id=211511
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/49014d597b48a0e0dda97aa56fe41c07.png" ,Merchant Records
+https://airsteam.playlivtv.workers.dev/?id=211512
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/480652c47e5d1de3395a079c47d4b9a3.png" ,Saregama Music
+https://airsteam.playlivtv.workers.dev/?id=211513
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/04fbc8415f50c181009608ba7ffe08bc.png" ,Bhojpuri Junction
+https://airsteam.playlivtv.workers.dev/?id=211514
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/b8fe0c1efdbf91644caa6caeac0c9b28.png" ,Jio Specials HD
+https://airsteam.playlivtv.workers.dev/?id=211515
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/b4a9d576e7782450fb7127ae28ce6c88.png" ,Desi Music Station
+https://airsteam.playlivtv.workers.dev/?id=211516
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/1e1304ccab340603a01c7a24ec2cf109.png" ,Punjabi Melodies
+https://airsteam.playlivtv.workers.dev/?id=211517
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/33f0d3fb75799556e314c83435ec4af2.png" ,Saga Music
+https://airsteam.playlivtv.workers.dev/?id=211518
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/36ebacf83a0df2da87dc10efdf5dd838.png" ,Saga Music Haryanvi
+https://airsteam.playlivtv.workers.dev/?id=211519
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/c3ae0431c889c2652816e9b29e3a8628.png" ,Ghaint Punjab
+https://airsteam.playlivtv.workers.dev/?id=211520
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/ed7b991aca9a944417ab7207bf9459e5.png" ,YRF Music
+https://airsteam.playlivtv.workers.dev/?id=211521
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/000e97daac4bdf5fd19604a6789c6ac4.png" ,Sikh Ratnavali
+https://airsteam.playlivtv.workers.dev/?id=211522
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/8120ac13c2e7b93e881316b0d8916be3.png" ,Saregama Hum Bhojpuri
+https://airsteam.playlivtv.workers.dev/?id=211523
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/f769ca5423577be15374d3046f6a0250.png" ,Punjabi Hits
+https://airsteam.playlivtv.workers.dev/?id=211524
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/9f7338399da5580beaa7321c9eef22ec.png" ,Oye Music
+https://airsteam.playlivtv.workers.dev/?id=211525
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/311c3a0a1cf12050400a8ebd49e3bd85.png" ,Coke Studio Bharat
+https://airsteam.playlivtv.workers.dev/?id=211526
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/2e9492c79261d3e6de9921043e3dd618.png" ,Dhoom Music Bangla
+https://airsteam.playlivtv.workers.dev/?id=211527
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/1bb6786d587e93106405c33701c9c989.png" ,Shemaroo Filmy Gaane
+https://airsteam.playlivtv.workers.dev/?id=211528
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Music" tvg-logo="http://astv.life:8080/images/be22285f61b140ba3cf920d28d446244.png" ,City Music
+https://airsteam.playlivtv.workers.dev/?id=211529
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="http://astv.life:8080/images/86cce64d0c9bac3a1e19ecc515bfa58b.png" ,SONY TEN 1 HD*
+https://airsteam.playlivtv.workers.dev/?id=137893
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="http://astv.life:8080/images/980d8b43312fd38147f4a42c97d8bbbf.png" ,SONY TEN 2 HD
+https://airsteam.playlivtv.workers.dev/?id=137894
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="http://astv.life:8080/images/0501c436e6593cc0984dc477cbe37506.png" ,SONY TEN 3 HD
+https://airsteam.playlivtv.workers.dev/?id=137895
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCm-UJuxsEUC7RdCogGMOAMhZjkQYeGWlc0yMcdgk8seNZ_OLziqsS-IA&s=10" ,STAR SPORT 1 HD HINDI  P L A Y L i V T V
+https://airsteam.playlivtv.workers.dev/?id=137896
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="http://astv.life:8080/images/057e5c69e74986c2d1672b2e5ef2e269.png" ,STAR SPORTS 1 HD
+https://airsteam.playlivtv.workers.dev/?id=137897
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162835" ,STAR SPORTS 2 HD
+https://airsteam.playlivtv.workers.dev/?id=137898
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyilAYhKK1OS2fKQBvByglqq9mdj5iQpaDHln6pREOUkzoH3xtH9_H5c&s=10" ,SONY TEN 5 HD*
+https://airsteam.playlivtv.workers.dev/?id=137899
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" ,STAR SPORTS SELECT 1
+https://airsteam.playlivtv.workers.dev/?id=137900
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest/scale-to-width-down/220?cb=20230128175317" ,STAR SPORTS SELECT 2*
+https://airsteam.playlivtv.workers.dev/?id=137901
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjo17RKb0mKUtECPffKnkE7VjbXfn2rKLhGHkBu3jjd73AeRsWhlYfodI&s=10" ,WILLOW CRICKET
+https://airsteam.playlivtv.workers.dev/?id=208256
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUkSUeemo3xoHMAC1MFVerfIKcmEhLQJz6Q&usqp=CAU" ,SPORTS 18 1
+https://airsteam.playlivtv.workers.dev/?id=154138
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240831235843" ,ASTRO CRICKET
+https://airsteam.playlivtv.workers.dev/?id=208257
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIFwFERjdNojE7Jwjhq_ld_ZaP0eiNPSwvoLFFzGtd1VPo-ENieaP0LU&s=10" ,SUPER SPORT'S CRICKET
+https://airsteam.playlivtv.workers.dev/?id=208258
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpgICHqahvCjFYej_s-RnG1zl5VCb92EbDn6s6zu9TP06R7RCAwEYTPII&s=10" ,PTV SPORTS 
+https://airsteam.playlivtv.workers.dev/?id=208259
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy3j7d5rxpclSLEWo5VM3cniYL-8kO75Kcv0DDi7rekK3OXTlDW49dOdoA&s=10" ,SKY SPORTS CRICKET  P L A Y L i V T V
+https://airsteam.playlivtv.workers.dev/?id=208260
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="http://astv.life:8080/images/136956f6e47720eecd4804a3997e484a.png" ,DD SPORTS
+https://airsteam.playlivtv.workers.dev/?id=209076
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="http://astv.life:8080/images/fa81f6c564348eb2b561822e21e56ab5.png" ,EUROSPORTS HD*
+https://airsteam.playlivtv.workers.dev/?id=209077
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUkSUeemo3xoHMAC1MFVerfIKcmEhLQJz6Q&usqp=CAU" ,SPORTS 18 KHEL
+https://airsteam.playlivtv.workers.dev/?id=219421
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiUkSUeemo3xoHMAC1MFVerfIKcmEhLQJz6Q&usqp=CAU" ,SPORTS 18 2
+https://airsteam.playlivtv.workers.dev/?id=219422
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/4828900222a768d188bd6d0cd2b906d7.png" ,NDTV India
+https://airsteam.playlivtv.workers.dev/?id=211164
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/91e7c589832aca54ba07d35b3cc42633.png" ,NDTV 24x7
+https://airsteam.playlivtv.workers.dev/?id=211163
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,NDTV PROFIT
+https://airsteam.playlivtv.workers.dev/?id=212517
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/5e3e42ff2c19b845e14af0ad80da3029.png" ,ABP NEWS
+https://airsteam.playlivtv.workers.dev/?id=211158
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,AL JAZEERA
+https://airsteam.playlivtv.workers.dev/?id=219535
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,DW
+https://airsteam.playlivtv.workers.dev/?id=219536
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/80b9d059d510d6f2b80ed9c63251c377.png" ,India Today
+https://airsteam.playlivtv.workers.dev/?id=211171
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/0d8af660fca3d8244d0c8b7d5842f8d8.png" ,India news
+https://airsteam.playlivtv.workers.dev/?id=211175
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/3dbba11f07e25e8540bae71e9d92b1de.png" ,News Nation
+https://airsteam.playlivtv.workers.dev/?id=211176
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/bdad50668a4799b6e107634a76a3711d.png" ,NEWS 24
+https://airsteam.playlivtv.workers.dev/?id=211177
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/e40e0926450c949e2b07223e8f86e3c6.png" ,Good News Today
+https://airsteam.playlivtv.workers.dev/?id=211178
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/ccbeb1b27d0ef1825a403aebefe95b3e.png" ,ZEE NEWS
+https://airsteam.playlivtv.workers.dev/?id=211180
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/4b34b4ae67eef0b5ad70c74a6068e835.png" ,ZEE BHARAT
+https://airsteam.playlivtv.workers.dev/?id=211208
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/196db258293f0c184a3a01047390e395.png" ,Republic TV
+https://airsteam.playlivtv.workers.dev/?id=211250
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,REPUBLIC BHARAT
+https://airsteam.playlivtv.workers.dev/?id=212426
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="https://i.imgur.com/2LbR2a0.png" ,IBC24
+https://airsteam.playlivtv.workers.dev/?id=154139
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/f7ebf49c5d1a0aa5982e6b584e435dfb.png" ,Aaj Tak
+https://airsteam.playlivtv.workers.dev/?id=211157
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/9c6036ba879707f1f6ab0af1ebf6db29.png" ,CNN
+https://airsteam.playlivtv.workers.dev/?id=211159
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/6f7a92291ba5ea2007b05283317dd458.png" ,DD News
+https://airsteam.playlivtv.workers.dev/?id=211160
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/530dbd26fc91ae9aa106e60ea83b29ee.png" ,News 18 India
+https://airsteam.playlivtv.workers.dev/?id=211161
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/64379616988b71d1159b4d2139fe7523.png" ,INDIA TV
+https://airsteam.playlivtv.workers.dev/?id=211162
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/861110aa14a7143c365a4daddf21f5a5.png" ,TIMES NOW
+https://airsteam.playlivtv.workers.dev/?id=211165
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/88ec8413381754343ff0968899f7ebb9.png" ,Mirror Now
+https://airsteam.playlivtv.workers.dev/?id=211169
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/8d18c1b6dd471c00745ebd2c115c755d.png" ,CNN NEWS 18
+https://airsteam.playlivtv.workers.dev/?id=211170
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/a27d7f8ea2a41d22bced77574a1cac7d.png" ,IBC24
+https://airsteam.playlivtv.workers.dev/?id=211179
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,ZEE BUSINESS
+https://airsteam.playlivtv.workers.dev/?id=211181
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,CNBC TV18
+https://airsteam.playlivtv.workers.dev/?id=211182
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,CNBC AWAAZ
+https://airsteam.playlivtv.workers.dev/?id=211183
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,CNBC BAZAAR
+https://airsteam.playlivtv.workers.dev/?id=211184
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/0184e361faa95dceee2a4c327cb4360e.png" ,India News UP
+https://airsteam.playlivtv.workers.dev/?id=211187
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/649cf3403925d30b6c9349e336bfbc2c.png" ,India News Rajasthan
+https://airsteam.playlivtv.workers.dev/?id=211188
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/8bae06a77478bc73d80df148d72613f3.png" ,India News MP
+https://airsteam.playlivtv.workers.dev/?id=211189
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/0e717f403de3c4d8f6773cef724f8a1b.png" ,India News Haryana
+https://airsteam.playlivtv.workers.dev/?id=211190
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/94fd5b05bd3951dcfab7b9fc953e7c29.png" ,SADHNA NEWS PLUS
+https://airsteam.playlivtv.workers.dev/?id=211192
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/abb66098beb97ece3f46aae3d08486cc.png" ,SANSAD TV HD
+https://airsteam.playlivtv.workers.dev/?id=211193
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/aeac72a6728c8d87c32bd6a910165fcc.png" ,News18 MP
+https://airsteam.playlivtv.workers.dev/?id=211195
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/5010282311675ca76006bd3c4c9f8d2c.png" ,News18 UP
+https://airsteam.playlivtv.workers.dev/?id=211196
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/9983f2106f5d42a89b9d9148fd35b186.png" ,News18 RAJASTHAN
+https://airsteam.playlivtv.workers.dev/?id=211197
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/1810e9a312e8674f89cb64c0f29f2243.png" ,Zee UP UK
+https://airsteam.playlivtv.workers.dev/?id=211198
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/3fc01617cb792351ff24e970f7d4add2.png" ,Zee News MP Chattisgarh
+https://airsteam.playlivtv.workers.dev/?id=211213
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/27a2e2359230a6f5e77609f7bc86ad38.png" ,Zee Rajasthan
+https://airsteam.playlivtv.workers.dev/?id=211214
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/3c3521c6b84dbe6a11fa72cf45270f08.png" ,Zee Delhi NCR Haryana
+https://airsteam.playlivtv.workers.dev/?id=211222
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/a2c687d130f426b066632561c34082f6.png" ,Zee Salaam
+https://airsteam.playlivtv.workers.dev/?id=211223
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/9456ffe2b3dd70a53a96ddb258ec9ecc.png" ,Jan TV
+https://airsteam.playlivtv.workers.dev/?id=211225
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/09877d6f468644c1c948717d50559629.png" ,India Voice
+https://airsteam.playlivtv.workers.dev/?id=211234
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/f555b4f5fd48099a34bd4ae1502243eb.png" ,JK 24x7 News
+https://airsteam.playlivtv.workers.dev/?id=211235
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/fbb365023ddcd60c4cf8c7bbcf6ae805.png" ,News State UK UP
+https://airsteam.playlivtv.workers.dev/?id=211237
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,WION
+https://airsteam.playlivtv.workers.dev/?id=211238
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/53e19f2add8a081ace36b0b3cfb014a3.png" ,Hindi Khabar
+https://airsteam.playlivtv.workers.dev/?id=211242
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/ebba5eb1cbd0f8bc031197e64be6250d.png" ,News India 24x7
+https://airsteam.playlivtv.workers.dev/?id=211247
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/f8483f220e4cf7dbe232c8bc5c773250.png" ,Times Now World
+https://airsteam.playlivtv.workers.dev/?id=211251
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/4b469ea63ab15c47b93c3a53979a82b4.png" ,Janta TV
+https://airsteam.playlivtv.workers.dev/?id=211252
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/086080e185a8a924d73a1304784ce926.png" ,Khabar Fast
+https://airsteam.playlivtv.workers.dev/?id=211256
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/0fdfb9e0ea0795f57c7ae30983ae8d55.png" ,BHARAT SAMACHAR
+https://airsteam.playlivtv.workers.dev/?id=211258
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/b98877230b279469f45c91257d0ea1fa.png" ,A1 TV Rajasthan
+https://airsteam.playlivtv.workers.dev/?id=211261
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/af80ed2ee50c2e506ea067b327ad2ab5.png" ,First India News
+https://airsteam.playlivtv.workers.dev/?id=211262
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/09d5818143437c1cc992bc7258a758ea.png" ,News 1 India
+https://airsteam.playlivtv.workers.dev/?id=211265
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/2bc9353432ad4bb5de3c24f9124eb709.png" ,INH 24x7
+https://airsteam.playlivtv.workers.dev/?id=211270
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/53de1a3aac0090e87db3dfc04afe523b.png" ,Bansal News
+https://airsteam.playlivtv.workers.dev/?id=211279
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/1a907ff30ca01f223bb9b8164ef8b069.png" ,Swadesh News
+https://airsteam.playlivtv.workers.dev/?id=211280
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/b29c552b92deee2805c5b75479bbff2e.png" ,TV9 BHARATVARSH
+https://airsteam.playlivtv.workers.dev/?id=211283
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/dabad71d1c91bed22835173290352e39.png" ,Surya Samachar
+https://airsteam.playlivtv.workers.dev/?id=211284
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/f54765adea78737d74f98c783f7716dd.png" ,REPUBLIC BHARAT
+https://airsteam.playlivtv.workers.dev/?id=211291
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/f2325e07443b98d837c7b1b5a62b7a8c.png" ,Samachar Today
+https://airsteam.playlivtv.workers.dev/?id=211300
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/b2bd72fac46db3bf54984d196b7f516a.png" ,MP News
+https://airsteam.playlivtv.workers.dev/?id=211306
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/2f9a26562fec9f3cec2491f6384d015e.png" ,News State MPCG
+https://airsteam.playlivtv.workers.dev/?id=211309
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/009e4f32dd76e63f96686c2f7b214998.png" ,Buletin India
+https://airsteam.playlivtv.workers.dev/?id=211324
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/c9b227353a8409346b315b4c008b326c.png" ,Bharat News TV
+https://airsteam.playlivtv.workers.dev/?id=211327
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/e5a21c9686c44408ac064c6edc683140.png" ,News World India
+https://airsteam.playlivtv.workers.dev/?id=211332
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/d25fbb358e10aceddabec7f29d6a9173.png" ,NEWS 24 MPCG
+https://airsteam.playlivtv.workers.dev/?id=211334
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/6dd92b64183187cdd2a992ceaaa46002.png" ,TIMES NOW NAVBHARAT
+https://airsteam.playlivtv.workers.dev/?id=211346
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,BHARAT 24
+https://airsteam.playlivtv.workers.dev/?id=211367
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/c9c7cbf4906f7584340f0ffa2b21b924.png" ,BHARAT EXPRESS
+https://airsteam.playlivtv.workers.dev/?id=211380
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" tvg-logo="http://astv.life:8080/images/0c232d36f6ca8ae870bfafa1b8d90229.png" ,Sadhna News MP CG
+https://airsteam.playlivtv.workers.dev/?id=211394
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,NDTV MPCG
+https://airsteam.playlivtv.workers.dev/?id=212427
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,NDTV RAJSTHAN
+https://airsteam.playlivtv.workers.dev/?id=212518
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="News" ,ET NOW NEWS
+https://airsteam.playlivtv.workers.dev/?id=219415
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83JvH6ha8lk_Pk_4GPe2XFac9fiI98uCztA&s" ,COLORS INFINITY HD*
+https://airsteam.playlivtv.workers.dev/?id=138851
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXkstekqpxrm15yp4clj79DjdqyhqcNQNnRw&usqp=CAU" ,STAR MOVIES HD
+https://airsteam.playlivtv.workers.dev/?id=138852
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIe75UgeyGHWA4Wnv84WSzcVpadc9pfsa0g&usqp=CAU" ,SONY PIX HD (MULTI)
+https://airsteam.playlivtv.workers.dev/?id=138853
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExIjnuF8JBWq7wx138teUdbdhoUA8SfgS0g&usqp=CAU" ,&PRIVE HD
+https://airsteam.playlivtv.workers.dev/?id=138854
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR52szkdqLntB1QIJQM7rSwdzI7n5JqClOYXQ&s" ,HBO HD
+https://airsteam.playlivtv.workers.dev/?id=138855
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWPdpYWX338dYNOXJTHx8TX4gxQuNcH5vlQ&usqp=CAU" ,& FLIX HD (MULTI)
+https://airsteam.playlivtv.workers.dev/?id=138856
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uPcWLGskO4qTVH9S09FdCVGt0IOZAEe_optao67CF9w4GmztLvHDbAo&s=10" ,ROMDY Now HD
+https://airsteam.playlivtv.workers.dev/?id=138857
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EUR617BXrx2G811MKmiWHgXACMeF7asg5K2_l1IEWhmLkh8Us4ozSNaj&s=10" ,MNX HD
+https://airsteam.playlivtv.workers.dev/?id=138858
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6W7Z_8s4J9xAi4BLmhVm9gsRkCobMxkzJ1g&usqp=CAU" ,MOVIES NOW HD*
+https://airsteam.playlivtv.workers.dev/?id=138859
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuZjxLgvMvySCF2rW7q1Bs1hrMvGHZT7EsQkssAMfl1bEyrEwqPdPIFw&s=10" ,ZEE CAFE HD
+https://airsteam.playlivtv.workers.dev/?id=138860
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4gaVX_ZanjM7LFO4JdGiXhsfKmnwa4njuw&usqp=CAU" ,AXN HD
+https://airsteam.playlivtv.workers.dev/?id=138861
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSazKUMymx7EGBvOJ7DKL6a1szrJ-kJtWG6Cg&s" ,STAR MOVIES SELECT HD
+https://airsteam.playlivtv.workers.dev/?id=138862
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5R5ov3NaB4mFtdPbf_4TZnEY9x0kgmzA&usqp=CAU" ,MN PLUS
+https://airsteam.playlivtv.workers.dev/?id=138864
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="English" ,COMEDY CENTRAL*
+https://airsteam.playlivtv.workers.dev/?id=212431
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/4d58626303fd25e85be07daa212c3507.png" ,BHOJPURI CINEMA
+https://airsteam.playlivtv.workers.dev/?id=208532
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/7b0b7f98e0afa15341b7a8fceb4a9e17.jpg" ,ZEE BIHAR JHARKHAND
+https://airsteam.playlivtv.workers.dev/?id=208533
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/6200d3e8893b73372b28c5e5e100f0ea.png" ,NEWS18 BIHAR
+https://airsteam.playlivtv.workers.dev/?id=208534
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/4504c32a2bdcb866efca3fd3fbf52bde.png" ,Sangeet Bhojpuri
+https://airsteam.playlivtv.workers.dev/?id=208535
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/6d0d3b67a436e6c75b785610bb6b42ab.png" ,Oscar Movies
+https://airsteam.playlivtv.workers.dev/?id=208536
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/d119fa667b8ef7c57b4ced335e388dce.png" ,B4U Bhojpuri
+https://airsteam.playlivtv.workers.dev/?id=208537
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/5fe007722055555802240b5059aebaa8.png" ,Pasand
+https://airsteam.playlivtv.workers.dev/?id=208538
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/1eb2dbf5b204297db421e20605d5cc42.png" ,MH1 Dil Se
+https://airsteam.playlivtv.workers.dev/?id=208539
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/867e42e504b319c3911c63c1153dc01d.png" ,Dhamaal
+https://airsteam.playlivtv.workers.dev/?id=208540
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/04fbc8415f50c181009608ba7ffe08bc.png" ,Bhojpuri Junction
+https://airsteam.playlivtv.workers.dev/?id=208541
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/8120ac13c2e7b93e881316b0d8916be3.png" ,Saregama Hum Bhojpuri
+https://airsteam.playlivtv.workers.dev/?id=208542
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/d474f44253496d33afb18e8301b6e176.png" ,Raapchik
+https://airsteam.playlivtv.workers.dev/?id=208543
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bhojpuri" tvg-logo="http://astv.life:8080/images/be22285f61b140ba3cf920d28d446244.png" ,City Music
+https://airsteam.playlivtv.workers.dev/?id=208544
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/177b0a8c782f49c9fa4e2d15803fcf27.png" ,ABP Sanjha HD
+https://airsteam.playlivtv.workers.dev/?id=211672
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/badeb5f1fe83f03762e95a0989f03a6b.png" ,Akaal HD
+https://airsteam.playlivtv.workers.dev/?id=211673
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/463084149753aeb75e18e1bbb80c307f.png" ,Balle Balle HD
+https://airsteam.playlivtv.workers.dev/?id=211674
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/49d87a5090f4758a2ad9f43532a36e21.png" ,Chakde TV HD
+https://airsteam.playlivtv.workers.dev/?id=211675
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/50b331c657f2d39ff650e2b7407b838d.png" ,Chardikla TIME TV HD
+https://airsteam.playlivtv.workers.dev/?id=211676
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/4127e44d94ecfff2743f371387e3ec78.png" ,DD Punjabi HD
+https://airsteam.playlivtv.workers.dev/?id=211677
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/50b72e6a5d49e14facc9725d19275d89.png" ,ETC Punjabi HD
+https://airsteam.playlivtv.workers.dev/?id=211678
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/a4a1c7203a2ed0b5088007e0e2a3dc68.png" ,Hindi 5AAB TV HD
+https://airsteam.playlivtv.workers.dev/?id=211679
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/1a83246114010670ba23eea7d653e5bb.png" ,Hindi DESI TV HD
+https://airsteam.playlivtv.workers.dev/?id=211680
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/8c5c3c25ff155949f29dfd851fc5083f.png" ,Living India NEWS HD
+https://airsteam.playlivtv.workers.dev/?id=211681
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/f252fdd5385108a34d2fb54881a71972.png" ,MAHA Punjabi HD
+https://airsteam.playlivtv.workers.dev/?id=211682
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/dd84071cc0b329ef246c70e4aab03a2b.png" ,Manoranjan Movies HD
+https://airsteam.playlivtv.workers.dev/?id=211683
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/e560635d7ccf47a7cdb7d224d1b9cbd1.png" ,Manoranjan TV HD
+https://airsteam.playlivtv.workers.dev/?id=211684
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/6ebbffb85289f34fd5b73ca4c076846c.png" ,MH ONE HD
+https://airsteam.playlivtv.workers.dev/?id=211685
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/ab2c7bae3abc0858e17472aa096df3a6.png" ,MH ONE Shraddha HD
+https://airsteam.playlivtv.workers.dev/?id=211686
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/4396fc559b6341bc840bdbfbcbfc31c6.png" ,News18 Punjab HD
+https://airsteam.playlivtv.workers.dev/?id=211687
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/fefa8d0ae200a627244730722337906f.png" ,PB: BRIT ASIA HD
+https://airsteam.playlivtv.workers.dev/?id=211688
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/7eea4c31d67ae3f71cffec6ca1d48da8.png" ,Pitaara HD
+https://airsteam.playlivtv.workers.dev/?id=211689
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/8e9c0ba868c9000ed4312721b72a4e59.png" ,PTC CHAK DE HD
+https://airsteam.playlivtv.workers.dev/?id=211690
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/5c8db159c62dca2deb1d2fab91528506.png" ,PTC Music HD
+https://airsteam.playlivtv.workers.dev/?id=211691
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/e6d0fafb2ace55ba67300713a118ed70.png" ,PTC NEWS HD
+https://airsteam.playlivtv.workers.dev/?id=211692
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/49938520c85c1b32352b3ad7cddccbdf.png" ,PTC Punjabi GOLD SD
+https://airsteam.playlivtv.workers.dev/?id=211693
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/733d08c69b7d2f7aba7d884414a2b5b0.png" ,PTC Punjabi SD
+https://airsteam.playlivtv.workers.dev/?id=211694
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/e5900726256dffc6cba2c1e559f9b7e3.png" ,PTC Simran HD
+https://airsteam.playlivtv.workers.dev/?id=211695
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/23a6a79f931d0c01875959a76500cb3c.png" ,PTC VR HD
+https://airsteam.playlivtv.workers.dev/?id=211696
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/70cb240c705195f23c811fd7fa2b1fa2.png" ,SIKH Channel HD
+https://airsteam.playlivtv.workers.dev/?id=211697
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/4479ef48f7967b0e321f94f0501c14e4.png" ,WAH Punjabi HD
+https://airsteam.playlivtv.workers.dev/?id=211698
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/4590f5412e80214e1b2fe925ab479a33.png" ,World Punjab HD
+https://airsteam.playlivtv.workers.dev/?id=211699
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/a5b44c2d3fb1744a227c8a5fd4a36bef.png" ,ZEE Punjabi HP Haryana HD
+https://airsteam.playlivtv.workers.dev/?id=211700
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/2ef56b7b6584da11dd00701f4496271f.png" ,HulChul TV
+https://airsteam.playlivtv.workers.dev/?id=211701
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" tvg-logo="http://astv.life:8080/images/6f2169751ae181bc92dfeb223344a696.png" ,Fastway
+https://airsteam.playlivtv.workers.dev/?id=211702
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,ZEE PUNJABI*
+https://airsteam.playlivtv.workers.dev/?id=212491
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,DESI TV*
+https://airsteam.playlivtv.workers.dev/?id=212492
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,GURKIBANI TV*
+https://airsteam.playlivtv.workers.dev/?id=212493
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,GURBANI HEALING*
+https://airsteam.playlivtv.workers.dev/?id=212494
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,FATEH TV*
+https://airsteam.playlivtv.workers.dev/?id=212495
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,BOOGLE BOLLYWOOD*
+https://airsteam.playlivtv.workers.dev/?id=212497
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,JUS ONE*
+https://airsteam.playlivtv.workers.dev/?id=212498
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,SANGAT TV*
+https://airsteam.playlivtv.workers.dev/?id=212499
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,BOL HADIPA*
+https://airsteam.playlivtv.workers.dev/?id=212503
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Punjabi" ,CHARDIKLA TIME TV*
+https://airsteam.playlivtv.workers.dev/?id=212512
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" tvg-logo="http://astv.life:8080/images/301ee97129d19d422307caaf96c5d646.PNG" ,STAR MAA MOVIES HD
+https://airsteam.playlivtv.workers.dev/?id=154475
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" tvg-logo="http://astv.life:8080/images/78c47e9e64eab8197b52d0ddb8c0804b.PNG" ,STAR MAA HD
+https://airsteam.playlivtv.workers.dev/?id=154477
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" tvg-logo="http://astv.life:8080/images/e1dbb804a01695f9d41066266c61f986.JPG" ,STAR MAA GOLD
+https://airsteam.playlivtv.workers.dev/?id=154478
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,STAR MAA MUSIC*
+https://airsteam.playlivtv.workers.dev/?id=207961
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,KUSHI TV*
+https://airsteam.playlivtv.workers.dev/?id=207964
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ETV ABHIRUCHI*
+https://airsteam.playlivtv.workers.dev/?id=207965
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ETV LIFE*
+https://airsteam.playlivtv.workers.dev/?id=207966
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,TV9 TELUGU*
+https://airsteam.playlivtv.workers.dev/?id=207967
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ETV ANDHRA PRADESH*
+https://airsteam.playlivtv.workers.dev/?id=207968
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ETV TELANGANA*
+https://airsteam.playlivtv.workers.dev/?id=207969
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,SAKSHI TV*
+https://airsteam.playlivtv.workers.dev/?id=207970
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,NTV*
+https://airsteam.playlivtv.workers.dev/?id=207971
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,RAJ NEWS TELUGU*
+https://airsteam.playlivtv.workers.dev/?id=207972
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,HM TV
+https://airsteam.playlivtv.workers.dev/?id=207973
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ABN ANDRA*
+https://airsteam.playlivtv.workers.dev/?id=207974
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,T NEWS*
+https://airsteam.playlivtv.workers.dev/?id=207975
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,TV5 NEWS*
+https://airsteam.playlivtv.workers.dev/?id=207976
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,V6 NEWS*
+https://airsteam.playlivtv.workers.dev/?id=207977
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,GEMINI LIFE*
+https://airsteam.playlivtv.workers.dev/?id=207978
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,DD SAPTAGIRI
+https://airsteam.playlivtv.workers.dev/?id=207980
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,GEMINI COMEDY*
+https://airsteam.playlivtv.workers.dev/?id=207981
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,VISSA TV*
+https://airsteam.playlivtv.workers.dev/?id=207982
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,RAJ MUSIX TELUGU*
+https://airsteam.playlivtv.workers.dev/?id=207983
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,CVR NEWS
+https://airsteam.playlivtv.workers.dev/?id=207985
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,I NEWS
+https://airsteam.playlivtv.workers.dev/?id=207986
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,10TV
+https://airsteam.playlivtv.workers.dev/?id=207987
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,GEMINI TV HD*
+https://airsteam.playlivtv.workers.dev/?id=207989
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,GEMINI MUSIC HD*
+https://airsteam.playlivtv.workers.dev/?id=207990
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,GEMINI MOVIES HD*
+https://airsteam.playlivtv.workers.dev/?id=207991
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,SONIC TELUGU*
+https://airsteam.playlivtv.workers.dev/?id=207993
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,STUDIO ONE
+https://airsteam.playlivtv.workers.dev/?id=207994
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,BHAKTI TV*
+https://airsteam.playlivtv.workers.dev/?id=207995
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,SRI VENKATESWAR BHAKTI*
+https://airsteam.playlivtv.workers.dev/?id=207997
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ETV CINEMA HD*
+https://airsteam.playlivtv.workers.dev/?id=207998
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,STUDIO YUVA ALPHA
+https://airsteam.playlivtv.workers.dev/?id=208001
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,POGO TELUGU*
+https://airsteam.playlivtv.workers.dev/?id=208002
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ETV HD*
+https://airsteam.playlivtv.workers.dev/?id=208003
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,PRIME 9 NEWS
+https://airsteam.playlivtv.workers.dev/?id=208005
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,SAREGAMA NEWS
+https://airsteam.playlivtv.workers.dev/?id=208006
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,BIG TV
+https://airsteam.playlivtv.workers.dev/?id=208007
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,MAHAA NEWS
+https://airsteam.playlivtv.workers.dev/?id=208008
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ETV PLUS HD*
+https://airsteam.playlivtv.workers.dev/?id=208010
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,NEWS 360
+https://airsteam.playlivtv.workers.dev/?id=208012
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ZEE TELUGU NEWS*
+https://airsteam.playlivtv.workers.dev/?id=208013
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ZEE TELUGU HD
+https://airsteam.playlivtv.workers.dev/?id=211608
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Telugu" ,ZEE CINEMALU HD
+https://airsteam.playlivtv.workers.dev/?id=211664
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,VV-Music
+https://airsteam.playlivtv.workers.dev/?id=208066
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,VV-Movies
+https://airsteam.playlivtv.workers.dev/?id=208067
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,VV-🤣 Comedy
+https://airsteam.playlivtv.workers.dev/?id=208068
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,RK9_News
+https://airsteam.playlivtv.workers.dev/?id=208069
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,JVR_News
+https://airsteam.playlivtv.workers.dev/?id=208070
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,YSR_TV
+https://airsteam.playlivtv.workers.dev/?id=208071
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Public_tv
+https://airsteam.playlivtv.workers.dev/?id=208072
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Public_Tv_Folkmusic
+https://airsteam.playlivtv.workers.dev/?id=208073
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Sree_Tv
+https://airsteam.playlivtv.workers.dev/?id=208074
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Vinodam_Tv
+https://airsteam.playlivtv.workers.dev/?id=208075
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Tv8_News
+https://airsteam.playlivtv.workers.dev/?id=208076
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,PVP_HD
+https://airsteam.playlivtv.workers.dev/?id=208077
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,PVP_Movies
+https://airsteam.playlivtv.workers.dev/?id=208078
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Raja_Tv
+https://airsteam.playlivtv.workers.dev/?id=208079
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Siri_Channel
+https://airsteam.playlivtv.workers.dev/?id=208080
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Akshara_News
+https://airsteam.playlivtv.workers.dev/?id=208081
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Sravya_Tv
+https://airsteam.playlivtv.workers.dev/?id=208082
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,KS_Tv
+https://airsteam.playlivtv.workers.dev/?id=208083
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,DBR_News
+https://airsteam.playlivtv.workers.dev/?id=208084
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,AP_Local_Tv
+https://airsteam.playlivtv.workers.dev/?id=208085
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Kalyan_Siticable
+https://airsteam.playlivtv.workers.dev/?id=208086
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,MY3_Telugu
+https://airsteam.playlivtv.workers.dev/?id=208087
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,News_Watch
+https://airsteam.playlivtv.workers.dev/?id=208088
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,BCN
+https://airsteam.playlivtv.workers.dev/?id=208089
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Siti_Cable_Tandur
+https://airsteam.playlivtv.workers.dev/?id=208090
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,YJ_Tv
+https://airsteam.playlivtv.workers.dev/?id=208091
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,RK_Tv
+https://airsteam.playlivtv.workers.dev/?id=208092
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SB_Tv
+https://airsteam.playlivtv.workers.dev/?id=208093
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Orugallu9_News
+https://airsteam.playlivtv.workers.dev/?id=208094
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,K_Times
+https://airsteam.playlivtv.workers.dev/?id=208095
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,PPP
+https://airsteam.playlivtv.workers.dev/?id=208096
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Namitha_Tv
+https://airsteam.playlivtv.workers.dev/?id=208097
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Godavari_HD
+https://airsteam.playlivtv.workers.dev/?id=208098
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Siti_Channel
+https://airsteam.playlivtv.workers.dev/?id=208099
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,JKC
+https://airsteam.playlivtv.workers.dev/?id=208100
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Pcn_HD
+https://airsteam.playlivtv.workers.dev/?id=208101
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,H_PallePatalu
+https://airsteam.playlivtv.workers.dev/?id=208102
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,H_Siti_Telugu
+https://airsteam.playlivtv.workers.dev/?id=208103
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,H_Sity_Movies
+https://airsteam.playlivtv.workers.dev/?id=208104
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,GNT_News
+https://airsteam.playlivtv.workers.dev/?id=208105
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,KCF_Channel
+https://airsteam.playlivtv.workers.dev/?id=208106
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Cowa_Tv
+https://airsteam.playlivtv.workers.dev/?id=208107
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Tirumala_Channel
+https://airsteam.playlivtv.workers.dev/?id=208108
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Bathukamma_Tv
+https://airsteam.playlivtv.workers.dev/?id=208109
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SS_Tv
+https://airsteam.playlivtv.workers.dev/?id=208110
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Gee_Tv
+https://airsteam.playlivtv.workers.dev/?id=208111
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,MG_TV
+https://airsteam.playlivtv.workers.dev/?id=208112
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SLN_NEWS
+https://airsteam.playlivtv.workers.dev/?id=208113
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,RESHYA_TV
+https://airsteam.playlivtv.workers.dev/?id=208114
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,GS_GRAMEENA
+https://airsteam.playlivtv.workers.dev/?id=208115
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,NEWS_9
+https://airsteam.playlivtv.workers.dev/?id=208116
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,MANA_TV_NEWS
+https://airsteam.playlivtv.workers.dev/?id=208117
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,S9_TV
+https://airsteam.playlivtv.workers.dev/?id=208118
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,PRAJA_Tv
+https://airsteam.playlivtv.workers.dev/?id=208119
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SHREYAS_TV
+https://airsteam.playlivtv.workers.dev/?id=208120
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,MRG_NEWS
+https://airsteam.playlivtv.workers.dev/?id=208121
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,VIHARI_TV
+https://airsteam.playlivtv.workers.dev/?id=208122
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,ccchd
+https://airsteam.playlivtv.workers.dev/?id=208123
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,WPN_Digital
+https://airsteam.playlivtv.workers.dev/?id=208124
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Access_Tv
+https://airsteam.playlivtv.workers.dev/?id=208125
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,M_Tv_Channel
+https://airsteam.playlivtv.workers.dev/?id=208126
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,V_Power_News
+https://airsteam.playlivtv.workers.dev/?id=208127
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,7_Hills
+https://airsteam.playlivtv.workers.dev/?id=208128
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,An_Tv
+https://airsteam.playlivtv.workers.dev/?id=208129
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Srk_City
+https://airsteam.playlivtv.workers.dev/?id=208130
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,No1_Tv
+https://airsteam.playlivtv.workers.dev/?id=208131
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Telangana_Tv
+https://airsteam.playlivtv.workers.dev/?id=208132
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Mee_Tv
+https://airsteam.playlivtv.workers.dev/?id=208133
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Srisailam_Tv
+https://airsteam.playlivtv.workers.dev/?id=208134
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Bhakthi_Tv
+https://airsteam.playlivtv.workers.dev/?id=208135
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,TTD
+https://airsteam.playlivtv.workers.dev/?id=208136
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Sattva_Tv
+https://airsteam.playlivtv.workers.dev/?id=208137
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Hindu_Dharmam
+https://airsteam.playlivtv.workers.dev/?id=208138
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Tv5
+https://airsteam.playlivtv.workers.dev/?id=208139
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Ntv
+https://airsteam.playlivtv.workers.dev/?id=208140
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Sakshi_Tv
+https://airsteam.playlivtv.workers.dev/?id=208141
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Tv9
+https://airsteam.playlivtv.workers.dev/?id=208142
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,ABN
+https://airsteam.playlivtv.workers.dev/?id=208143
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,V6_News
+https://airsteam.playlivtv.workers.dev/?id=208144
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,6_Tv
+https://airsteam.playlivtv.workers.dev/?id=208145
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,I_News
+https://airsteam.playlivtv.workers.dev/?id=208146
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,T_News
+https://airsteam.playlivtv.workers.dev/?id=208147
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Maha_News
+https://airsteam.playlivtv.workers.dev/?id=208148
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Prime9_News
+https://airsteam.playlivtv.workers.dev/?id=208149
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,99_Tv
+https://airsteam.playlivtv.workers.dev/?id=208150
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Raj_News
+https://airsteam.playlivtv.workers.dev/?id=208151
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Zee_Telugu_News
+https://airsteam.playlivtv.workers.dev/?id=208152
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,BIG_Tv
+https://airsteam.playlivtv.workers.dev/?id=208153
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,CVR_News
+https://airsteam.playlivtv.workers.dev/?id=208154
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Nandi_Tv
+https://airsteam.playlivtv.workers.dev/?id=208155
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Super_TV
+https://airsteam.playlivtv.workers.dev/?id=208156
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Great_Guntur
+https://airsteam.playlivtv.workers.dev/?id=208157
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Local_Tv
+https://airsteam.playlivtv.workers.dev/?id=208158
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Satya_News_Tv
+https://airsteam.playlivtv.workers.dev/?id=208159
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Zilla_vani_Tv
+https://airsteam.playlivtv.workers.dev/?id=208160
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Studio18
+https://airsteam.playlivtv.workers.dev/?id=208161
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Sity_CCC_Tv
+https://airsteam.playlivtv.workers.dev/?id=208162
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Sri_Chakra_Tv
+https://airsteam.playlivtv.workers.dev/?id=208163
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,New_Tv
+https://airsteam.playlivtv.workers.dev/?id=208164
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Naptol_Telugu
+https://airsteam.playlivtv.workers.dev/?id=208165
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Shree_Yadadri_Tv
+https://airsteam.playlivtv.workers.dev/?id=208166
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Tv72_News
+https://airsteam.playlivtv.workers.dev/?id=208167
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SSS_Channel
+https://airsteam.playlivtv.workers.dev/?id=208168
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Amma_News
+https://airsteam.playlivtv.workers.dev/?id=208169
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Metro_TV
+https://airsteam.playlivtv.workers.dev/?id=208170
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,test1
+https://airsteam.playlivtv.workers.dev/?id=208171
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,test2
+https://airsteam.playlivtv.workers.dev/?id=208172
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,test3
+https://airsteam.playlivtv.workers.dev/?id=208173
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,test4
+https://airsteam.playlivtv.workers.dev/?id=208174
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,test6
+https://airsteam.playlivtv.workers.dev/?id=208175
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,test7
+https://airsteam.playlivtv.workers.dev/?id=208176
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Bcn_Channel
+https://airsteam.playlivtv.workers.dev/?id=208177
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,kvbkps
+https://airsteam.playlivtv.workers.dev/?id=208178
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Sarkar_Tv
+https://airsteam.playlivtv.workers.dev/?id=208179
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,VV_HD
+https://airsteam.playlivtv.workers.dev/?id=208180
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Telugu_cinema_1_hd
+https://airsteam.playlivtv.workers.dev/?id=208181
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Telugu_cinema_3_sd
+https://airsteam.playlivtv.workers.dev/?id=208182
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Telugu_family_cinema_hd
+https://airsteam.playlivtv.workers.dev/?id=208183
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Telugu_action_cinema_hd
+https://airsteam.playlivtv.workers.dev/?id=208184
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,siridigital
+https://airsteam.playlivtv.workers.dev/?id=208185
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyiWJ4i_yWBieXmoiTwhtrpFGjID8uediLvA&s" ,VIJAY TV HD
+https://airsteam.playlivtv.workers.dev/?id=207039
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,J Movies*
+https://airsteam.playlivtv.workers.dev/?id=207897
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,JAYA PLUS*
+https://airsteam.playlivtv.workers.dev/?id=207898
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,JAYA TV HD*
+https://airsteam.playlivtv.workers.dev/?id=207899
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,JAYA MAX*
+https://airsteam.playlivtv.workers.dev/?id=207900
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,CHUTTI TV*
+https://airsteam.playlivtv.workers.dev/?id=207905
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,NEWS18 TAMILNADU*
+https://airsteam.playlivtv.workers.dev/?id=207906
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,POLIMER NEWS*
+https://airsteam.playlivtv.workers.dev/?id=207907
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,SATHIYAM TV*
+https://airsteam.playlivtv.workers.dev/?id=207908
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,NEWS7 TAMIL*
+https://airsteam.playlivtv.workers.dev/?id=207909
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,SUN NEWS*
+https://airsteam.playlivtv.workers.dev/?id=207910
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,PUTHIYA THALAIMURAI*
+https://airsteam.playlivtv.workers.dev/?id=207911
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,SUN LIFE*
+https://airsteam.playlivtv.workers.dev/?id=207912
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,RAJ DIGITAL PLUS*
+https://airsteam.playlivtv.workers.dev/?id=207913
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,POLIMER TV*
+https://airsteam.playlivtv.workers.dev/?id=207914
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,RAJ TV*
+https://airsteam.playlivtv.workers.dev/?id=207915
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,MAKKAL TV*
+https://airsteam.playlivtv.workers.dev/?id=207916
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,ADITYA TV*
+https://airsteam.playlivtv.workers.dev/?id=207917
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,VASANT TV*
+https://airsteam.playlivtv.workers.dev/?id=207919
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,RAJ MUSIX*
+https://airsteam.playlivtv.workers.dev/?id=207920
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,RAJ NEWS TAMIL*
+https://airsteam.playlivtv.workers.dev/?id=207921
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,PEPPERS TV*
+https://airsteam.playlivtv.workers.dev/?id=207922
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,IBC TAMIL HD*
+https://airsteam.playlivtv.workers.dev/?id=207923
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,PUTHU YUGAM*
+https://airsteam.playlivtv.workers.dev/?id=207926
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,MALAIMUSAI*
+https://airsteam.playlivtv.workers.dev/?id=207927
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,THANTHI TV*
+https://airsteam.playlivtv.workers.dev/?id=207928
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,SIRIPPOLI TV*
+https://airsteam.playlivtv.workers.dev/?id=207929
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,MK MUSIC*
+https://airsteam.playlivtv.workers.dev/?id=207930
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,MK TV*
+https://airsteam.playlivtv.workers.dev/?id=207931
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,VENDHAR TV*
+https://airsteam.playlivtv.workers.dev/?id=207932
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,ANGEL TV*
+https://airsteam.playlivtv.workers.dev/?id=207937
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,VIJAY MUSIC*
+https://airsteam.playlivtv.workers.dev/?id=207938
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,KALAIGNAR TV*
+https://airsteam.playlivtv.workers.dev/?id=207940
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,NEWS J*
+https://airsteam.playlivtv.workers.dev/?id=207943
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,SRI SANKARA*
+https://airsteam.playlivtv.workers.dev/?id=207944
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,MOON TV.
+https://airsteam.playlivtv.workers.dev/?id=207945
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,MK SIX*
+https://airsteam.playlivtv.workers.dev/?id=207946
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,CHITHIRAM*
+https://airsteam.playlivtv.workers.dev/?id=207947
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,NEWS TAMIL 24x7*
+https://airsteam.playlivtv.workers.dev/?id=207950
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,MEGA 24*
+https://airsteam.playlivtv.workers.dev/?id=207951
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,MEGA MUSIQ*
+https://airsteam.playlivtv.workers.dev/?id=207952
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,MEGA TV*
+https://airsteam.playlivtv.workers.dev/?id=207953
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,JOTHI TV*
+https://airsteam.playlivtv.workers.dev/?id=207954
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,TAMIL JANAM*
+https://airsteam.playlivtv.workers.dev/?id=207955
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" ,THANTHI ONE*
+https://airsteam.playlivtv.workers.dev/?id=207956
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQc_n29USRjTDM3p7JrayHftHCDqEPVYGlg&s" ,ZEE THIRAI HD
+https://airsteam.playlivtv.workers.dev/?id=207036
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCwefTdOOEiUHaHs3rlf_nZUs3KswKpxpoQ&s" ,KTV HD
+https://airsteam.playlivtv.workers.dev/?id=207037
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" tvg-logo="http://astv.life:8080/images/65cf9f1ebaeaa0db8107f0dcdf985060.jpeg" ,ZEE TAMIL HD
+https://airsteam.playlivtv.workers.dev/?id=207038
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDt0XBQgzHPNz90wsBCFcVVhe48YSVU5eHjZH_V153sAmCYvyCzMA1Tl&s=10" ,SUN TV HD
+https://airsteam.playlivtv.workers.dev/?id=207040
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqA_m4hRW-P6PE_Rp1d3m5PH9MJTfmnY_ePMnF2s_b2seGqNtgr0gqUjv&s=10" ,SUN MUSIC HD
+https://airsteam.playlivtv.workers.dev/?id=207041
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPdfWk6D4z9tge25a6nhyT4FDYjPV-OXsBA&usqp=CAU" ,COLORS TAMIL HD
+https://airsteam.playlivtv.workers.dev/?id=207042
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrLhnGmMXE6S5pSQk2F-zPrf8Nxufqjfck99GqkcXobYnqtMQr84u54Q&s=10" ,VIJAY SUPER HD
+https://airsteam.playlivtv.workers.dev/?id=207043
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://247tamilradios.com/storage/images/tvs/f05b9e02b0d6ee94bb090f809f93d7ec.png" ,Rasi Tamil
+https://airsteam.playlivtv.workers.dev/?id=207265
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://247tamilradios.com/storage/images/tvs/de7e781db9e296abd990d6b1bb7e9673.png" ,Rasi Movies
+https://airsteam.playlivtv.workers.dev/?id=207266
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/d3b095dbbeec8f99089c5d99788a9f60.jpg" ,Rasi Music
+https://airsteam.playlivtv.workers.dev/?id=207267
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" ,Rasi Hollywood
+https://airsteam.playlivtv.workers.dev/?id=207268
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://nammaoorutv.com/dashboard/upicons/Rasi Classic HD-2 (1).png" ,Rasi Classic
+https://airsteam.playlivtv.workers.dev/?id=207269
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/200423f80b098fc97cd910adb6db9d3c.jpg" ,Sri Smart TV
+https://airsteam.playlivtv.workers.dev/?id=207279
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" ,RAM TV
+https://airsteam.playlivtv.workers.dev/?id=207280
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2021/04/MARMUS.webp" ,MN TV
+https://airsteam.playlivtv.workers.dev/?id=207294
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/56dbf9c880ba31d0c3bbf5c968a3ad83.jpg" ,Aarthi TV
+https://airsteam.playlivtv.workers.dev/?id=207296
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" ,SMCV TV
+https://airsteam.playlivtv.workers.dev/?id=207297
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/e09d9edd8a7c7dfd6c5e8a03ae5d340f.jpg" ,VINAYAGA MUSIC TV
+https://airsteam.playlivtv.workers.dev/?id=207306
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/QxadK0MHS7txDkDYQcAgTRpUGmXSiYlkF3R0542GRoy21gSQqzedS8wgeWTOgzGrJA=w480-h960-rw" ,VINAYAGA TV
+https://airsteam.playlivtv.workers.dev/?id=207307
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SLS TV
+https://airsteam.playlivtv.workers.dev/?id=207326
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,ABHINAYA TV
+https://airsteam.playlivtv.workers.dev/?id=207328
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,D24 HINDI MUSIC
+https://airsteam.playlivtv.workers.dev/?id=207329
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/vkrUrRdBsZonDVLUQR156qw3tNuO7AyIRRVBX5oESIvzVC001lJ1n1XrhM9XlNbO-k0f=w240-h480-rw" ,Royal TV
+https://airsteam.playlivtv.workers.dev/?id=207340
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,KARTHI TV
+https://airsteam.playlivtv.workers.dev/?id=207342
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://nammaoorutv.com/dashboard/upicons/iworldtv 2_00416.png" ,Iworld Kanchi TV
+https://airsteam.playlivtv.workers.dev/?id=207348
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/de36dd52e1124ce973f35dbb82d49ec2.jpg" ,7Star TV
+https://airsteam.playlivtv.workers.dev/?id=207352
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/X3jc8QfsoukIP7lRp0MNkyqzcI3waY1DDBsql46HhJxPWi3T16qbTOomwhzDjE6a_Ljq=w240-h480-rw" ,R TV
+https://airsteam.playlivtv.workers.dev/?id=207357
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" ,VDS TV
+https://airsteam.playlivtv.workers.dev/?id=207364
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/8M4FJyEL7aMbH3bIsDmyc6zaU_lO9EAhJFzRSo5mQ3LHosrpjLVgSnMuoDEr9hjkQP=w240-h480-rw" ,TTV kanchi TV
+https://airsteam.playlivtv.workers.dev/?id=207368
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" ,Visaka TV
+https://airsteam.playlivtv.workers.dev/?id=207369
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/fe6b1de7757b583320922f03a13e5409.jpg" ,CSK TV
+https://airsteam.playlivtv.workers.dev/?id=207371
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" ,KMD TV
+https://airsteam.playlivtv.workers.dev/?id=207380
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/molRWS7IdDHX34_-IXORodnxm3SbZewNLS3OuImchXUV8ZM4nPW6huF3HzX1lDG_yqE=w240-h480-rwhttps://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" ,Dharshan Kanchi TVTharani TV
+https://airsteam.playlivtv.workers.dev/?id=207382
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/112cf902a0ed72f33b3a4c3b0f2834c4.jpg" ,Tamil Star TV
+https://airsteam.playlivtv.workers.dev/?id=207384
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,DHARANI TV
+https://airsteam.playlivtv.workers.dev/?id=207392
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,G TV
+https://airsteam.playlivtv.workers.dev/?id=207395
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SRI KRISHNA TV1
+https://airsteam.playlivtv.workers.dev/?id=207404
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (13).png" ,Kanchi TV
+https://airsteam.playlivtv.workers.dev/?id=207413
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,PHOENIX 2
+https://airsteam.playlivtv.workers.dev/?id=207420
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SRV
+https://airsteam.playlivtv.workers.dev/?id=207422
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/10916ba55667846f81d6ca8c07ae0ee8.png" ,ANBU TV
+https://airsteam.playlivtv.workers.dev/?id=207427
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,UDHAYAM TV TRICHY
+https://airsteam.playlivtv.workers.dev/?id=207432
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/4053053bfe210e9dd15c4ec073717330.jpg" ,Durais TV
+https://airsteam.playlivtv.workers.dev/?id=207434
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" ,Rasi Hollywood
+https://airsteam.playlivtv.workers.dev/?id=207443
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285ehttps://images.app.goo.gl/kzU4uEFBum4JjKpZ6" ,One Hollywood HDAsritha TV
+https://airsteam.playlivtv.workers.dev/?id=207444
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/KKItaxefsreCIH1wYDjR0cKUH-SH5VodzEKi4yB4mLVrFttwANxLAekN2MNNDeveMFBT=w240-h480-rw" ,Maa TV
+https://airsteam.playlivtv.workers.dev/?id=207461
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,BAMA HD TV
+https://airsteam.playlivtv.workers.dev/?id=207465
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/RMiNiCrv0ymLmCykkA5IC05A9EsDtm5292Q634s9EKzrjgxTHdp5Li7HsmRE3dG7af=w240-h480-rw" ,Eesan TV
+https://airsteam.playlivtv.workers.dev/?id=207471
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/b4cafbb9f12177251bbd4fb2bbdc22f7.png" ,Sunstar
+https://airsteam.playlivtv.workers.dev/?id=207476
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Red Tv
+https://airsteam.playlivtv.workers.dev/?id=207486
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/bb4041f560115fb5c5a775e3e0ed6708.png" ,SAKTHI TV HD
+https://airsteam.playlivtv.workers.dev/?id=207487
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/316c91c4cd9f13c1d38c0a5fac630853.png" ,GD TV
+https://airsteam.playlivtv.workers.dev/?id=207490
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/c4c68a1d1ea4e6e1c5240863f59e60d9.png" ,NAMATHU SANGAMAM TV
+https://airsteam.playlivtv.workers.dev/?id=207503
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/8d551a0d56604bbf9aea441cb4075115.png" ,NELLAITIMES TV
+https://airsteam.playlivtv.workers.dev/?id=207506
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/569b22792651968159ec91a36067d2e6.png" ,SENTHUR TV
+https://airsteam.playlivtv.workers.dev/?id=207515
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/598f673e8804565ae213c60408b0d21d.png" ,SELFIE TV
+https://airsteam.playlivtv.workers.dev/?id=207518
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/7ccc268b5acd054fd00ea0d165a1b46d.png" ,SURIYA
+https://airsteam.playlivtv.workers.dev/?id=207519
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/24db280f07c392eac5375d8072920bf6.png" ,AKASH TV
+https://airsteam.playlivtv.workers.dev/?id=207522
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/832d856dbbb097aacf6e29275b5d8529.png" ,PCN
+https://airsteam.playlivtv.workers.dev/?id=207532
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,GEM TV
+https://airsteam.playlivtv.workers.dev/?id=207543
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Annai TV
+https://airsteam.playlivtv.workers.dev/?id=207565
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/bae377f970187849aefa470c47cf1dd8.png" ,Reach TV
+https://airsteam.playlivtv.workers.dev/?id=207568
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/240377283eae36ed32ee8e9795e92548.png" ,APS TV
+https://airsteam.playlivtv.workers.dev/?id=207571
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/favicon.ico" ,Sasi TV
+https://airsteam.playlivtv.workers.dev/?id=207580
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/b5d6ff3be0081c2b45ac728dd416ace0.png" ,Sooriyan TV
+https://airsteam.playlivtv.workers.dev/?id=207600
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" ,Deepam TV"MASS TAMIL HD TV
+https://airsteam.playlivtv.workers.dev/?id=207604
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,G TV
+https://airsteam.playlivtv.workers.dev/?id=207635
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,M MUSIC
+https://airsteam.playlivtv.workers.dev/?id=207641
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,MOON TV
+https://airsteam.playlivtv.workers.dev/?id=207656
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Durais TV
+https://airsteam.playlivtv.workers.dev/?id=207668
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Suriya TV
+https://airsteam.playlivtv.workers.dev/?id=207670
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Udayan TV
+https://airsteam.playlivtv.workers.dev/?id=207671
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Anbu TV
+https://airsteam.playlivtv.workers.dev/?id=207672
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Annai TV
+https://airsteam.playlivtv.workers.dev/?id=207675
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,MN Music
+https://airsteam.playlivtv.workers.dev/?id=207678
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,svbc
+https://airsteam.playlivtv.workers.dev/?id=207681
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/eb15452b8ea480b2ebdacb664901a86e.jpg" ,Smart TV
+https://airsteam.playlivtv.workers.dev/?id=207688
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/8fcb39cfbc1e8e04331acfcc5609dc8d.jpg" ,Aarthi TV
+https://airsteam.playlivtv.workers.dev/?id=207689
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/7070751e282254f21ee7ac627e6ea489.jpg" ,Aananda Sangamam TV
+https://airsteam.playlivtv.workers.dev/?id=207690
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/060d4a5d0fdc1a51886964b755e8feac.jpg" ,Vinayaga Music
+https://airsteam.playlivtv.workers.dev/?id=207691
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/3715d9af9b5492ce7024e7b42c25fb23.jpg" ,Vinayaga HD TV
+https://airsteam.playlivtv.workers.dev/?id=207692
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SKY TV
+https://airsteam.playlivtv.workers.dev/?id=207703
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SMCV
+https://airsteam.playlivtv.workers.dev/?id=207704
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,ABHINAYA TV
+https://airsteam.playlivtv.workers.dev/?id=207706
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SLS TV
+https://airsteam.playlivtv.workers.dev/?id=207707
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,NAMATHU SANGAMAM TV
+https://airsteam.playlivtv.workers.dev/?id=207712
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,தி நெல்லை டைம்ஸ்
+https://airsteam.playlivtv.workers.dev/?id=207715
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Sun star
+https://airsteam.playlivtv.workers.dev/?id=207717
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,அபிநயா மியூசிக்
+https://airsteam.playlivtv.workers.dev/?id=207725
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,M music
+https://airsteam.playlivtv.workers.dev/?id=207728
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SLS
+https://airsteam.playlivtv.workers.dev/?id=207730
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Shalini TV
+https://airsteam.playlivtv.workers.dev/?id=207731
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Swasthik Tv
+https://airsteam.playlivtv.workers.dev/?id=207732
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/jS4G7vxBQsLVxwZ7KC2sKzC4fg6PbdU0fg29tli57_fF6wRUA6De79VhrtJzyyZh7qw=w240-h480-rw" ,CSK TV
+https://airsteam.playlivtv.workers.dev/?id=207745
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/X3jc8QfsoukIP7lRp0MNkyqzcI3waY1DDBsql46HhJxPWi3T16qbTOomwhzDjE6a_Ljq=w240-h480-rw" ,R TV
+https://airsteam.playlivtv.workers.dev/?id=207752
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/a1dc6f3b42dd7123b9029d562d29be90.png" ,SRI KRISHNA TV1
+https://airsteam.playlivtv.workers.dev/?id=207764
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,PHOENIX 2
+https://airsteam.playlivtv.workers.dev/?id=207765
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/bb4041f560115fb5c5a775e3e0ed6708.png" ,SAKTHI TV HD
+https://airsteam.playlivtv.workers.dev/?id=207778
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/316c91c4cd9f13c1d38c0a5fac630853.png" ,GD TV
+https://airsteam.playlivtv.workers.dev/?id=207779
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/dKDBoV6rbZOtyTMK_dlGN5r4Nlytt7kOQDcFaMVmcnjDSuPpSyqyOA-dvcYsvKfVbpk=w480-h960-rw" ,JAYAAM TV
+https://airsteam.playlivtv.workers.dev/?id=207780
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/598f673e8804565ae213c60408b0d21d.png" ,SELFIE TV
+https://airsteam.playlivtv.workers.dev/?id=207787
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,SENTHIL TV
+https://airsteam.playlivtv.workers.dev/?id=207788
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/24db280f07c392eac5375d8072920bf6.png" ,AKASH TV
+https://airsteam.playlivtv.workers.dev/?id=207789
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" ,MASS TAMIL HD TV
+https://airsteam.playlivtv.workers.dev/?id=207799
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" ,Visaka TV
+https://airsteam.playlivtv.workers.dev/?id=207814
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/4e0a3802ebf17554bdaf0c28cd6682b9.jpg" ,Vinayaga Music
+https://airsteam.playlivtv.workers.dev/?id=207815
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng39Lc9lp50XhGc3zlZAryo9__95auw2qKHSFkZ_g=s88-c-k-c0x00ffffff-no-rj" ,Moon TV
+https://airsteam.playlivtv.workers.dev/?id=207816
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,Vaanavil TV
+https://airsteam.playlivtv.workers.dev/?id=207820
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" ,M TV KODAIKANALRAM TV
+https://airsteam.playlivtv.workers.dev/?id=207827
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/55a306447dd99b614e80240ffaa692e7.png" ,S cloud TV
+https://airsteam.playlivtv.workers.dev/?id=207830
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://astv.life:8080/images/832d856dbbb097aacf6e29275b5d8529.png" ,PCN
+https://airsteam.playlivtv.workers.dev/?id=207845
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Local" tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/favicon.ico" ,Sasi TV
+https://airsteam.playlivtv.workers.dev/?id=207849
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="http://astv.life:8080/images/cd2a48d84128e461e6b98a8a1f54e594.PNG" ,ASIANET MIDDLE EAST HD
+https://airsteam.playlivtv.workers.dev/?id=154329
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="http://astv.life:8080/images/3cc73a5989881acc8d4e75202ff5c0f5.PNG" ,ASIANET MOVIES
+https://airsteam.playlivtv.workers.dev/?id=154332
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="http://astv.life:8080/images/492bb7b4c479bf18a1aa5f5b04c3ec9e.PNG" ,ASIANET PLUS HD
+https://airsteam.playlivtv.workers.dev/?id=154334
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="http://astv.life:8080/images/2a35f3a8df327b1d621e7537942825db.PNG" ,STAR VISION
+https://airsteam.playlivtv.workers.dev/?id=154336
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="http://astv.life:8080/images/41abf87cf305b455c9f0e25bc4e84b8b.PNG" ,ZEE KERALAM FHD
+https://airsteam.playlivtv.workers.dev/?id=154347
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="http://astv.life:8080/images/fe9e2f0fe28c5fb6d05848dd46fe2bf4.PNG" ,ASIANET HD
+https://airsteam.playlivtv.workers.dev/?id=154358
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="http://astv.life:8080/images/a230842bce6fb9125aa37498ee392099.PNG" ,KERALA VISION
+https://airsteam.playlivtv.workers.dev/?id=154367
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,KOCHU TV*
+https://airsteam.playlivtv.workers.dev/?id=208016
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,KAUMUDY TV*
+https://airsteam.playlivtv.workers.dev/?id=208017
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,FLOWER TV*
+https://airsteam.playlivtv.workers.dev/?id=208018
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,MAZHAVIL MANORAMA*
+https://airsteam.playlivtv.workers.dev/?id=208019
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,RAJ NEWS MALAYALAM*
+https://airsteam.playlivtv.workers.dev/?id=208020
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,MANORAMA NEWS*
+https://airsteam.playlivtv.workers.dev/?id=208021
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,KAIRALI HD*
+https://airsteam.playlivtv.workers.dev/?id=208023
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,AMRITA TV*
+https://airsteam.playlivtv.workers.dev/?id=208024
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,KAIRALI NEWS*
+https://airsteam.playlivtv.workers.dev/?id=208025
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,KAIRALI WE TV*
+https://airsteam.playlivtv.workers.dev/?id=208026
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,RAJ MUSIC MALAYALAM
+https://airsteam.playlivtv.workers.dev/?id=208027
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,SURYA MUSIC*
+https://airsteam.playlivtv.workers.dev/?id=208028
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,MATHRUBHUMI*
+https://airsteam.playlivtv.workers.dev/?id=208029
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,KAPPA TV*
+https://airsteam.playlivtv.workers.dev/?id=208030
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,JEEVAN TV*
+https://airsteam.playlivtv.workers.dev/?id=208033
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,MEDIA ONE TV
+https://airsteam.playlivtv.workers.dev/?id=208035
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,NEWS18 KERALA
+https://airsteam.playlivtv.workers.dev/?id=208037
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,24 NEWS MALAYALAM
+https://airsteam.playlivtv.workers.dev/?id=208038
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,SONIC MALAYALAM*
+https://airsteam.playlivtv.workers.dev/?id=208040
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,REPORTER TV*
+https://airsteam.playlivtv.workers.dev/?id=208041
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,KITE VICTERS
+https://airsteam.playlivtv.workers.dev/?id=208042
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,REAL NEWS KARELA
+https://airsteam.playlivtv.workers.dev/?id=208043
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,SURYA COMEDY*
+https://airsteam.playlivtv.workers.dev/?id=208044
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,SURYA MOVIES*
+https://airsteam.playlivtv.workers.dev/?id=208045
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,LIVE TV KERALA
+https://airsteam.playlivtv.workers.dev/?id=208046
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1NZi9GYRhmewb9AltPCsmBmVIzq_MLDvCS0NZpYOVZJZhHz4miOV4zM&s=10" ,KANNUR VISION
+https://airsteam.playlivtv.workers.dev/?id=207242
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhiqdROL-9gZ-oGI3mZ6S5bZ7oWTdCks5shlVY3XCi9K8Qac4oLUQ3Ggi&s=10" ,MALABAR NEWS
+https://airsteam.playlivtv.workers.dev/?id=207243
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3K0zcOGSibU8_b-NACj0_bY_5fTepDJZPg&s" ,ONE TV
+https://airsteam.playlivtv.workers.dev/?id=207244
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6YwwywW0U0HAo8-lv241FMQecjWA-REc8deJXnplimctSoaYXD8J6ynl&s=10" ,REAL NEWS
+https://airsteam.playlivtv.workers.dev/?id=207245
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzknJq1IXkuCwPyrasWaA9L7B-L9fGkmUleKJFCFFl7cZI9_wgXyBt-pQ&s=10" ,KOZHIKODE VISION
+https://airsteam.playlivtv.workers.dev/?id=207246
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGnAkhPnpirtFWQ-oUEss0oYlxuxICSMl8je_-c5xWEaVgkEm1nUW_0edi&s=10" ,MAYYAZHI TV
+https://airsteam.playlivtv.workers.dev/?id=207247
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3urTJr8a9K9X-Wi9o5J4Wh-sUCa7wadFtKqAOhFzs_dIawRWZa3EDFNM&s=10" ,WAYNAD VISION
+https://airsteam.playlivtv.workers.dev/?id=207248
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lFbRwULXj0yK5Yfa0Fa3OIjepuxG-vhJBiCKaXjCN1y14=s900-c-k-c0x00ffffff-no-rj" ,NCV
+https://airsteam.playlivtv.workers.dev/?id=207249
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGp9OGix4jN03ItAW1KopkR3_XydPxmkmkVDpF18puw-Sw2qgMEziMQ0&s=10" ,VISION MEDIA
+https://airsteam.playlivtv.workers.dev/?id=207250
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejOviVZ6t9mmoB-Yc2bngUspI5XIV0NlH1V9iYglrqF8VWp0e_mOwuCM&s=10" ,KCN
+https://airsteam.playlivtv.workers.dev/?id=207251
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA48icgs0iNtbRjQKorsdXMh7OS4S_t72H4905FQwl3ohr9z5jLwpIIZo&s=10" ,SWANTHAM
+https://airsteam.playlivtv.workers.dev/?id=207252
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVzXRIQtr0gcNMXCyrVFmZgdQIW0OBRWY61VLzXNStmFJH58YwkvGxJup&s=10" ,MEDIA MALBAR
+https://airsteam.playlivtv.workers.dev/?id=207253
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96Ociy-m_N2wm_beYEoU-HMOf7a0Ng0bBynPU5H9Q9d2AUTS5CWd79u_U&s=10" ,WE ONE LIVE
+https://airsteam.playlivtv.workers.dev/?id=207254
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3vaLnjcAS1q1rpLSrZKnj4hG7X8drBxSxL3Y8CthABempWcxaRMsDD4Mj&s=10" ,INDIA LIFE TV HD
+https://airsteam.playlivtv.workers.dev/?id=207255
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBxiCr3diWg9ywlwg9ymUUezu5Nje3jyRhywir4pJR0C8NezqJXRm9f4&s=10" ,KCL HD
+https://airsteam.playlivtv.workers.dev/?id=207256
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJ3ch1-cPLxUwUSg1HLDaBEl_mNm8LUN--vVT_SPS1GEYUKcMGTkzDb1p&s=10" ,SKY MUSIC
+https://airsteam.playlivtv.workers.dev/?id=207258
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiId8zojU7nvXRY9isl5AQtHcEQheqx5GrrM63qS0AW4QprK7M5Yl8KWU&s=10" ,SAT VIEW
+https://airsteam.playlivtv.workers.dev/?id=207259
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqWDiW1SaW30Z39alAAVGTw0XD1Kz5LVP17g&s" ,ANAND TV
+https://airsteam.playlivtv.workers.dev/?id=207260
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQf830i8BpQbTZPVIknvNO58aDjV6zsqsB5NxbtR1hTo3hI1rvcg8KfdHX&s=10" ,24 NEWS
+https://airsteam.playlivtv.workers.dev/?id=207261
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmy4Gmt_3sgJvTS9j-omjFV0isTfAWTPmO55GY_HxqIPakS5LlJVMwTr0b&s=10" ,CD NEWS
+https://airsteam.playlivtv.workers.dev/?id=207262
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqnNzLTSEOK8rsy_drOaVBciUPSBZZ0iZdmGTSf8fKh9ASSJN-m9wwEfU&s=10" ,ASIANET NEWS
+https://airsteam.playlivtv.workers.dev/?id=207263
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Malayalam" ,SURYA HD*
+https://airsteam.playlivtv.workers.dev/?id=211572
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,ZEE KANNADA HD
+https://airsteam.playlivtv.workers.dev/?id=211570
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,SUVARNA PLUS*
+https://airsteam.playlivtv.workers.dev/?id=212515
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,ZEE PICCHAR HD*
+https://airsteam.playlivtv.workers.dev/?id=212514
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,CHINTU TV*
+https://airsteam.playlivtv.workers.dev/?id=211530
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,TV9 KANNADA*
+https://airsteam.playlivtv.workers.dev/?id=211531
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,NEWS18 KANNADA*
+https://airsteam.playlivtv.workers.dev/?id=211534
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,UDAYA MOVIES
+https://airsteam.playlivtv.workers.dev/?id=211535
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,ASIANET SUVARNA NEWS*
+https://airsteam.playlivtv.workers.dev/?id=211536
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,UDAYA COMEDY*
+https://airsteam.playlivtv.workers.dev/?id=211537
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,RAJ MUSIC KANNADA*
+https://airsteam.playlivtv.workers.dev/?id=211538
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,UDAYA MUSIC*
+https://airsteam.playlivtv.workers.dev/?id=211539
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,COLORS HD KANNADA*
+https://airsteam.playlivtv.workers.dev/?id=211540
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,PUBLIC MUSIC*
+https://airsteam.playlivtv.workers.dev/?id=211541
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,PUBLIC TV*
+https://airsteam.playlivtv.workers.dev/?id=211542
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,COLORS SUPER*
+https://airsteam.playlivtv.workers.dev/?id=211543
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,SRI SANKARA
+https://airsteam.playlivtv.workers.dev/?id=211544
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,UDAYA HD
+https://airsteam.playlivtv.workers.dev/?id=211545
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,REPUBLIC KANNADA*
+https://airsteam.playlivtv.workers.dev/?id=211546
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,SVBC 3*
+https://airsteam.playlivtv.workers.dev/?id=211547
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,TV 5 KANNADA*
+https://airsteam.playlivtv.workers.dev/?id=211548
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,SAMARA NEWS
+https://airsteam.playlivtv.workers.dev/?id=211549
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,AYUSH HD*
+https://airsteam.playlivtv.workers.dev/?id=211550
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,SONIC KANNADA
+https://airsteam.playlivtv.workers.dev/?id=211552
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,NICK KANNADA
+https://airsteam.playlivtv.workers.dev/?id=211553
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,AASTHA KANNADA
+https://airsteam.playlivtv.workers.dev/?id=211555
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,RAJYOGA TV KANNADA
+https://airsteam.playlivtv.workers.dev/?id=211556
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,DD 9 CHANDANA KANNADA
+https://airsteam.playlivtv.workers.dev/?id=211558
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,NEWS FRIST
+https://airsteam.playlivtv.workers.dev/?id=211559
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,EXPRESS TV
+https://airsteam.playlivtv.workers.dev/?id=211560
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,COLORS KANNADA CINEMA*
+https://airsteam.playlivtv.workers.dev/?id=211561
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,PUBLIC MOVIES*
+https://airsteam.playlivtv.workers.dev/?id=211562
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,SIRI KANNADA
+https://airsteam.playlivtv.workers.dev/?id=211563
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,NAKSHATRA DIGITAL TV
+https://airsteam.playlivtv.workers.dev/?id=211564
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,VISTARA NEWS
+https://airsteam.playlivtv.workers.dev/?id=211565
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,ZEE KANNADA NEWS*
+https://airsteam.playlivtv.workers.dev/?id=211566
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,POWER TV
+https://airsteam.playlivtv.workers.dev/?id=211567
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,BHAKTI SIRI
+https://airsteam.playlivtv.workers.dev/?id=211568
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,NKTV LIVE
+https://airsteam.playlivtv.workers.dev/?id=211569
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Kannada" ,STAR SUVARNA HD
+https://airsteam.playlivtv.workers.dev/?id=211571
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,COLORS GUJARATI SD*
+https://airsteam.playlivtv.workers.dev/?id=211573
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,CNBC BAJAR GUJRAT*
+https://airsteam.playlivtv.workers.dev/?id=211574
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,TV9 GUJARAT*
+https://airsteam.playlivtv.workers.dev/?id=211575
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,NEWS18 GUJRATI*
+https://airsteam.playlivtv.workers.dev/?id=211576
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,ABP ASMITA*
+https://airsteam.playlivtv.workers.dev/?id=211577
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,VTV GUJRATI*
+https://airsteam.playlivtv.workers.dev/?id=211578
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,GS TV
+https://airsteam.playlivtv.workers.dev/?id=211579
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,DD GIRNAR
+https://airsteam.playlivtv.workers.dev/?id=211580
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,SANDESH NEWS*
+https://airsteam.playlivtv.workers.dev/?id=211581
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,LAKSHAY TV
+https://airsteam.playlivtv.workers.dev/?id=211582
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,ZEE 24 KALAK*
+https://airsteam.playlivtv.workers.dev/?id=211583
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,MANTAVYA NEWS*
+https://airsteam.playlivtv.workers.dev/?id=211584
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,KARTAVYA TV
+https://airsteam.playlivtv.workers.dev/?id=211585
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,VALAM TV
+https://airsteam.playlivtv.workers.dev/?id=211586
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,DIGISHALA
+https://airsteam.playlivtv.workers.dev/?id=211587
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,AASTHA GUJARATI*
+https://airsteam.playlivtv.workers.dev/?id=211588
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,COLORS GUJRATI CINEMA*
+https://airsteam.playlivtv.workers.dev/?id=211589
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,SIKSHA TV
+https://airsteam.playlivtv.workers.dev/?id=211590
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,DIVYANG NEWS
+https://airsteam.playlivtv.workers.dev/?id=211591
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,INDIA NEWS GUJRATI*
+https://airsteam.playlivtv.workers.dev/?id=211592
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,BULERIN INDIA
+https://airsteam.playlivtv.workers.dev/?id=211593
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,DATA BHAGWAN FOUNDATION GUJRATI
+https://airsteam.playlivtv.workers.dev/?id=211594
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,VR LIVE
+https://airsteam.playlivtv.workers.dev/?id=211595
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,GUJRAT 1st 24X7
+https://airsteam.playlivtv.workers.dev/?id=211596
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,AADINATH TV
+https://airsteam.playlivtv.workers.dev/?id=211597
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,BS9 NEWS
+https://airsteam.playlivtv.workers.dev/?id=211598
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,SADVIDYA TV
+https://airsteam.playlivtv.workers.dev/?id=211599
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,HEADLINE NEWS
+https://airsteam.playlivtv.workers.dev/?id=211600
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,SADHANA GOLD
+https://airsteam.playlivtv.workers.dev/?id=211601
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,JANADESH NEWS
+https://airsteam.playlivtv.workers.dev/?id=211602
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,KALYAN TV
+https://airsteam.playlivtv.workers.dev/?id=211603
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,NEWS CAPITAL GUJRAT
+https://airsteam.playlivtv.workers.dev/?id=211604
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,GARVI GUJARAT
+https://airsteam.playlivtv.workers.dev/?id=211605
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,NAVSARJAN SANSKRUTI GUJRATI
+https://airsteam.playlivtv.workers.dev/?id=211606
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Gujarati" ,KATHAAMRUT TV
+https://airsteam.playlivtv.workers.dev/?id=211607
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfFAurQmwl31GlPT3SZVPfw4vNPUmZGHrpgRZsHq-od6meGS0qup0LR8&s=10" ,ABP MAJHA
+https://airsteam.playlivtv.workers.dev/?id=147154
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVaInAxjodSYi5CZ66hcuYW6H9icG0aUrjQ&usqp=CAU" ,COLORS MARATHI SD
+https://airsteam.playlivtv.workers.dev/?id=147156
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbmNoqNASIpCJWt5C-iBOA5sHzO8lIni8YPQ&usqp=CAU" ,COLORS MARATHI HD
+https://airsteam.playlivtv.workers.dev/?id=147157
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwG22jxWcLxzZRYd5GYHAYQrpJS4nrCIPfYg&s" ,STAR PRAVAH HD
+https://airsteam.playlivtv.workers.dev/?id=147159
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFdE9oApG3jttHoxd-WmSIj_LxpUXCi9kdQ&s" ,ZEE MARATHI HD
+https://airsteam.playlivtv.workers.dev/?id=147161
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKqNJnI6li65Dzdfr2OkXXkYFYXUkgOR6xyg&s" ,ZEE TALKIES HD
+https://airsteam.playlivtv.workers.dev/?id=147163
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoKCFHM670cXGGBqL0CwN-CtJ3j_uvlLFf7WF1OTY0Jj6n3NrlhaEBaQ&s=10" ,ZEE YUVA
+https://airsteam.playlivtv.workers.dev/?id=147164
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcw700WwXj60Do51vLvqajIdeLKNu04EpIpqzRcWJThOiW6UWmHBaVUySf&s=10" ,SONY MARATHI HD
+https://airsteam.playlivtv.workers.dev/?id=147166
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7CORZtTqPQCioCKtKYvOEJe84xMkqs9wtPg&s" ,LOKSHAHI NEWS
+https://airsteam.playlivtv.workers.dev/?id=147167
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3kStVJ1htE8iTf_RjRleMsWL2b0rsR-hi5w&usqp=CAU" ,NEWS18 LOKMAT*
+https://airsteam.playlivtv.workers.dev/?id=147168
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" ,SHEEMAROO MARATHI*
+https://airsteam.playlivtv.workers.dev/?id=147169
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosaFbzYNXC_Bq5xHTGyqJbDScwo4wRqq6NO9TWrZ73LI7WKHuFdLzok2b&s=10" ,SUN MARATHI
+https://airsteam.playlivtv.workers.dev/?id=147170
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdXTnlBLGFX-zNcSJqnePGZ3HuyXp5uapL_iYM-tIP-SQQJO4qtUnZNoNW&s=10" ,9X JHAKAAS
+https://airsteam.playlivtv.workers.dev/?id=147171
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9X27jKRM1plgJ4XmqXbTLAbqQ5C10eiM8A&s" ,DD SAHYADRI
+https://airsteam.playlivtv.workers.dev/?id=147172
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHgtYvWhay98J-TJt3lqUX1Bs9WlQOXqu6sfkO9VBAVzycG_bwQuMryEo9&s=10" ,FAKT MARATHI*
+https://airsteam.playlivtv.workers.dev/?id=147173
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOs4l_KJkEPFLy851IVxo2JjuGZ8pdirYT4A&usqp=CAU" ,SONIC MARATHI*
+https://airsteam.playlivtv.workers.dev/?id=147179
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ThOhT061JqE7IcKe7Wz1aNXbaF-28sitLAuin-l_GzVnidoOqcC8gEM&s=10" ,SANGEET MARATHI*
+https://airsteam.playlivtv.workers.dev/?id=147182
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://yt3.googleusercontent.com/6sAsc_Al0VOPwmG5ho1zFlIakY_6eCMJUzRrz88UYQZzZTJ1UePU5CUOvFFrhZf62WmrKLAIbw4=s900-c-k-c0x00ffffff-no-rj" ,TV9 MARATHI
+https://airsteam.playlivtv.workers.dev/?id=147183
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOarJFGhYXBIXh_RUr8x44At0TrCn7Pb86Kg&s" ,ZEE 24 TAAS
+https://airsteam.playlivtv.workers.dev/?id=147184
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" ,JAI MAHARASHTRA
+https://airsteam.playlivtv.workers.dev/?id=219532
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" ,LOK MANCH MARATHI
+https://airsteam.playlivtv.workers.dev/?id=208262
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" ,STAR PRAVAH PICTURE
+https://airsteam.playlivtv.workers.dev/?id=219538
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://yt3.googleusercontent.com/LFzFnGJrBtSDTmnM1Acz5OjuNO9p8_tKIpPRLFWyPKxTVrHSjhHVGz1zQ4JiGYP7f29HsCTvVw=s900-c-k-c0x00ffffff-no-rj" ,SAAM TV*
+https://airsteam.playlivtv.workers.dev/?id=208194
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPh7Wg06Gg-juZY5uRMGMkRxEZSeZuGVZrmCvWxr-Ft-K50YZ9PoLNuDOa&s=10" ,RANGMANCH
+https://airsteam.playlivtv.workers.dev/?id=208263
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNarsKhNkjBqTm320mXnefhmgEJ-03K_ccl3BtQBrtYGzpgpGvKRLpC7J&s=10" ,SUGRAN
+https://airsteam.playlivtv.workers.dev/?id=208264
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyyYw0q0y50OIiHPFw3vR1bAWqBBj-4uzPA&s" ,NICK MARATHI
+https://airsteam.playlivtv.workers.dev/?id=208265
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://yt3.googleusercontent.com/dMhubIjfIvK7eBZBpcUce2JG1_ppNdpDwZ9VMS69nOap_7ClGM69D-qTV23rKWbrj32gl9Pq=s900-c-k-c0x00ffffff-no-rj" ,TOP NEWS MARATHI
+https://airsteam.playlivtv.workers.dev/?id=208266
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s900-c-k-c0x00ffffff-no-rj" ,PUDHARI NEWS
+https://airsteam.playlivtv.workers.dev/?id=208267
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title=" Marathi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfcAbXsAvabmJowMCwa_wPacMUqha6JFfucGDyeN67SJtVZITs43EbVH7&s=10" ,NDTV MARATHI
+https://airsteam.playlivtv.workers.dev/?id=208268
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,24 GHANTA TV*
+https://airsteam.playlivtv.workers.dev/?id=211609
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,DISCOVERY BANGLA
+https://airsteam.playlivtv.workers.dev/?id=211610
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,ABP ANANDA*
+https://airsteam.playlivtv.workers.dev/?id=211611
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,NEWS TIME TV
+https://airsteam.playlivtv.workers.dev/?id=211612
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,DD BANGLA
+https://airsteam.playlivtv.workers.dev/?id=211613
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,AAKASH AATH*
+https://airsteam.playlivtv.workers.dev/?id=211614
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,NEWS18 BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=211615
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,SANGEET BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=211616
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,R PLUS
+https://airsteam.playlivtv.workers.dev/?id=211617
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,CTVN AKD PLUS
+https://airsteam.playlivtv.workers.dev/?id=211618
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,CALCUTTA NEWS*
+https://airsteam.playlivtv.workers.dev/?id=211619
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,KOLKATA TV
+https://airsteam.playlivtv.workers.dev/?id=211620
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,SONIC BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=211621
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,SONIC BANGLA
+https://airsteam.playlivtv.workers.dev/?id=211622
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,COLORS BANGLA SD
+https://airsteam.playlivtv.workers.dev/?id=211623
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,BHOOMI 24X7
+https://airsteam.playlivtv.workers.dev/?id=211624
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,SRISTI TV
+https://airsteam.playlivtv.workers.dev/?id=211625
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,COLORS BANGLA HD*
+https://airsteam.playlivtv.workers.dev/?id=211626
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,BANGLA BHAKTI
+https://airsteam.playlivtv.workers.dev/?id=211627
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,TARA TV
+https://airsteam.playlivtv.workers.dev/?id=211628
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,COLORS BANGLA CINEMA
+https://airsteam.playlivtv.workers.dev/?id=211629
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,RONGEEN TV
+https://airsteam.playlivtv.workers.dev/?id=211630
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,SUN BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=211631
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,SKY 12
+https://airsteam.playlivtv.workers.dev/?id=211632
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,24HRS TV
+https://airsteam.playlivtv.workers.dev/?id=211633
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,TV9 BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=211634
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,PURNIMA TV
+https://airsteam.playlivtv.workers.dev/?id=211635
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,CHANNEL VISION
+https://airsteam.playlivtv.workers.dev/?id=211636
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,EXPRESS NEWS
+https://airsteam.playlivtv.workers.dev/?id=211637
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,ANANDA BARTA
+https://airsteam.playlivtv.workers.dev/?id=211638
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,TRIBE TV
+https://airsteam.playlivtv.workers.dev/?id=211639
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,AMAR BANGLA TV
+https://airsteam.playlivtv.workers.dev/?id=211640
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,RAATDIN NEWS
+https://airsteam.playlivtv.workers.dev/?id=211641
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,U BANGLA
+https://airsteam.playlivtv.workers.dev/?id=211642
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,GLOBE TV*
+https://airsteam.playlivtv.workers.dev/?id=211643
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,SAMAY KOLKATA
+https://airsteam.playlivtv.workers.dev/?id=211644
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,FRIENDS TV
+https://airsteam.playlivtv.workers.dev/?id=211645
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,R BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=211646
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,BOOGLE BANGLA
+https://airsteam.playlivtv.workers.dev/?id=211647
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,BHI CHANNEL
+https://airsteam.playlivtv.workers.dev/?id=211648
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,NK TV BANGLA
+https://airsteam.playlivtv.workers.dev/?id=211649
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,RUPASHI BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=211650
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,DHOOM MUSIC BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=211651
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,MAYA TV
+https://airsteam.playlivtv.workers.dev/?id=211652
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,BANGLA JAGO
+https://airsteam.playlivtv.workers.dev/?id=211653
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,STAR JALSHA MOVIES HD
+https://airsteam.playlivtv.workers.dev/?id=211654
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,STAR JALSHA HD
+https://airsteam.playlivtv.workers.dev/?id=211655
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,ZEE BANGLA HD
+https://airsteam.playlivtv.workers.dev/?id=211656
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,ZEE CINEMA BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=212516
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,KHUSBOO TV*
+https://airsteam.playlivtv.workers.dev/?id=212519
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,ENTER 10 BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=212521
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,ETV NEWS BANGLA*
+https://airsteam.playlivtv.workers.dev/?id=212522
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Bangla" ,BANGLA TV
+https://airsteam.playlivtv.workers.dev/?id=212524
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/e3b2761451c7bdeec7b43ad4ce9eac76.jpg" ,NEWSLIVE
+https://airsteam.playlivtv.workers.dev/?id=208569
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/010bbb5b87e113f7c96d4ed2c442d3d8.png" ,RANG
+https://airsteam.playlivtv.workers.dev/?id=208570
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/37c919f653c41ba88feb5349ecec084d.png" ,PRAG NEWS
+https://airsteam.playlivtv.workers.dev/?id=208571
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/c479f30b645f2a3b1191e227b35d09d4.png" ,NEWS18 ASSAM
+https://airsteam.playlivtv.workers.dev/?id=208572
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/500677ba7ecffba9073ebbc8cd23dd2d.png" ,DY 364
+https://airsteam.playlivtv.workers.dev/?id=208573
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/d1149e33069dd27c15c2ec307ee0d32c.png" ,RENGONI
+https://airsteam.playlivtv.workers.dev/?id=208574
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/d1a749f664a3e7e5c1c3b57816e01b3e.png" ,NORTH EAST LIVE
+https://airsteam.playlivtv.workers.dev/?id=208575
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/1149ee4691750f745b427f179e2dede2.png" ,RAMDHENU
+https://airsteam.playlivtv.workers.dev/?id=208576
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/3418842eaffd071038cc8f16c7c49698.png" ,PRATIDIN TIME
+https://airsteam.playlivtv.workers.dev/?id=208577
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/8e43ccc8b271290a36ff8dffdb51182e.png" ,ASSAM TALKS
+https://airsteam.playlivtv.workers.dev/?id=208578
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/7240a6aa94968655b0ef5e8c673dd016.png" ,DD13 GUWAHATI
+https://airsteam.playlivtv.workers.dev/?id=208579
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/45931651892373ec5ccd5dfe20b02d75.png" ,JONACK
+https://airsteam.playlivtv.workers.dev/?id=208580
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/d86e8dc361b2435a60ac8dc364b1759a.png" ,INDRADHANU
+https://airsteam.playlivtv.workers.dev/?id=208581
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/a5186dedbe48485f4bb3fe53e52db03d.png" ,GYAN BARIKSHA
+https://airsteam.playlivtv.workers.dev/?id=208582
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/cd0d81619d0cd7e0c90ae16a7355e8aa.png" ,TIME8
+https://airsteam.playlivtv.workers.dev/?id=208583
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/55356665e5c7e2ea8fe67a40ebe51e53.png" ,ND 24
+https://airsteam.playlivtv.workers.dev/?id=208584
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/8b515960a3b402d72d62829bdc78acbd.png" ,NK TV PLUS
+https://airsteam.playlivtv.workers.dev/?id=208585
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/842beb8e4f3a7bdc14831d3c131b5133.png" ,PRATHAM KHABAR 24X7
+https://airsteam.playlivtv.workers.dev/?id=208586
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/fac0ef7e91d24fbb2bc358001dd5eab5.png" ,NB NEWS
+https://airsteam.playlivtv.workers.dev/?id=208587
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/125aa269ce23e40d4c31af7943e6c74a.png" ,SPONDON
+https://airsteam.playlivtv.workers.dev/?id=208588
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/fbe4954e918750c0fd55727253b1d604.png" ,DD NORTH EAST
+https://airsteam.playlivtv.workers.dev/?id=208589
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Asaam" tvg-logo="http://astv.life:8080/images/f9f0adc9c4cc0aadd1590112f95c6d7f.png" ,CURRENT TREND AASAM
+https://airsteam.playlivtv.workers.dev/?id=208590
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/b762cbafc94dacc09405573c1c7456de.png" ,*** WellCome ***
+https://airsteam.playlivtv.workers.dev/?id=147317
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/aaf551845fb3a8a3e28b98f06edad137.png" ,IN-ODIA | KALINGA TV
+https://airsteam.playlivtv.workers.dev/?id=147318
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/b767e23664ea922a9891a2387b3981d8.png" ,IN-ODIA | COLORS HD
+https://airsteam.playlivtv.workers.dev/?id=147319
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" ,IN-ODIA | Sidharth Gold
+https://airsteam.playlivtv.workers.dev/?id=147320
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/cfa868641e90c50fdc7c039dd045bf64.png" ,IN-ODIA | ZEE SARTHAK TV
+https://airsteam.playlivtv.workers.dev/?id=147321
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" ,IN-ODIA | MBC
+https://airsteam.playlivtv.workers.dev/?id=147322
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/2053c2b13819d256672aa7b74ca513e4.png" ,IN-ODIA | ALANKAR TV
+https://airsteam.playlivtv.workers.dev/?id=147323
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/b242cbdc67fd4837877210442d6c1490.png" ,IN-ODIA | ARGUS NEWS
+https://airsteam.playlivtv.workers.dev/?id=147324
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" ,IN-ODIA | Prameya News 7
+https://airsteam.playlivtv.workers.dev/?id=147325
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/274531c408b2c2ddb4d86a5eef6229d6.png" ,IN-ODIA | DD ODIA
+https://airsteam.playlivtv.workers.dev/?id=147326
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/2ca9f6cceffeca1696a3d50295507a4a.png" ,IN-ODIA | KANAK NEWS
+https://airsteam.playlivtv.workers.dev/?id=147327
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/c843e9d2ccb4f5b167ac515e53128ad7.png" ,IN-ODIA | NANDIGHOSHA TV
+https://airsteam.playlivtv.workers.dev/?id=147328
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/351c31c28dc2781a74f69b347249e97f.png" ,IN-ODIA | NEWS 18 ODIA
+https://airsteam.playlivtv.workers.dev/?id=147329
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/ce8d1b7695a5d66d8895dac72dc5cda3.png" ,IN-ODIA | SIDHARTH TV
+https://airsteam.playlivtv.workers.dev/?id=147330
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/b38242791e6d3664a464369d3490ba28.png" ,IN-ODIA | TARANG MUSIC
+https://airsteam.playlivtv.workers.dev/?id=147331
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" tvg-logo="http://astv.life:8080/images/4d90d072547e8c3ceede5696f122a800.png" ,IN-ODIA | TARANG TV
+https://airsteam.playlivtv.workers.dev/?id=147332
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" ,IN-ODIA | Sidharth Bhakti   ( Spiritual )
+https://airsteam.playlivtv.workers.dev/?id=147333
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" ,IN-ODIA | Naxatra News
+https://airsteam.playlivtv.workers.dev/?id=147334
+#EXTINF:-1 ="Dummy" group-logo="https://i.imghippo.com/files/gz4Fk1727854457.jpg" group-title="Oriya" ,IN-ODIA | Badakhabar
+https://airsteam.playlivtv.workers.dev/?id=147335`
+
+module.exports = {
+    tpnew
+}
